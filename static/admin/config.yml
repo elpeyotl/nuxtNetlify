@@ -23,7 +23,7 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Image', name: 'thumbnail', widget: 'image' }
-      - { label: 'Albums', name: 'albums', widget: 'relation', collection: "albums", value_field: "{{slug}}"}
+      - { label: 'Albums', name: 'albums', widget: 'relation', collection: "albums", value_field: '{{slug}}'}
   - name: 'albums'
     label: 'Albums'
     folder: 'content/albums'
