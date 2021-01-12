@@ -2,6 +2,7 @@
   <div>
     <h2>{{ post.title }}</h2>
     <nuxt-content :document="post" />
+    <img :src="post.thumbnail" />
   </div>
 </template>
 
