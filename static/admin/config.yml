@@ -6,6 +6,7 @@ media_folder: static/img
 public_folder: /img
 
 publish_mode: editorial_workflow
+show_preview_links: true
 
 collections:
   - name: 'blog'
@@ -15,6 +16,7 @@ collections:
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     preview_path: /{{slug}}
+
     editor:
       preview: false
     fields:
