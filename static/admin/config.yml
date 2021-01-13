@@ -34,7 +34,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Artist', name: 'artist', widget: 'relation', collection: "artists", search_fields: ['name'], value_field: 'name',}
+      - { label: 'Artist', name: 'artist', widget: 'relation', collection: "artists", search_fields: ['name'], value_field: 'name', display_fields: [{{name}}]}
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
