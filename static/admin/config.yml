@@ -14,7 +14,7 @@ collections:
     format: 'frontmatter'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    preview_path: /{{slug}}
+    preview_path: /blog/{{slug}}
     editor:
       preview: false
     fields:
@@ -30,12 +30,27 @@ collections:
     format: 'frontmatter'
     create: true
     slug: '{{slug}}'
-    preview_path: /{{slug}}
+    preview_path: /albums/{{slug}}
+    editor:
+      preview: false
+    fields:
+      - { label: 'Artist', name: 'artist', widget: 'relation', collection: "artists", search_fields: ['name'], value_field: 'name',}
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Image', name: 'thumbnail', widget: 'image' }
+  - name: 'artists'
+    label: 'Artists'
+    folder: 'content/artists'
+    format: 'frontmatter'
+    create: true
+    slug: '{{slug}}'
+    preview_path: /artists/{{slug}}
     editor:
       preview: false
     fields:
       - { label: 'Artist', name: 'artist', widget: 'string' }
-      - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
