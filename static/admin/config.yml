@@ -29,7 +29,7 @@ collections:
     folder: 'content/albums'
     format: 'frontmatter'
     create: true
-    slug: '{{slug}}'
+    slug: '{{title}}'
     preview_path: /albums/{{slug}}
     editor:
       preview: false
