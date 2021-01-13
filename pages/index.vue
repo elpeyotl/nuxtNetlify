@@ -1,8 +1,46 @@
 <template>
   <div>
-    <li v-for="post of posts" :key="post.slug">
-      <NuxtLink :to="post.slug">{{ post.title }}</NuxtLink>
-    </li>
+    <h3 class="text-2xl font-semibold mt-8 mb-4">News</h3>
+    <div v-for="post of posts" :key="post.slug">
+      <NuxtLink
+        :to="`blog/${post.slug}`"
+        class="bg-red-300 inline-block p-4 rounded-md shadow-md hover:bg-red-500 transition-colors duration-500 ease-in-out"
+      >
+        {{ post.title }}
+      </NuxtLink>
+    </div>
+
+    <h3 class="text-2xl font-semibold mt-8 mb-4">Artists</h3>
+    <div v-for="artist of artists" :key="artist.slug">
+      <NuxtLink
+        :to="`artists/${artist.slug}`"
+        class="bg-red-300 inline-block p-4 rounded-md shadow-md hover:bg-red-500 transition-colors duration-500 ease-in-out my-2"
+      >
+        <h2 class="text-2xl">{{ artist.artist }}</h2>
+      </NuxtLink>
+    </div>
+
+    <h3 class="text-2xl font-semibold mt-8 mb-4">Releases</h3>
+    <div v-for="album of albums" :key="album.slug">
+      <NuxtLink
+        :to="`albums/${album.slug}`"
+        class="bg-red-300 inline-block p-4 rounded-md shadow-md hover:bg-red-500 transition-colors duration-500 ease-in-out my-2"
+      >
+        <h3 class="text-2xl">{{ album.artist }}</h3>
+        {{ album.title }}
+      </NuxtLink>
+    </div>
+
+    <h3 class="text-2xl font-semibold mt-8 mb-4">Photography</h3>
+    <div v-for="album of albums" :key="album.slug">
+      <NuxtLink
+        :to="`albums/${album.slug}`"
+        class="bg-red-300 inline-block p-4 rounded-md shadow-md hover:bg-red-500 transition-colors duration-500 ease-in-out my-2"
+      >
+        <h3 class="text-2xl">{{ album.artist }}</h3>
+        {{ album.title }}
+      </NuxtLink>
+    </div>
   </div>
 </template>
 
@@ -10,9 +48,13 @@
 export default {
   async asyncData({ $content }) {
     const posts = await $content('blog').fetch()
+    const albums = await $content('albums').fetch()
+    const artists = await $content('artists').fetch()
 
     return {
       posts,
+      albums,
+      artists,
     }
   },
   head() {
@@ -31,6 +73,12 @@ export default {
 @apply min-h-screen flex justify-center items-center text-center mx-auto;
 }
 */
+
+.yl-image {
+  max-width: 800px;
+  height: auto;
+}
+
 .container {
   margin: 0 auto;
   min-height: 100vh;
