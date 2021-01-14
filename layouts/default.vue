@@ -1,55 +1,40 @@
 <template>
-  <div class="bg-teal-500 h-screen p-16">
-    <Nuxt />
+  <div
+    class="bg-center bg-cover bg-fixed bg-no-repeat bg-image"
+    :style="{
+      backgroundImage: 'url(' + require('@/assets/bg-yellinglight.jpg') + ')',
+    }"
+  >
+    <div class="bg-gray-800 h-full w-full bg-opacity-75">
+      <div class="mx-auto max-w-6xl bg-gray-400 bg-opacity-75 shadow-lg">
+        <header
+          class="bg-black h-32 text-white flex justify-center items-center"
+        >
+          The yelling light
+        </header>
+        <Nuxt class="p-8" />
+      </div>
+
+      />
+    </div>
   </div>
 </template>
 
 <style>
-html {
-  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-    Roboto, 'Helvetica Neue', Arial, sans-serif;
-  font-size: 16px;
-  word-spacing: 1px;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  box-sizing: border-box;
+.bg-image {
+  animation: imagebulger 20s ease-in-out infinite;
 }
+@keyframes imagebulger {
+  0% {
+    background-size: 150% auto;
+  }
 
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-  margin: 0;
-}
+  50% {
+    background-size: 100% auto;
+  }
 
-.button--green {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #3b8070;
-  color: #3b8070;
-  text-decoration: none;
-  padding: 10px 30px;
-}
-
-.button--green:hover {
-  color: #fff;
-  background-color: #3b8070;
-}
-
-.button--grey {
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #35495e;
-  color: #35495e;
-  text-decoration: none;
-  padding: 10px 30px;
-  margin-left: 15px;
-}
-
-.button--grey:hover {
-  color: #fff;
-  background-color: #35495e;
+  100% {
+    background-size: 150% auto;
+  }
 }
 </style>
