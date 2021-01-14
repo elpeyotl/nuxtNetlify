@@ -22,7 +22,7 @@
 
 <style>
 .bg-image {
-  animation: imagebulger 20s ease-in-out infinite;
+  animation: imagebulger 40s ease-in-out infinite;
 }
 @keyframes imagebulger {
   0% {
