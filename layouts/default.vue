@@ -8,7 +8,7 @@
     <div class="bg-gray-800 h-full w-full bg-opacity-75">
       <div class="mx-auto max-w-6xl bg-gray-400 bg-opacity-75 shadow-lg">
         <Header />
-        <Nuxt class="p-4 lg:p-16" />
+        <Nuxt class="p-4 lg:p-16 min-h-screen" />
         <Footer />
       </div>
 
