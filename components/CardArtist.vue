@@ -19,6 +19,7 @@
 
 <script>
 export default {
+  name: 'CardArtist',
   props: {
     content: {
       type: Object,
@@ -37,7 +38,7 @@ export default {
 }
 
 .card:hover {
-  background-size: 120%;
+  background-size: 110%;
 }
 
 .card:hover .card__overlay {

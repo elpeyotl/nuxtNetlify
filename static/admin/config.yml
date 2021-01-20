@@ -5,8 +5,6 @@ backend:
 media_folder: static/img
 public_folder: /img
 
-publish_mode: editorial_workflow
-
 collections:
   - name: 'blog'
     label: 'Blog'
@@ -23,7 +21,16 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Image', name: 'thumbnail', widget: 'image' }
-      - { label: 'Albums', name: 'albums', widget: 'relation', collection: "albums", required: false, search_fields: ['artist', 'title'], value_field: '{{slug}}', multiple: true}
+      - {
+          label: 'Albums',
+          name: 'albums',
+          widget: 'relation',
+          collection: 'albums',
+          required: false,
+          search_fields: ['artist', 'title'],
+          value_field: '{{slug}}',
+          multiple: true,
+        }
   - name: 'albums'
     label: 'Albums'
     folder: 'content/albums'
@@ -34,7 +41,15 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Artist', name: 'artist', widget: 'relation', collection: "artists", search_fields: ['artist'], value_field: 'artist', display_fields: ['{{artist}}']}
+      - {
+          label: 'Artist',
+          name: 'artist',
+          widget: 'relation',
+          collection: 'artists',
+          search_fields: ['artist'],
+          value_field: 'artist',
+          display_fields: ['{{artist}}'],
+        }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
