@@ -69,4 +69,5 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Image', name: 'thumbnail', widget: 'image' }
+      - { label: 'Thubmnail', name: 'thumbnail', widget: 'image' }
+      - { label: 'HeaderImage', name: 'headerImage', widget: 'image' }

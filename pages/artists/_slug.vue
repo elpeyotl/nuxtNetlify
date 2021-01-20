@@ -1,9 +1,19 @@
 <template>
   <div>
-    <h2 class="text-2xl font-semibold mt-8">{{ artist.artist }}</h2>
-    <h3 class="text-lg font-semibold">{{ artist.description }}</h3>
+    <div
+      class="w-full h-64 bg-cover"
+      :style="{ backgroundImage: 'url(' + artist.headerImage + ')' }"
+    ></div>
+
+    <div class="flex">
+      <div class="w-1/2">
+        <h2 class="text-2xl font-semibold">{{ artist.artist }}</h2>
+        <p class="text-lg font-light">{{ artist.description }}</p>
+      </div>
+      <div class="w-1/2"><img :src="artist.thumbnail" /></div>
+    </div>
+
     <nuxt-content :document="artist" />
-    <img class="mt-4" :src="artist.thumbnail" />
   </div>
 </template>
 
