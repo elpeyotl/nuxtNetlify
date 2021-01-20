@@ -14,6 +14,7 @@
 <script>
 import CardArtist from '../../components/CardArtist.vue'
 export default {
+  name: 'Artists',
   components: { CardArtist },
   async asyncData({ $content, params, error }) {
     let artists
