@@ -1,6 +1,7 @@
 <template>
   <div>
     <div
+      v-if="artist.headerImage"
       class="w-full shadow-xl h-56 bg-cover mb-16"
       :style="{ backgroundImage: 'url(' + artist.headerImage + ')' }"
     ></div>
