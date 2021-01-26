@@ -20,7 +20,7 @@ The Sunwashed Avenues was formed in 2004, with the intention to become a punk ba
 \
 <center><iframe src="https://open.spotify.com/embed/album/4IW0PWI7B8eAheKkvW0qQU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><center>\
 
-Line-up Cult of the Black Sun:\
+**Line-up Cult of the Black Sun:**\
 John Lui (Vocals)\
 Francesco Romano (Guitar)\
 Al Fombra (Bass)\
@@ -30,4 +30,15 @@ Percussion on track 1979 by Makatumbo Stern & Chitammuerte Schmied
 Recorded, mixed & mastered on March 2010 @ Cultrock Studios by Abele Franzé.\
 Design & Artwork by Mario Burgener.\
 \
-<center><iframe src="https://open.spotify.com/embed/album/3AD6ongmO3BoI7sruBkSnn" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><center>
+<center><iframe src="https://open.spotify.com/embed/album/3AD6ongmO3BoI7sruBkSnn" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><center>\
+\
+Lt- Columbo (Vocals)\
+Gul Romanov (Guitars)\
+Imno T-fuc Kingjam Esbon (Bass)\
+Rembrandt Ludovico (Drums)\
+\
+Recorded by Kilian Roth Beatlounge studios Winterthur, Switzerland\
+Mixed by Abele Franzé Cultrock studios Romanshorn, Switzerland\
+Mastered by Alan Douches West West Side Music Studios NY, USA\
+Coverartwork: Mike Meier / spacehamster.deviantart.com\
+Inlay & Layout: Mario Burgener
