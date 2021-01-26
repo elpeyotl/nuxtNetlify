@@ -9,10 +9,10 @@ The Sunwashed Avenues was formed in 2004, with the intention to become a punk ba
 
 Dicography:\
 2015: Lama King (digial) - (self-released)\
-2012: Blue Dolphin (Vinyl, digital) - (self-released/The yelling light)
-2010: Cult of the Black Sun (CD) - (Dirty & Weird Music/The yelling light)
-2009: self titled (CD) - (self-released/The yelling light)
-
+2012: Blue Dolphin (Vinyl, digital) - (self-released/The yelling light)\
+2010: Cult of the Black Sun (CD) - (Dirty & Weird Music/The yelling light)\
+2009: self titled (CD) - (self-released/The yelling light)\
+\
 <iframe src="https://open.spotify.com/embed/album/1vNhkwIeWI2tRqDNPuJ8DS" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>\
 \
 <iframe src="https://open.spotify.com/embed/album/4IW0PWI7B8eAheKkvW0qQU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>\
