@@ -15,9 +15,9 @@ The Sunwashed Avenues was formed in 2004, with the intention to become a punk ba
 2009: self titled (CD) - (self-released/The yelling light)\
 \
 <center><iframe src="https://open.spotify.com/embed/album/1vNhkwIeWI2tRqDNPuJ8DS" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><center>
-\
+
 <center><iframe src="https://open.spotify.com/embed/album/4IW0PWI7B8eAheKkvW0qQU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><center>
-\
+
 <center><iframe src="https://open.spotify.com/embed/album/3AD6ongmO3BoI7sruBkSnn" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><center>
-\
+
 <center><iframe src="https://open.spotify.com/embed/album/0Fn4ZFFj2kgzKEvZKG29qQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><center>
