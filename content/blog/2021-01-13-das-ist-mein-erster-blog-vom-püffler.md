@@ -1,12 +1,9 @@
 ---
-title: Das ist mein erster blog vom püffler
+title: Welcome to my new website
 date: 2021-01-13T20:55:22.007Z
-description: "jo first post coming here! "
+description: The yelling light is growing
 thumbnail: /img/0.png
 ---
-Testing the messagesmdlflödasölfka
-ljsdlfjadsf
-lasjdflkajsdf
-lksjdfklajsdf
-lasdjfkladsjf
-lkasdjflksdaf
+There's a lot going on at The yelling light.
+
+Chris, Leylah & Sarah and joined The yelling light. The goal is, to bring underground music to dreamy music lovers.
