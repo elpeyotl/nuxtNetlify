@@ -17,6 +17,6 @@ Stay tuned and join our pace: We are Datzun Daze!\
 Stockholm Syndrome\
 was written in 2020 by Nathanael Neuhaus, composed by Nathanael Neuhaus, Elia Schneider, Jordi Pürro, Marius Gruber, Maurin Pürro. Recorded in 2021 by Pascal Lüthi, Schüpbach.\
 \
-Become a patreon of Datzun Daze: https://www.patreon.com/Datzundaze
+[Become a patreon of Datzun Daze.](https://www.patreon.com/Datzundaze)
 
 <!--EndFragment-->
