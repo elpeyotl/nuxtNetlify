@@ -4,6 +4,8 @@ date: 2021-01-13T21:37:23.864Z
 description: YOU DON’T JUST WATCH THE MAGIC – MAGIC WILL COME TO YOU!
 thumbnail: /img/sunwashed.jpg
 headerImage: /img/sunwashed_header.jpg
+spotifyId: 3dA9anVtB3z1Xe7rUDrxSr
+youtubeId: ZAuNG3agJQY
 ---
 **Biography:**\
 The Sunwashed Avenues was formed in 2004, with the intention to become a punk band. After some radical member changes, the music changed as well and became a mix of Crossover, Metal and Rock. No borders were put to their music, so the music couldn't raise any borders too. In 2010 the first LP “Cult of the Black Sun”was released, got good reviews and the band could already celebrate great successes with it on stage.
