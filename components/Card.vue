@@ -1,5 +1,5 @@
 <template>
-  <nuxt-link :to="`artists/${content.slug}`">
+  <nuxt-link :to="linkTo">
     <div
       class="shadow-2xl relative h-56 text-white card flex justify-center items-center overflow-hidden"
     >
@@ -7,7 +7,13 @@
         class="bg-black w-full z-10 absolute h-56 bg-opacity-75 card__overlay transition duration-500 ease-in-out"
       ></div>
       <div class="text-2xl z-20 font-semibold text-center">
-        {{ content.artist }}
+        <span v-if="isAlbum">
+          {{ content.title }}
+          <small>{{ content.date }}</small>
+        </span>
+        <span v-else>
+          {{ content.artist }}
+        </span>
       </div>
 
       <div
@@ -20,11 +26,22 @@
 
 <script>
 export default {
-  name: 'CardArtist',
+  name: 'Card',
   props: {
     content: {
       type: Object,
       required: true,
+    },
+    isAlbum: {
+      type: Boolean,
+      default: false,
+    },
+  },
+  computed: {
+    linkTo() {
+      return this.isAlbum
+        ? `/albums/${this.content.slug}`
+        : `/artists/${this.content.slug}`
     },
   },
 }
