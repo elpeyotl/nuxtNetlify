@@ -44,7 +44,7 @@
         v-for="album in albums"
         :key="album.slug"
         :content="album"
-        :isAlbum="true"
+        :is-album="true"
       />
     </div>
 
