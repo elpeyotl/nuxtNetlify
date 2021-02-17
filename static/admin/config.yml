@@ -57,7 +57,7 @@ collections:
       - { label: 'Lineup', name: 'lineup', widget: 'markdown' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Image', name: 'thumbnail', widget: 'image' }
-       - {
+      - {
           label: 'Spotify',
           name: 'spotifyId',
           widget: 'string',

@@ -10,6 +10,10 @@
         <p class="text-lg font-light text-justify">
           {{ album.description }}
         </p>
+        <h3 v-if="artist.lineup" class="text-xl font-semibold mt-16">
+          Line-up
+        </h3>
+        {{ artist.lineup }}
         <nuxt-content :document="album" />
       </div>
       <div class="w-1/3 flex justify-end">
