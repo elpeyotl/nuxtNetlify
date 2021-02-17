@@ -23,7 +23,7 @@
     <h3 class="text-2xl font-semibold mt-8 mb-4">Releases</h3>
     <div v-for="album of albums" :key="album.slug">
       <NuxtLink
-        :to="`albums/${album.slug}`"
+        :to="`releases/${album.slug}`"
         class="bg-red-300 inline-block p-4 rounded-md shadow-md hover:bg-red-500 transition-colors duration-500 ease-in-out my-2"
       >
         <h3 class="text-2xl">{{ album.artist }}</h3>
@@ -34,7 +34,7 @@
     <h3 class="text-2xl font-semibold mt-8 mb-4">Photography</h3>
     <div v-for="album of albums" :key="album.slug">
       <NuxtLink
-        :to="`albums/${album.slug}`"
+        :to="`releases/${album.slug}`"
         class="bg-red-300 inline-block p-4 rounded-md shadow-md hover:bg-red-500 transition-colors duration-500 ease-in-out my-2"
       >
         <h3 class="text-2xl">{{ album.artist }}</h3>

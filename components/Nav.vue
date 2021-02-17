@@ -5,7 +5,7 @@
     <nuxt-link
       v-for="link in links"
       :key="link"
-      :to="{ name: link }"
+      :to="`/${link}`"
       class="uppercase"
       >{{ link }}</nuxt-link
     >

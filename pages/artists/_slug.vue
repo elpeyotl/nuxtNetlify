@@ -16,26 +16,12 @@
         {{ artist.biography }}
       </div>
       <div class="w-1/3 flex justify-end">
-        <iframe
-          :src="`https://open.spotify.com/embed/artist/${artist.spotifyId}`"
-          width="300"
-          height="380"
-          frameborder="0"
-          allowtransparency="true"
-          allow="encrypted-media"
-        ></iframe>
+        <spotify-embed v-if="artist.spotifyId" :spotify-id="artist.spotifyId" />
       </div>
     </div>
 
-    <div class="flex justify-center mb-12">
-      <iframe
-        width="560"
-        height="315"
-        :src="`https://www.youtube.com/embed/${artist.youtubeId}`"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-      ></iframe>
+    <div class="mb-12">
+      <youtube-embed v-if="artist.youtubeId" :youtube-id="artist.youtubeId" />
     </div>
 
     <h3 class="text-xl font-semibold mt-16">Discography</h3>

@@ -52,9 +52,23 @@ collections:
         }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Record label', name: 'recordLabel', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Lineup', name: 'lineup', widget: 'markdown' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Image', name: 'thumbnail', widget: 'image' }
+       - {
+          label: 'Spotify',
+          name: 'spotifyId',
+          widget: 'string',
+          hint: 'Insert the last ID (XXXXXX) after the embed url code https://open.spotify.com/embed/artist/XXXXX',
+        }
+      - {
+          label: 'Youtube',
+          name: 'youtubeId',
+          widget: 'string',
+          hint: 'Insert the last ID (XXXXX) after the embed url code https://www.youtube.com/embed/XXXXX',
+        }
   - name: 'artists'
     label: 'Artists'
     folder: 'content/artists'

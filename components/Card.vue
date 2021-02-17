@@ -10,6 +10,8 @@
         <span v-if="isAlbum">
           {{ content.title }}
           <br />
+          <span class="text-sm">{{ content.artist }}</span
+          ><br />
           <small class="text-sm">{{ showYear(content.date) }}</small>
         </span>
         <span v-else>
@@ -41,7 +43,7 @@ export default {
   computed: {
     linkTo() {
       return this.isAlbum
-        ? `/albums/${this.content.slug}`
+        ? `/releases/${this.content.slug}`
         : `/artists/${this.content.slug}`
     },
   },
