@@ -1,21 +1,32 @@
 <template>
   <div>
-    <div
+    <!-- <div
       v-if="artist.headerImage"
       class="w-full shadow-xl h-64 bg-cover mb-16"
       :style="{ backgroundImage: 'url(' + artist.headerImage + ')' }"
-    ></div>
+    ></div> -->
+    <div class="w-full mb-12">
+      <img :src="artist.thumbnail" />
+    </div>
     <h2 class="text-2xl w-1/2 font-semibold mb-8">{{ artist.artist }}</h2>
     <div class="mb-16 flex">
-      <div class="w-1/2 pr-16">
+      <div class="w-2/3 pr-16">
         <p class="text-lg font-light text-justify">{{ artist.description }}</p>
+        <nuxt-content :document="artist" />
       </div>
-      <div class="w-1/2"><img :src="artist.thumbnail" /></div>
+      <div class="w-1/3 flex justify-end">
+        <iframe
+          :src="`https://open.spotify.com/embed/artist/${artist.spotifyId}`"
+          width="300"
+          height="380"
+          frameborder="0"
+          allowtransparency="true"
+          allow="encrypted-media"
+        ></iframe>
+      </div>
     </div>
 
-    <nuxt-content :document="artist" />
-
-    <div class="flex">
+    <div class="flex justify-center">
       <iframe
         width="560"
         height="315"
@@ -23,14 +34,6 @@
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
-      ></iframe>
-      <iframe
-        :src="`https://open.spotify.com/embed/artist/${artist.spotifyId}`"
-        width="300"
-        height="380"
-        frameborder="0"
-        allowtransparency="true"
-        allow="encrypted-media"
       ></iframe>
     </div>
   </div>
