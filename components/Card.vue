@@ -9,6 +9,7 @@
       <div class="text-2xl z-20 font-semibold text-center">
         <span v-if="isAlbum">
           {{ content.title }}
+          <br />
           <small class="text-sm">{{ showYear(content.date) }}</small>
         </span>
         <span v-else>
@@ -46,7 +47,8 @@ export default {
   },
   methods: {
     showYear(date) {
-      return date.getFullYear()
+      const parsedDdate = new Date(date)
+      return parsedDdate.getFullYear()
     },
   },
 }
