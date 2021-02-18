@@ -9,7 +9,7 @@ lineup: >-
 
   Music: Nathanael Neuhaus, Elia Schneider, Jordi Pürro, Marius Gruber, Maurin Pürro
 thumbnail: https://f4.bcbits.com/img/a0399189426_10.jpg
-spotifyId: 6xb5XfdwKNFNZKOJWI0Ose
+spotifyId: 4Lsb79jC9gGivzO4bnJ3Ox?si=zNk2K5L7SYO-Hpn1DTPy6Q
 ---
 
 Written in 2020. Recorded in 2021 by Pascal Lüthi, Schüpbach.
