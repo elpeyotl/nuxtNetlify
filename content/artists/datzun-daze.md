@@ -4,10 +4,9 @@ date: 2021-02-19T20:00:30.264Z
 description: Datzun Daze are a Post-melan-coholic Eurock Sound Experience out of
   Bern, Switzerland.
 biography: >-
-  <!--StartFragment-->
-
-
-  Founded in the year of the plague, shaped in times of societal deprivation, nurtured by Polly, muse of sacred song, driven by the goal of playing on stages near you, soon.\
+  Founded in the year of the plague, shaped in times of societal deprivation,
+  nurtured by Polly, muse of sacred song, driven by the goal of playing on
+  stages near you, soon.\
 
   \
 
@@ -20,9 +19,6 @@ biography: >-
   \
 
   [Become a patreon of Datzun Daze.](https://www.patreon.com/Datzundaze)
-
-
-  <!--EndFragment-->
 thumbnail: /img/logo_datzun-daze_horizontal-weiss.png
 headerImage: https://datzundaze.com/Bandfoto2.jpeg
 spotifyId: 6xb5XfdwKNFNZKOJWI0Ose
