@@ -10,7 +10,13 @@ biography: >-
   playing on stages near you, soon.\
 
 
-  We are ready to get rolling, are you? Buckle up, for we’ll put the roar back in the 20s. Stay tuned and join our pace: We are Datzun Daze!
+  We are ready to get rolling, are you? Buckle 
+
+
+  ![blabla1](/img/0.png "blabla2")
+
+
+  up, for we’ll put the roar back in the 20s. Stay tuned and join our pace: We are Datzun Daze!
 thumbnail: https://lightroom.adobe.com/v2c/spaces/f83d2be1ef564aca8948ab0677e2559d/assets/6d6559d4539649878828fce7de006bbc/revisions/b41e5aefbdc26324be6b7956ca048a0a/renditions/11cd5c57b5457007a3c1bf2f894317f4
 headerImage: https://lightroom.adobe.com/v2c/spaces/f83d2be1ef564aca8948ab0677e2559d/assets/6d6559d4539649878828fce7de006bbc/revisions/b41e5aefbdc26324be6b7956ca048a0a/renditions/11cd5c57b5457007a3c1bf2f894317f4
 spotifyId: 6xb5XfdwKNFNZKOJWI0Ose
