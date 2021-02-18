@@ -1,9 +1,10 @@
 ---
 artist: Amagortis
 date: 2021-01-26T01:49:35.869Z
-description: 'Amagortis was formed in 2001 by Daniel, Stoef, Nathalie and
-  friends. In January of 2004 Amagortis self-released their first full length
-  album "Abominable". The line-up for this recording and the following gigs was:
+description: AMAGORTIS is...
+biography: 'Amagortis was formed in 2001 by Daniel, Stoef, Nathalie and friends.
+  In January of 2004 Amagortis self-released their first full length album
+  "Abominable". The line-up for this recording and the following gigs was:
   Daniel (Guitar and backing vocals), Grimm (Vocals), Stoef (Drums) and Nathalie
   (Bass). In 2006 Pascal replaced Grimm on vocals, bringing a more guttural and
   brutal style to the band. Influenced by the world-wide death metal scene the
