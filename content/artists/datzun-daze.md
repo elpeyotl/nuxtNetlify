@@ -23,4 +23,4 @@ thumbnail: /img/logo_datzun-daze_horizontal-weiss.png
 headerImage: https://datzundaze.com/Bandfoto2.jpeg
 spotifyId: 6xb5XfdwKNFNZKOJWI0Ose
 ---
-02/19/2021 Release of Stockholm Syndrome
+02/19/2021 Digital release of Stockholm Syndrome
