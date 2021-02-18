@@ -1,19 +1,21 @@
 <template>
   <div
-    class="bg-center bg-cover bg-fixed bg-no-repeat bg-image"
+    class="bg-center bg-cover bg-fixed bg-no-repeat bg-image min-w-screen min-h-screen"
     :style="{
       backgroundImage: 'url(' + require('@/assets/bg-yellinglight.jpg') + ')',
     }"
   >
-    <div class="bg-gray-800 h-full w-full bg-opacity-75">
-      <div class="mx-auto max-w-6xl bg-gray-400 bg-opacity-75 shadow-lg">
-        <Header />
-        <Nuxt class="p-4 lg:p-16 min-h-screen" />
-        <Footer />
-      </div>
+    <transition name="fade">
+      <div v-show="loaded" class="bg-gray-800 h-full w-full bg-opacity-75">
+        <div class="mx-auto max-w-6xl bg-gray-400 bg-opacity-75 shadow-lg">
+          <Header />
+          <Nuxt class="p-4 lg:p-16 min-h-screen" />
+          <Footer />
+        </div>
 
-      />
-    </div>
+        />
+      </div>
+    </transition>
   </div>
 </template>
 
@@ -23,6 +25,22 @@ import Footer from '@/components/Footer'
 
 export default {
   components: { Header, Footer },
+  data() {
+    return {
+      loaded: false,
+    }
+  },
+  mounted() {
+    this.loadTimeout()
+  },
+  methods: {
+    loadTimeout() {
+      const self = this
+      setTimeout(() => {
+        self.loaded = true
+      }, 2000)
+    },
+  },
 }
 </script>
 
@@ -63,6 +81,15 @@ body {
 }
 .page-enter,
 .page-leave-to {
+  opacity: 0;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 2.5s;
+}
+.fade-enter,
+.fade-leave-to {
   opacity: 0;
 }
 </style>
