@@ -1,7 +1,7 @@
 ---
 artist: The Sunwashed Avenues
 title: Blue Dolphin
-date: 2021-02-19T00:02:48.553Z
+date: 2012-02-19T00:02:00.000Z
 recordLabel: Self-Release / The yelling light
 lineup: |-
   Sirio Forabosco (Drums)\
