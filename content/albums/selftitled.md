@@ -1,5 +1,5 @@
 ---
-artist: Verwaltzen
+artist: The Sunwashed Avenues
 title: Selftitled
 date: 2021-01-13T22:50:02.985Z
 recordLabel: Dirty & weird music / The yelling light
