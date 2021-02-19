@@ -14,12 +14,12 @@ headerImage: /img/bandfoto2400x2400.jpg
 spotifyId: 44myJwFQUxjEsx8SoTIBxQ?si=k9XLJ5hrTa6gIrcaAPmC0Q
 youtubeId: UCslDw0LZLhZwJmc4D29ECxg
 ---
-Current Members
+**Current Members**
 
 Vocals & Bass, Yvo Petrzilek\
 Guitars, Francesco Romano\
 Drums, Justin Harrison\
 \
-Past Shows
+**Past Shows**
 
 20.04.2019 Kraftfeld, Winterthur - 03.03.2018  Gaswerk, Winterthur - 02.03.2018  Schwarzer Engel, St. Gallen - 12.02.2018 Boschbar, Zürich 07.2017  Sternen Openair, Winterthur - 05.2017  Im Grienen, Winterthur - 04.2017 Waldschenki, Winterthur 07.2015  Eidberger Openair, Eidberg - 12.2014  Brohemia Wein & Sein II, Winterthur - 10.2014  Gaswerk, Winterthur - 07.2014  Stadtmauer, Helsinki Bar, Zürich - 07.2014 Eidberger Openair, Eidberg - 07.2014 Sternen Openair, Winterthur - 10.2013  Gare de Lyon, Wil 10.2013  Kammgarn, Rock City Battle, Schaffhausen - 09.2013  Ebrietas, Zürich - 12.2012  Loops Studio, Winterthur - 10.2012  Gaswerk, Winterthur - 09.2012  Sounds from the Butts II, Diessenhofen 06.2012  Dynamo, Zürich - 09.2011  Super Zero, Zürich - 08.2011  OpenAir Gränichen, Moortal 11.2010  ISC, Bern - 10.2010  Kofmehl, Solothurn 11.2009  Metbar, Lenzburg - 11.2009 Hirscheneck, Basel - 10.2009  Kalkbreite, Zürich - 09.2009 Salzhaus, Winterthur - 08.2009 Paradiesgärtli, Steinmaur - 08.2009  GGS31, Winterthur - 03.2009  Club, Zürich - 02.2009  Gaswerk, Winterthur - 09.2008  Kraftfeld, Winterthur
