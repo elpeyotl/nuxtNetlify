@@ -13,51 +13,8 @@ headerImage: /img/sunwashed_header.jpg
 spotifyId: 3dA9anVtB3z1Xe7rUDrxSr
 youtubeId: ZAuNG3agJQY
 ---
-**Biography:**\
-The Sunwashed Avenues was formed in 2004, with the intention to become a punk band. After some radical member changes, the music changed as well and became a mix of Crossover, Metal and Rock. No borders were put to their music, so the music couldn't raise any borders too. In 2010 the first LP “Cult of the Black Sun”was released, got good reviews and the band could already celebrate great successes with it on stage.
-
-**Dicography:**\
+**Discography:**\
 2015: Lama King (digial) - (self-released)\
 2012: Blue Dolphin (CD, Vinyl, digital) - (self-released/The yelling light)\
 2010: Cult of the Black Sun (CD) - (Dirty & Weird Music/The yelling light)\
-2009: self titled (CD) - (self-released/The yelling light)\
-\
-
-<center><iframe src="https://open.spotify.com/embed/album/1vNhkwIeWI2tRqDNPuJ8DS" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><center>\
-\
-<center><iframe src="https://open.spotify.com/embed/album/0Fn4ZFFj2kgzKEvZKG29qQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><center>\
-
-Sirio Forabosco (Drums)\
-Chris Perez (Bass)\
-Francesco Romano (Guitars)\
-Yvo Petrzilek (Vocals)\
-John Lihai - "the last passenger to the west"\
-All songs written by the sunwashed avenues\
-Recorded and mixex by Verwaltzen Records 2012\
-Artwork by Mario Burgener & John Lihai\
-
-<center><iframe src="https://open.spotify.com/embed/album/4IW0PWI7B8eAheKkvW0qQU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><center>\
-
-**Line-up Cult of the Black Sun:**\
-John Lui (Vocals)\
-Francesco Romano (Guitar)\
-Al Fombra (Bass)\
-Sirio Forabosco (Drums)\
-Percussion on track 1979 by Makatumbo Stern & Chitammuerte Schmied
-\
-Recorded, mixed & mastered on March 2010 @ Cultrock Studios by Abele Franzé.\
-Design & Artwork by Mario Burgener.\
-\
-
-<center><iframe src="https://open.spotify.com/embed/album/3AD6ongmO3BoI7sruBkSnn" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><center>\
-\
-Lt- Columbo (Vocals)\
-Gul Romanov (Guitars)\
-Imno T-fuc Kingjam Esbon (Bass)\
-Rembrandt Ludovico (Drums)\
-\
-Recorded by Kilian Roth Beatlounge studios Winterthur, Switzerland\
-Mixed by Abele Franzé Cultrock studios Romanshorn, Switzerland\
-Mastered by Alan Douches West West Side Music Studios NY, USA\
-Coverartwork: Mike Meier / spacehamster.deviantart.com\
-Inlay & Layout: Mario Burgener
+2009: self titled (CD) - (self-released/The yelling light)
