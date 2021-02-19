@@ -12,7 +12,7 @@ biography: After a few small EPs, gigs and changes of members, the band tries to
 thumbnail: /img/verwaltzen.jpg
 headerImage: /img/bandfoto2400x2400.jpg
 spotifyId: 44myJwFQUxjEsx8SoTIBxQ?si=k9XLJ5hrTa6gIrcaAPmC0Q
-youtubeId: UCu6X2xiGjx7eiClw9I7quNw
+youtubeId: UCslDw0LZLhZwJmc4D29ECxg
 ---
 Current Members
 
