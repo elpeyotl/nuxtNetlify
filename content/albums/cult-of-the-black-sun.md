@@ -1,6 +1,6 @@
 ---
 artist: The Sunwashed Avenues
-title: Cult of the black sun
+title: Cult Of The Black Sun
 date: 2010-01-01T21:09:04.315Z
 recordLabel: "Dirty & Weird Music / The yelling light "
 lineup: |-
@@ -8,12 +8,11 @@ lineup: |-
   Francesco Romano (Guitar)\
   Al Fombra (Bass)\
   Sirio Forabosco (Drums)\
-  Percussion on track 1979 by Makatumbo Stern & Chitammuerte Schmied\
-  Recorded, mixed & mastered on March 2010 @ Cultrock Studios by Abele Franzé.\
-  Design & Artwork by Mario Burgener.
+  Percussion on track 1979 by Makatumbo Stern & Chitammuerte Schmied
 thumbnail: /img/71w1t176npl._sl1000_.jpg
 spotifyId: 4IW0PWI7B8eAheKkvW0qQU
 description: Best album
 youtubeId: MvUdwrFMJOo
 ---
-73583
+Recorded, mixed & mastered on March 2010 @ Cultrock Studios by Abele Franzé.\
+Design & Artwork by Mario Burgener.
