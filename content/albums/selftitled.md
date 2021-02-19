@@ -1,7 +1,7 @@
 ---
 artist: The Sunwashed Avenues
 title: Selftitled
-date: 2012-01-13T22:50:00.000Z
+date: 2009-01-13T22:50:00.000Z
 recordLabel: Dirty & weird music / The yelling light
 lineup: |-
   Lt- Columbo (Vocals)
