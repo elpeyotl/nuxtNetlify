@@ -3,7 +3,6 @@ artist: The Sunwashed Avenues
 title: Cult of the black sun
 date: 2010-01-01T21:09:04.315Z
 recordLabel: "Dirty & Weird Music / The yelling light "
-description: Best album
 lineup: |-
   John Lui (Vocals)\
   Francesco Romano (Guitar)\
@@ -14,6 +13,7 @@ lineup: |-
   Design & Artwork by Mario Burgener.
 thumbnail: /img/71w1t176npl._sl1000_.jpg
 spotifyId: 4IW0PWI7B8eAheKkvW0qQU
+description: Best album
 youtubeId: MvUdwrFMJOo
 ---
-some more text for wahteeever
+73583
