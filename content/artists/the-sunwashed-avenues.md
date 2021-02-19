@@ -13,7 +13,6 @@ headerImage: /img/sunwashed_header.jpg
 spotifyId: 3dA9anVtB3z1Xe7rUDrxSr
 youtubeId: ZAuNG3agJQY
 ---
-**Discography:**\
 2015: Lama King (digial) - (self-released)\
 2012: Blue Dolphin (CD, Vinyl, digital) - (self-released/The yelling light)\
 2010: Cult of the Black Sun (CD) - (Dirty & Weird Music/The yelling light)\
