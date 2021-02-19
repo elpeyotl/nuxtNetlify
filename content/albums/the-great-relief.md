@@ -1,7 +1,7 @@
 ---
 artist: Verwaltzen
 title: The great Relief
-date: 2021-02-19T01:21:45.118Z
+date: 2019-07-11T00:21:45.118Z
 recordLabel: The yelling light
 lineup: >-
   All songs written & played by VERWALTZEN in 2018.\
