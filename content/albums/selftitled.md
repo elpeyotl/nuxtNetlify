@@ -8,7 +8,7 @@ lineup: |-
   Gul Romanov (Guitars)
   Imno T-fuc Kingjam Esbon (Bass)
   Rembrandt Ludovico (Drums)
-thumbnail: /img/0.png
+thumbnail: /img/the-sunwashed-avenues-ep-72dpi.jpg
 spotifyId: 3AD6ongmO3BoI7sruBkSnn?si=9Z5PZMmHTNKbz6_cZ_zknw
 description: asdf
 youtubeId: watch?v=uVxctCrPZXs&list=OLAK5uy_lmwM-ojpbQdhPFL4cRtnsPQxFcyV5KI9U
