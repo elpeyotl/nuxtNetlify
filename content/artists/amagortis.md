@@ -21,7 +21,7 @@ biography: 'Amagortis was formed in 2001 by Daniel, Stoef, Nathalie and friends.
   Sanity. Before and after this tour, the Band played different festivals as
   well as many club shows. All the while rehearsing and writing new songs. A
   Demo with 3 new mind crushing songs has been released in february 2012.'
-thumbnail: https://lightroom.adobe.com/shares/e954f65be34f48b09f55af6f8d3c96b4/albums/31bafdfe9e4c3c02014ed2f3de65f4a6/assets/72ee9ee8e15b3dd463f876648fa9f4c9
+thumbnail: https://adobe.ly/3dMIhto
 headerImage: https://theyellinglight.ch/wp-content/uploads/2020/04/amagortis3-bg-black-1148x574.jpg
 ---
 sghf
