@@ -1,6 +1,6 @@
 ---
 artist: Verwaltzen
-title: The great Relief
+title: The Great Relief
 date: 2019-12-05T01:21:45.118Z
 recordLabel: The yelling light
 lineup: >-
