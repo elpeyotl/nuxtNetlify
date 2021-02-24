@@ -12,4 +12,4 @@ thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc73434222
 spotifyId: 2430eMhu6wYw5muz5E0zVm?si=EjnChJ5rQim7DNPZvhEcDQ
 youtubeId: watch?v=dPi7-I1BIwY&list=OLAK5uy_nT3059kN_ylmUegiwFTA-aCBpRZvqZMys
 ---
-Recorded and mixed by Sam and Amagortis at Amagortis studio, Switzerland. All music and lyrics by Amagortis. Logo and layout design by Stoef. Pictures by paparazzo Tom.
+Recorded and mixed by Sam and Amagortis at Amagortis studio, Switzerland. All music and lyrics by Amagortis. Logo and layout design by Stoef. Pictures by paparazzo Tom. Cover Art by Mike Majewski.
