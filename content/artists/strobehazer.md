@@ -11,7 +11,7 @@ biography: Since Strobehazer’s first encounter with 80s music in his early
   entitled FINITE DREAMS. Influenced by the 70s and 80s AOR- and Pop-giants,
   combined with a Heavy Metal aesthetic, Strobehazer creates danceable ballads
   evoking simpler times.
-thumbnail: https://scontent-zrh1-1.xx.fbcdn.net/v/t1.0-9/95634307_106834197690181_749229410967617536_o.jpg?_nc_cat=111&ccb=3&_nc_sid=174925&_nc_ohc=1Bvr8IS3xGgAX-p94a7&_nc_ht=scontent-zrh1-1.xx&oh=c1467571f792d13eb6ad40effb95955d&oe=605481FD
+thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc7343422215/assets/2ec6cd4473a7385e8fbc7043d8fb9602/revisions/409ce08764894776bcb0c99a7af52bef/renditions/29af6a99a51285eef29bf0d179ca90ac
 headerImage: https://scontent-zrh1-1.xx.fbcdn.net/v/t1.0-9/96235931_106834791023455_1137945602185756672_o.jpg?_nc_cat=101&ccb=3&_nc_sid=e3f864&_nc_ohc=5pxRHbWFfnoAX8LwH3U&_nc_ht=scontent-zrh1-1.xx&oh=c90c8ef3441aa3b02fab8dabb706b2db&oe=60566897
 spotifyId: 60CIhUHujDJ5luZnAMT1WA?si=BwYSmh5TQ8qOozYa4ZkAjw
 youtubeId: UCAmKCYRN9-jD9qo6QvJ6axQ/videos
