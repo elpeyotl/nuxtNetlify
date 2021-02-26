@@ -1,8 +1,9 @@
 <template>
   <div
+    id="main_wrapper"
     class="bg-center bg-cover bg-fixed bg-no-repeat bg-image min-w-screen min-h-screen"
     :style="{
-      backgroundImage: 'url(' + require('@/assets/bg-yellinglight.jpg') + ')',
+      backgroundImage: `url(${backgroundImgSrc})`,
     }"
   >
     <div class="bg-gray-800 h-full w-full bg-opacity-75">
@@ -20,9 +21,39 @@
 <script>
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
+import { TimelineMax, Power1 } from 'gsap'
 
 export default {
   components: { Header, Footer },
+  computed: {
+    backgroundImgSrc() {
+      return this.$store.state.bgImage
+    },
+  },
+  mounted() {
+    this.animateBackground()
+  },
+
+  methods: {
+    animateBackground() {
+      const bgImage = document.getElementById('main_wrapper')
+      const timeLine = new TimelineMax({
+        // reversed: true,
+        repeat: -1,
+        yoyo: true,
+      })
+      // set initial CSS autoAlpha to 0
+      // GSAP handles the cross browser vendor prefixes
+      timeLine
+        .set(bgImage, { backgroundSize: '150% 150%' })
+        // animate CSS autoAlpha to 1
+        .to(bgImage, 40, {
+          backgroundSize: '100% 100%',
+          autoRound: false,
+          ease: Power1.ease0ut,
+        })
+    },
+  },
 }
 </script>
 
@@ -41,7 +72,6 @@ body {
 }
 
 .bg-image {
-  animation: imagebulger 40s ease-in-out infinite;
 }
 @keyframes imagebulger {
   0% {
