@@ -21,7 +21,7 @@
 <script>
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
-import { TimelineMax, Power1 } from 'gsap'
+import { gsap, Power1, CSSPlugin, TimelineMax } from 'gsap'
 
 export default {
   components: { Header, Footer },
@@ -31,6 +31,7 @@ export default {
     },
   },
   mounted() {
+    gsap.registerPlugin(CSSPlugin)
     this.animateBackground()
   },
 
