@@ -22,6 +22,9 @@ export default {
       artists,
     }
   },
+  mounted() {
+    this.$store.commit('updateBgImage', false)
+  },
 }
 </script>
 

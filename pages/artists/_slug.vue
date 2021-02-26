@@ -33,7 +33,6 @@
         :is-album="true"
       />
     </div>
-
     <nuxt-content :document="artist" />
   </div>
 </template>
@@ -64,6 +63,9 @@ export default {
       artist,
       albums,
     }
+  },
+  mounted() {
+    this.$store.commit('updateBgImage', this.artist.thumbnail)
   },
 }
 </script>

@@ -20,5 +20,8 @@ export default {
       post,
     }
   },
+  mounted() {
+    this.$store.commit('updateBgImage', false)
+  },
 }
 </script>

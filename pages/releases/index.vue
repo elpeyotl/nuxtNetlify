@@ -28,6 +28,9 @@ export default {
       albums,
     }
   },
+  mounted() {
+    this.$store.commit('updateBgImage', false)
+  },
 }
 </script>
 

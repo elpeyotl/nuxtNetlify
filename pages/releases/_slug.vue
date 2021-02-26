@@ -65,6 +65,9 @@ export default {
       artist,
     }
   },
+  mounted() {
+    this.$store.commit('updateBgImage', false)
+  },
   methods: {
     showYear(date) {
       const parsedDdate = new Date(date)
