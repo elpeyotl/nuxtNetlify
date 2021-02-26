@@ -6,7 +6,7 @@
       :style="{ backgroundImage: 'url(' + artist.headerImage + ')' }"
     ></div> -->
     <div class="w-full mb-12">
-      <img :src="artist.thumbnail" />
+      <img :src="artist.headerImage" />
     </div>
     <h2 class="text-2xl w-1/2 font-semibold mb-8">{{ artist.artist }}</h2>
     <div class="mb-16 flex">
