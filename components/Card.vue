@@ -39,12 +39,16 @@ export default {
       type: Boolean,
       default: false,
     },
+    isNews: {
+      type: Boolean,
+      default: false,
+    },
   },
   computed: {
     linkTo() {
-      return this.isAlbum
-        ? `/releases/${this.content.slug}`
-        : `/artists/${this.content.slug}`
+      if (this.isAlbum) return `/releases/${this.content.slug}`
+      else if (this.isNews) return `/news/${this.content.slug}`
+      else return `/artists/${this.content.slug}`
     },
   },
   methods: {

@@ -10,13 +10,13 @@
       <p class="text-lg font-light text-justify">HOOSA</p>
     </div>
     <h3 class="text-2xl font-semibold mt-8 mb-4">News</h3>
-    <div v-for="post of posts" :key="post.slug">
-      <NuxtLink
-        :to="`blog/${post.slug}`"
-        class="bg-red-300 inline-block p-4 rounded-md shadow-md hover:bg-red-500 transition-colors duration-500 ease-in-out"
-      >
-        {{ post.title }}
-      </NuxtLink>
+    <div class="my-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+      <Card
+        v-for="post in posts"
+        :key="post.slug"
+        :content="post"
+        :is-news="true"
+      />
     </div>
   </div>
 </template>
@@ -24,14 +24,9 @@
 <script>
 export default {
   async asyncData({ $content }) {
-    const posts = await $content('blog').fetch()
-    const albums = await $content('albums').fetch()
-    const artists = await $content('artists').fetch()
-
+    const posts = await $content('blog').sortBy('createdAt', 'desc').fetch()
     return {
       posts,
-      albums,
-      artists,
     }
   },
   mounted() {
