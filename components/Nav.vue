@@ -9,6 +9,7 @@
       class="uppercase"
       >{{ link }}</nuxt-link
     >
+    <a href="https://shop.theyellinglight.ch/" target="_blank">SHOP</a>
   </div>
 </template>
 
@@ -18,11 +19,10 @@ export default {
   setup() {
     const links = ref([
       'news',
-      'shop',
       'releases',
+      'artists',
       'photography',
       'newsletter',
-      'artists',
     ])
     return {
       links,

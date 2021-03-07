@@ -1,10 +1,5 @@
 <template>
   <div>
-    <!-- <div
-      v-if="artist.headerImage"
-      class="w-full shadow-xl h-64 bg-cover mb-16"
-      :style="{ backgroundImage: 'url(' + artist.headerImage + ')' }"
-    ></div> -->
     <div class="w-full mb-12">
       <img :src="artist.headerImage" />
     </div>

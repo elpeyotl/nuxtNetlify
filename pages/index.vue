@@ -1,5 +1,14 @@
 <template>
   <div>
+    <div>
+      <div class="w-full mb-12">
+        <img src="/img/yelling-logo.jpg" title="The yelling light" />
+      </div>
+      <h2 class="text-2xl w-1/2 font-semibold mb-8">
+        Welcome to the yelling light
+      </h2>
+      <p class="text-lg font-light text-justify">HOOSA</p>
+    </div>
     <h3 class="text-2xl font-semibold mt-8 mb-4">News</h3>
     <div v-for="post of posts" :key="post.slug">
       <NuxtLink
@@ -7,38 +16,6 @@
         class="bg-red-300 inline-block p-4 rounded-md shadow-md hover:bg-red-500 transition-colors duration-500 ease-in-out"
       >
         {{ post.title }}
-      </NuxtLink>
-    </div>
-
-    <h3 class="text-2xl font-semibold mt-8 mb-4">Artists</h3>
-    <div v-for="artist of artists" :key="artist.slug">
-      <NuxtLink
-        :to="`artists/${artist.slug}`"
-        class="bg-red-300 inline-block p-4 rounded-md shadow-md hover:bg-red-500 transition-colors duration-500 ease-in-out my-2"
-      >
-        <h2 class="text-2xl">{{ artist.artist }}</h2>
-      </NuxtLink>
-    </div>
-
-    <h3 class="text-2xl font-semibold mt-8 mb-4">Releases</h3>
-    <div v-for="album of albums" :key="album.slug">
-      <NuxtLink
-        :to="`releases/${album.slug}`"
-        class="bg-red-300 inline-block p-4 rounded-md shadow-md hover:bg-red-500 transition-colors duration-500 ease-in-out my-2"
-      >
-        <h3 class="text-2xl">{{ album.artist }}</h3>
-        {{ album.title }}
-      </NuxtLink>
-    </div>
-
-    <h3 class="text-2xl font-semibold mt-8 mb-4">Photography</h3>
-    <div v-for="album of albums" :key="album.slug">
-      <NuxtLink
-        :to="`releases/${album.slug}`"
-        class="bg-red-300 inline-block p-4 rounded-md shadow-md hover:bg-red-500 transition-colors duration-500 ease-in-out my-2"
-      >
-        <h3 class="text-2xl">{{ album.artist }}</h3>
-        {{ album.title }}
       </NuxtLink>
     </div>
   </div>
