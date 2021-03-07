@@ -1,15 +1,15 @@
 <template>
   <div>
-    <div>
-      <div class="w-full mb-12">
+    <div class="mb-16">
+      <div class="w-full mb-16">
         <img src="/img/yelling-logo.jpg" title="The yelling light" />
       </div>
       <h2 class="text-2xl w-1/2 font-semibold mb-8">
-        Welcome to the yelling light
+        {{ home.title }}
       </h2>
-      <p class="text-lg font-light text-justify">HOOSA</p>
+      <nuxt-content :document="home" />
     </div>
-    <h3 class="text-2xl font-semibold mt-8 mb-4">News</h3>
+    <h3 class="text-2xl font-semibold mt-8 my-4">News</h3>
     <div class="my-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
       <Card
         v-for="post in posts"
@@ -25,7 +25,9 @@
 export default {
   async asyncData({ $content }) {
     const posts = await $content('blog').sortBy('createdAt', 'desc').fetch()
+    const home = await $content('pages', 'home').fetch()
     return {
+      home,
       posts,
     }
   },

@@ -6,7 +6,7 @@
 
     <div class="mb-12">
       <h2 class="text-2xl font-semibold">{{ post.title }}</h2>
-      {{ showYear(post.createdAt) }}
+      {{ showDate(post.createdAt) }}
     </div>
     <nuxt-content :document="post" />
     <div class="mb-12">
@@ -44,8 +44,11 @@ export default {
       artist,
     }
   },
+  mounted() {
+    this.$store.commit('updateBgImage', false)
+  },
   methods: {
-    showYear(date) {
+    showDate(date) {
       const parsedDate = parseISO(date)
       return format(parsedDate, 'dd.MM.yyyy')
     },

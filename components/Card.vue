@@ -14,9 +14,11 @@
           ><br />
           <small class="text-sm">{{ showYear(content.date) }}</small>
         </span>
-        <span v-else>
-          {{ content.artist }}
+        <span v-else-if="isNews">
+          {{ content.title }}<br />
+          <small class="text-sm">{{ showDate(content.date) }}</small>
         </span>
+        <span v-else> {{ content.artist }}</span>
       </div>
 
       <div
@@ -28,6 +30,8 @@
 </template>
 
 <script>
+import { format, parseISO } from 'date-fns'
+
 export default {
   name: 'Card',
   props: {
@@ -55,6 +59,10 @@ export default {
     showYear(date) {
       const parsedDdate = new Date(date)
       return parsedDdate.getFullYear()
+    },
+    showDate(date) {
+      const parsedDate = parseISO(date)
+      return format(parsedDate, 'dd.MM.yyyy')
     },
   },
 }
