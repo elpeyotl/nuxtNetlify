@@ -59,8 +59,6 @@ export default {
 </script>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway&display=swap');
-
 h1,
 h2,
 h3 {
