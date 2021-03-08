@@ -9,15 +9,27 @@
       {{ showDate(post.createdAt) }}
     </div>
     <nuxt-content :document="post" />
-    <div class="mb-12">
-      <youtube-embed v-if="post.youtubeId" :youtube-id="album.youtubeId" />
+
+    <div class="flex justify-between">
+      <div class="mb-12">
+        <youtube-embed v-if="post.youtubeId" :youtube-id="album.youtubeId" />
+      </div>
+      <div>
+        <spotify-embed
+          v-if="post.spotifyId"
+          :is-album="true"
+          :spotify-id="post.spotifyId"
+        />
+      </div>
     </div>
   </div>
 </template>
 
 <script>
 import { parseISO, format } from 'date-fns'
+import SpotifyEmbed from '~/components/spotifyEmbed'
 export default {
+  components: { SpotifyEmbed },
   async asyncData({ $content, params, error }) {
     let post
     let artist
