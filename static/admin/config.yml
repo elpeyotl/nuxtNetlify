@@ -48,7 +48,7 @@ collections:
         widget: 'string',
         hint: 'Insert the last ID (XXXXXX) after the embed url code https://open.spotify.com/embed/artist/XXXXX',
         required: false,
-        }
+        },
       - {
         label: 'Youtube',
         name: 'youtubeId',
