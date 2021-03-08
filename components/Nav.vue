@@ -17,13 +17,7 @@
 import { ref } from '@nuxtjs/composition-api'
 export default {
   setup() {
-    const links = ref([
-      'news',
-      'releases',
-      'artists',
-      'photography',
-      'newsletter',
-    ])
+    const links = ref(['news', 'releases', 'artists', 'photography'])
     return {
       links,
     }
