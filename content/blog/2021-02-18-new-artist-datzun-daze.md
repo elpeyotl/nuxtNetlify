@@ -5,6 +5,7 @@ description: " Let us introduce you to   DATZUN DAZE "
 thumbnail: https://f4.bcbits.com/img/a0399189426_10.jpg
 albums:
   - stockholm-syndrome
+youtubeId: vkpZ1tPCSJ4
 ---
 Hi folks,\
 \
