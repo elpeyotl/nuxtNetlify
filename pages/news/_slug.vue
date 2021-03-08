@@ -11,8 +11,8 @@
     <nuxt-content :document="post" />
 
     <div class="flex justify-between">
-      <div class="mb-12">
-        <youtube-embed v-if="post.youtubeId" :youtube-id="album.youtubeId" />
+      <div class="mt-16 mb-12">
+        <youtube-embed v-if="post.youtubeId" :youtube-id="post.youtubeId" />
       </div>
       <div>
         <spotify-embed
