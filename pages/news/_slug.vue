@@ -22,6 +22,14 @@
         />
       </div>
     </div>
+    <div class="my-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+      <Card
+        v-for="album in albums"
+        :key="album"
+        :content="album"
+        :is-album="true"
+      />
+    </div>
   </div>
 </template>
 
@@ -32,7 +40,7 @@ export default {
   components: { SpotifyEmbed },
   async asyncData({ $content, params, error }) {
     let post
-    let artist
+    let albums
     try {
       post = await $content('blog', params.slug).fetch()
       // OR const article = await $content(`articles/${params.slug}`).fetch()
@@ -40,10 +48,10 @@ export default {
       error({ message: 'Blog Post not found' })
     }
     try {
-      artist = await $content('artists')
+      albums = await $content('albums')
         .where({
-          artist: {
-            $regex: [post.artist, 'i'],
+          slug: {
+            $regex: [...post.albums, 'i'],
           },
         })
         .sortBy('createdAt', 'asc')
@@ -53,7 +61,7 @@ export default {
     }
     return {
       post,
-      artist,
+      albums,
     }
   },
   mounted() {

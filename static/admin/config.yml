@@ -41,6 +41,20 @@ collections:
           search_fields: ['artist', 'title'],
           value_field: '{{slug}}',
           multiple: true,
+        },
+      - {
+        label: 'Spotify',
+        name: 'spotifyId',
+        widget: 'string',
+        hint: 'Insert the last ID (XXXXXX) after the embed url code https://open.spotify.com/embed/artist/XXXXX',
+        required: false,
+        }
+      - {
+        label: 'Youtube',
+        name: 'youtubeId',
+        widget: 'string',
+        hint: 'Insert the last ID (XXXXX) after the embed url code https://www.youtube.com/embed/XXXXX',
+        required: false,
         }
   - name: 'albums'
     label: 'Albums'
