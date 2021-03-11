@@ -6,7 +6,7 @@
       <div
         class="bg-black w-full z-10 absolute h-56 bg-opacity-75 card__overlay transition duration-500 ease-in-out"
       ></div>
-      <div class="text-2xl z-20 font-semibold text-center">
+      <div class="text-2xl z-20 font-semibold text-center p-2">
         <span v-if="isAlbum">
           {{ content.title }}
           <br />
@@ -17,6 +17,9 @@
         <span v-else-if="isNews">
           {{ content.title }}<br />
           <small class="text-sm">{{ showDate(content.date) }}</small>
+        </span>
+        <span v-else-if="isPhoto">
+          {{ content.title }}
         </span>
         <span v-else> {{ content.artist }}</span>
       </div>

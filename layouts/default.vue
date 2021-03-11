@@ -66,6 +66,7 @@ h3 {
 }
 
 body {
+  @apply font-light;
   font-family: 'Raleway', sans-serif;
   letter-spacing: 0.25em;
 }
