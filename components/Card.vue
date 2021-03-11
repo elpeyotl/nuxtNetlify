@@ -47,11 +47,16 @@ export default {
       type: Boolean,
       default: false,
     },
+    isPhoto: {
+      type: Boolean,
+      default: false,
+    },
   },
   computed: {
     linkTo() {
       if (this.isAlbum) return `/releases/${this.content.slug}`
       else if (this.isNews) return `/news/${this.content.slug}`
+      else if (this.isPhoto) return `/photography/${this.content.slug}`
       else return `/artists/${this.content.slug}`
     },
   },
