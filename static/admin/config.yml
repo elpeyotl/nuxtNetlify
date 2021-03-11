@@ -124,7 +124,7 @@ collections:
     folder: 'content/photos'
     format: 'frontmatter'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}'
     preview_path: /photos/{{slug}}
     editor:
       preview: false
@@ -150,4 +150,4 @@ collections:
         summary: '{{fields.image}}'
         fields:
           - {label: 'Image', name: 'image', widget: 'image' }
-          - {label: "Caption", name: "caption", widget: "string"}
+          - {label: "Caption", name: "caption", widget: "string", required: false}
