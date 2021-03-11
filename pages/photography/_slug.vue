@@ -31,7 +31,7 @@ export default {
     }
   },
   mounted() {
-    this.$store.commit('updateBgImage', this.artist.thumbnail)
+    this.$store.commit('updateBgImage', this.content.thumbnail)
   },
 }
 </script>
