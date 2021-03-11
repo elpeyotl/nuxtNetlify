@@ -141,9 +141,9 @@ collections:
         value_field: 'artist',
         display_fields: ['{{artist}}'],
       }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
+      - { label: 'Thubmnail', name: 'thumbnail', widget: 'image' }
       - label: "Gallery"
         name: "galleryImages"
         widget: "list"
