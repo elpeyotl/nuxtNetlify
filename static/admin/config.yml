@@ -124,23 +124,25 @@ collections:
     folder: 'content/photos'
     format: 'frontmatter'
     create: true
-    slug: '{{title}}'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     preview_path: /photos/{{slug}}
     editor:
       preview: false
     fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
       - {
         label: 'Artist',
         name: 'artist',
         widget: 'relation',
+        multiple: true,
         collection: 'artists',
         search_fields: ['artist'],
         value_field: 'artist',
         display_fields: ['{{artist}}'],
       }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Description', name: 'description', widget: 'string', required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown', required: false }
       - label: "Gallery"
         name: "galleryImages"
         widget: "list"
