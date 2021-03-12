@@ -3,7 +3,7 @@ title: The Shattered Mind Machine
 date: 2021-03-11T21:02:41.474Z
 artist:
   - The Shattered Mind Machine
-thumbnail: https://lightroom.adobe.com/v2c/spaces/7e2fc525d2b942d8aad4d93f275b44c9/assets/ba98fb753b349d4297aac6e8c09eeba2/revisions/9762e7a2c0924419a6b9d7dcfb1b0799/renditions/4fdcfcea8c7a95327a724e7cdc945e95
+thumbnail: https://lightroom.adobe.com/v2c/spaces/7e2fc525d2b942d8aad4d93f275b44c9/assets/c3de436ef68a0872bb71f63d85db6e0e/revisions/69086934702848d2bb27d69ac3da02ac/renditions/d720628de1cb985c9f2b6636f77e5f75
 galleryImages:
   - image: https://lightroom.adobe.com/v2c/spaces/7e2fc525d2b942d8aad4d93f275b44c9/assets/1727ae48f31740610c5a46adeff58aaa/revisions/6a01cbb6b5774cb4aab8809b5edef806/renditions/0e1fd9066585e57b16f899a7d436ea71
   - image: https://lightroom.adobe.com/v2c/spaces/7e2fc525d2b942d8aad4d93f275b44c9/assets/8a80ea36acbc0b7d1b96885ec5591a88/revisions/46ee68eeb3d240289625cea36c3112ec/renditions/de04aae49f0a50bb1ecd3c8eb0191969
