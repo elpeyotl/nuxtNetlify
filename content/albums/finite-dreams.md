@@ -8,7 +8,7 @@ lineup: "Music written, recorded and played by Strobehazer (Except bass on
   Produced by Strobehazer and Yvo Petrzilek. Mixed and Mastered by Yvo Petrzilek
   at Verwaltzen Productions Kollbrunn. Front cover photograph by Christian
   Poffet. Backcover photographs by Fiona Good. Layout by Strobehazer."
-thumbnail: /img/strobehazer_7inch_finalartwork_3000x3000_300dpi.jpg
+thumbnail: /img/strobehazer_7inch_finalartwork.jpg
 spotifyId: 0qbTM5j7CkJHrjJHPoh89n?si=uRZ-fgkiQlW7XRowh3MWVg
 youtubeId: watch?v=ZMu1eOreIew&list=PLg01btvz1lObK_3F3vatuAJztyhkdF96X
 ---
