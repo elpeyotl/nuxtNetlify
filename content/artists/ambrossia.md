@@ -4,8 +4,8 @@ date: 2021-01-26T01:53:21.061Z
 description: Startet under the name "Iron Metal" in 1994 and later in "Brainstorm".
 biography: "Ambrossia is: Markus Betschart, Ralph “Hoss” Gwerder, Daniel
   Inderbitzin, Peter Stöckli, Hugo Schelbert."
-thumbnail: https://lightroom.adobe.com/v2c/spaces/a42eae7a04bd48dda6b8193b4c695220/assets/b0cab70d402ef6260b42fbee95323096/revisions/04c42b415548451ca234a68e0a821b97/renditions/24b78a465ee05069c7f6cdae36c32ab1
-headerImage: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc7343422215/assets/be5f5df1f32cf432426daee997bab98a/revisions/57f1e645f50747968bb1362c8ced8a7a/renditions/a14aa85d7d42b5142a55b55674f8760b
+thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc7343422215/assets/be5f5df1f32cf432426daee997bab98a/revisions/57f1e645f50747968bb1362c8ced8a7a/renditions/a14aa85d7d42b5142a55b55674f8760b
+headerImage: https://lightroom.adobe.com/v2c/spaces/a42eae7a04bd48dda6b8193b4c695220/assets/b0cab70d402ef6260b42fbee95323096/revisions/04c42b415548451ca234a68e0a821b97/renditions/24b78a465ee05069c7f6cdae36c32ab1
 spotifyId: 2J8CCVrAVIZLGxRcRvwVBk?si=pQMxKjuwRWy1h7sUsppeTA
 youtubeId: watch?v=cMdguM99INk&list=PLg01btvz1lOZwNWDuofF9K4WgXJwtudQ-
 ---
