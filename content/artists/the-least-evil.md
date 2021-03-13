@@ -1,7 +1,7 @@
 ---
 artist: The Least Evil
 date: 2020-01-01T00:28:09.603Z
-description: The Least Evil is
+description: The Least Evil is a fresh Rock Duo from Winterthur, Switzerland.
 biography: >-
   Die zwei Protagonisten von The Least Evil kennen sich schon seit 2002, als sie
   zusammen in einer Punk-Metal Band musizierten. Schnell verstanden sie, dass in
