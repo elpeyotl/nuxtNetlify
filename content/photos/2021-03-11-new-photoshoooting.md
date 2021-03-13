@@ -3,6 +3,7 @@ title: The Shattered Mind Machine
 date: 2021-03-11T21:02:41.474Z
 artist:
   - The Shattered Mind Machine
+description: The Shattered Mind Machine is currently signed at AuGeil Records, Frauenfeld.
 thumbnail: https://lightroom.adobe.com/v2c/spaces/7e2fc525d2b942d8aad4d93f275b44c9/assets/d66efcf4779b1fb0ecef2225d1ad4d05/revisions/f43bfdf4f4224b0ca5d4f841582d2233/renditions/f05a3204628bf8e9dbe30fd221bee756
 galleryImages:
   - image: https://lightroom.adobe.com/v2c/spaces/7e2fc525d2b942d8aad4d93f275b44c9/assets/1727ae48f31740610c5a46adeff58aaa/revisions/6a01cbb6b5774cb4aab8809b5edef806/renditions/0e1fd9066585e57b16f899a7d436ea71
@@ -14,4 +15,4 @@ galleryImages:
   - image: https://lightroom.adobe.com/v2c/spaces/7e2fc525d2b942d8aad4d93f275b44c9/assets/abd270ed208dbae6293ac419c83305dd/revisions/560fe83f22bd4ab68c20991ff4747700/renditions/341e8aca222654c1fd3a5ae880e127a6
   - image: https://lightroom.adobe.com/v2c/spaces/7e2fc525d2b942d8aad4d93f275b44c9/assets/db0d494b2e76ee84dffcb73261e3ec51/revisions/f784ffd10eab49799a33c6d1df3844db/renditions/5838ba618a01ddf440d79b068b108ca6
 ---
-I had the honor to make a fotoshooting with this awsome band!!
+I am super happy with their music and have had several opportunities to photograph the band. Thanks for the good moments guys!
