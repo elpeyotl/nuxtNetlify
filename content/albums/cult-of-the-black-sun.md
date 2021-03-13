@@ -9,7 +9,7 @@ lineup: |-
   Al Fombra (Bass)\
   Sirio Forabosco (Drums)\
   Percussion on track 1979 by Makatumbo Stern & Chitammuerte Schmied
-thumbnail: /img/front_strahlenschwarz-3000x3000.jpg
+thumbnail: /img/front_strahlenschwarz-3000x3000-1-.jpg
 spotifyId: 4IW0PWI7B8eAheKkvW0qQU
 description: Best album
 youtubeId: MvUdwrFMJOo
