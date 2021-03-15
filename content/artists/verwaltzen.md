@@ -9,8 +9,8 @@ biography: After a few small EPs, gigs and changes of members, the band tries to
   three members have died in a spaceship crash Verwaltzen try to find their luck
   while working in their own recording studio. With or without a safety net.
   Stay tuned.
-thumbnail: /img/verwaltzen.jpg
-headerImage: /img/bandfoto2400x2400.jpg
+thumbnail: /img/logo.svg
+headerImage: https://lightroom.adobe.com/v2c/spaces/a42eae7a04bd48dda6b8193b4c695220/assets/1b5e3d87f38bb4a214b49e83ad92b955/revisions/43781779805c40af815b6926d63cf71e/renditions/386b2ef79afbfffc3074d7d9962dc316
 spotifyId: 44myJwFQUxjEsx8SoTIBxQ?si=k9XLJ5hrTa6gIrcaAPmC0Q
 youtubeId: UCslDw0LZLhZwJmc4D29ECxg
 ---

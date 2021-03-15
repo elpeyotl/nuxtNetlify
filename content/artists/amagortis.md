@@ -1,7 +1,7 @@
 ---
 artist: Amagortis
 date: 2021-01-26T01:49:35.869Z
-description: ERROR 404
+description: ERROR 666
 biography: 'Amagortis was formed in 2001 by Daniel, Stoef, Nathalie and friends.
   In January of 2004 Amagortis self-released their first full length album
   "Abominable". The line-up for this recording and the following gigs was:
@@ -26,4 +26,4 @@ headerImage: https://lightroom.adobe.com/v2c/spaces/a314ebc4d9974dc592337c6cdd01
 spotifyId: 3h6biOZ09elGkxUJK04PS8?si=Mp-w_cX-Sv2coTiJFQKhQg
 youtubeId: UC8g2wL_VqJ2GTQsYCKtfZMQ/featured
 ---
-ERROR 404
+ERROR 666
