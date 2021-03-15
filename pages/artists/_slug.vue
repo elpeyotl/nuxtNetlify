@@ -24,7 +24,9 @@
     <nuxt-content class="mb-12" :document="artist" />
 
     <div v-if="albums.length">
-      <h3 class="text-xl font-semibold mb-2">Discography</h3>
+      <h3 class="text-xl font-semibold mb-2">
+        Releases through The yelling light
+      </h3>
       <div class="mb-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
         <Card
           v-for="album in albums"

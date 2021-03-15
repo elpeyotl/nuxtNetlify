@@ -1,15 +1,53 @@
 <template>
-  <div
-    class="h-8 lg:h-12 flex justify-center mx-auto items-center w-3/4 justify-evenly"
-  >
-    <nuxt-link
-      v-for="link in links"
-      :key="link"
-      :to="`/${link}`"
-      class="uppercase"
-      >{{ link }}</nuxt-link
+  <div>
+    <div class="hidden md:block">
+      <div
+        class="h-8 lg:h-12 flex justify-center mx-auto items-center w-3/4 justify-evenly"
+      >
+        <nuxt-link
+          v-for="link in links"
+          :key="link"
+          :to="`/${link}`"
+          class="uppercase"
+          >{{ link }}</nuxt-link
+        >
+        <a href="https://shop.theyellinglight.ch/" target="_blank">SHOP</a>
+      </div>
+    </div>
+    <div class="md:hidden flex justify-center">
+      <button
+        :class="{ 'is-active': isActive }"
+        class="hamburger hamburger--collapse"
+        type="button"
+        @click="toggleMenu"
+      >
+        <span class="hamburger-box">
+          <span class="hamburger-inner"></span>
+        </span>
+      </button>
+    </div>
+    <transition
+      enter-active-class="animated slideInLeft"
+      leave-active-class="animated slideOutLeft"
     >
-    <a href="https://shop.theyellinglight.ch/" target="_blank">SHOP</a>
+      <div v-show="isActive" class="bg-black absolute h-full w-full z-30 p-4">
+        <div class="flex flex-col items-center" @click="toggleMenu">
+          <nuxt-link
+            v-for="link in links"
+            :key="link"
+            :to="`/${link}`"
+            class="uppercase my-3"
+            >{{ link }}</nuxt-link
+          >
+          <a
+            href="https://shop.theyellinglight.ch/"
+            target="_blank"
+            @click="toggleMenu"
+            >SHOP</a
+          >
+        </div>
+      </div>
+    </transition>
   </div>
 </template>
 
@@ -18,8 +56,20 @@ import { ref } from '@nuxtjs/composition-api'
 export default {
   setup() {
     const links = ref(['news', 'releases', 'artists', 'photography'])
+    const isActive = ref(false)
+
+    const toggleMenu = () => {
+      isActive.value = !isActive.value
+      if (isActive.value) {
+        document.body.style.position = 'fixed'
+      } else {
+        document.body.style.position = 'relative'
+      }
+    }
     return {
+      isActive,
       links,
+      toggleMenu,
     }
   },
 }
