@@ -22,12 +22,33 @@
         />
       </div>
     </div>
-    <div class="my-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+    <div
+      v-if="artists.length"
+      class="my-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8"
+    >
+      <Card v-for="artist in artists" :key="artist.slug" :content="artist" />
+    </div>
+    <div
+      v-if="albums.length"
+      class="my-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8"
+    >
       <Card
         v-for="album in albums"
         :key="album"
         :content="album"
         :is-album="true"
+      />
+    </div>
+
+    <div
+      v-if="photos.length"
+      class="mb-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8"
+    >
+      <Card
+        v-for="photo in photos"
+        :key="photo.slug"
+        :content="photo"
+        :is-photo="true"
       />
     </div>
   </div>
@@ -41,6 +62,8 @@ export default {
   async asyncData({ $content, params, error }) {
     let post
     let albums
+    let photos
+    let artists
     try {
       post = await $content('blog', params.slug).fetch()
       // OR const article = await $content(`articles/${params.slug}`).fetch()
@@ -48,16 +71,39 @@ export default {
     try {
       albums = await $content('albums')
         .where({
+          title: {
+            $regex: [...post.albums],
+          },
+        })
+        .sortBy('title', 'asc')
+        .fetch()
+    } catch (e) {}
+
+    try {
+      photos = await $content('photos')
+        .where({
           slug: {
-            $regex: [...post.albums, 'i'],
+            $regex: [...post.photos, 'i'],
           },
         })
         .sortBy('createdAt', 'asc')
         .fetch()
     } catch (e) {}
+    try {
+      artists = await $content('artists')
+        .where({
+          slug: {
+            $regex: [...post.artist, 'i'],
+          },
+        })
+        .sortBy('title', 'asc')
+        .fetch()
+    } catch (e) {}
     return {
       post,
       albums,
+      photos,
+      artists,
     }
   },
   mounted() {
