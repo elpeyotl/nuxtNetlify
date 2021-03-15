@@ -31,7 +31,15 @@
     <div class="mb-12">
       <youtube-embed v-if="album.youtubeId" :youtube-id="album.youtubeId" />
     </div>
-    <nuxt-content :document="album" />
+
+    <nuxt-content class="mb-12" :document="album" />
+
+    <div v-if="artist.length">
+      <h3 class="text-xl text-left font-semibold mb-2">Artist</h3>
+      <div class="mb-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+        <Card v-for="band in artist" :key="band.slug" :content="band" />
+      </div>
+    </div>
   </div>
 </template>
 
@@ -45,9 +53,7 @@ export default {
     try {
       album = await $content('albums', params.slug).fetch()
       // OR const article = await $content(`articles/${params.slug}`).fetch()
-    } catch (e) {
-      error({ message: 'Blog Post not found' })
-    }
+    } catch (e) {}
     try {
       artist = await $content('artists')
         .where({
@@ -57,9 +63,7 @@ export default {
         })
         .sortBy('createdAt', 'asc')
         .fetch()
-    } catch (e) {
-      error({ message: 'Artist not found' })
-    }
+    } catch (e) {}
     return {
       album,
       artist,

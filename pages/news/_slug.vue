@@ -4,23 +4,6 @@
       <img :src="post.thumbnail" class="w-1/2" />
     </div>
 
-    <!--<div
-      class="lr_embed"
-      style="
-        position: relative;
-        padding-bottom: 50%;
-        height: 0;
-        overflow: hidden;
-      "
-    >
-      <iframe
-        id="iframe"
-        src="https://lightroom.adobe.com/embed/shares/c214d285dcf84d18a59552b62568edb6/slideshow?background_color=%232D2D2D&color=%23999999"
-        frameborder="0"
-        style="width: 100%; height: 100%; position: absolute; top: 0; left: 0"
-      ></iframe>
-    </div>-->
-
     <div class="mb-12">
       <h2 class="text-2xl font-semibold">{{ post.title }}</h2>
       {{ showDate(post.createdAt) }}
@@ -61,9 +44,7 @@ export default {
     try {
       post = await $content('blog', params.slug).fetch()
       // OR const article = await $content(`articles/${params.slug}`).fetch()
-    } catch (e) {
-      error({ message: 'Blog Post not found' })
-    }
+    } catch (e) {}
     try {
       albums = await $content('albums')
         .where({
@@ -73,9 +54,7 @@ export default {
         })
         .sortBy('createdAt', 'asc')
         .fetch()
-    } catch (e) {
-      error({ message: 'Artist not found' })
-    }
+    } catch (e) {}
     return {
       post,
       albums,

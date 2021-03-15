@@ -21,17 +21,30 @@
       <youtube-embed v-if="artist.youtubeId" :youtube-id="artist.youtubeId" />
     </div>
 
-    <h3 class="text-xl font-semibold mt-16">Discography</h3>
-    <div class="my-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-      <Card
-        v-for="album in albums"
-        :key="album.slug"
-        :content="album"
-        :is-album="true"
-      />
-    </div>
+    <nuxt-content class="mb-12" :document="artist" />
 
-    <nuxt-content :document="artist" />
+    <div v-if="albums.length">
+      <h3 class="text-xl font-semibold mb-2">Discography</h3>
+      <div class="mb-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+        <Card
+          v-for="album in albums"
+          :key="album.slug"
+          :content="album"
+          :is-album="true"
+        />
+      </div>
+    </div>
+    <div v-if="photos.length">
+      <h3 class="text-xl font-semibold mt-16 mb-2">Photos</h3>
+      <div class="mb-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+        <Card
+          v-for="photo in photos"
+          :key="photo.slug"
+          :content="photo"
+          :is-photo="true"
+        />
+      </div>
+    </div>
   </div>
 </template>
 
@@ -40,11 +53,10 @@ export default {
   async asyncData({ $content, params, error }) {
     let artist
     let albums
+    let photos
     try {
       artist = await $content('artists', params.slug).fetch()
-    } catch (e) {
-      error({ message: 'Artist not found' })
-    }
+    } catch (e) {}
     try {
       albums = await $content('albums')
         .where({
@@ -54,12 +66,21 @@ export default {
         })
         .sortBy('createdAt', 'asc')
         .fetch()
-    } catch (e) {
-      error({ message: 'Artist not found' })
-    }
+    } catch (e) {}
+    try {
+      photos = await $content('photos')
+        .where({
+          artist: {
+            $regex: [artist.artist, 'i'],
+          },
+        })
+        .sortBy('createdAt', 'asc')
+        .fetch()
+    } catch (e) {}
     return {
       artist,
       albums,
+      photos,
     }
   },
   mounted() {

@@ -12,11 +12,13 @@
       </div>
     </div>
 
-    <h3 class="text-xl text-left font-semibold mt-16">
-      Artist<span v-if="artists.length > 1">s</span>
-    </h3>
-    <div class="my-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-      <Card v-for="artist in artists" :key="artist.slug" :content="artist" />
+    <div v-if="artists.length">
+      <h3 class="text-xl text-left font-semibold mb-2">
+        Artist<span v-if="artists.length > 1">s</span>
+      </h3>
+      <div class="mb-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+        <Card v-for="artist in artists" :key="artist.slug" :content="artist" />
+      </div>
     </div>
   </div>
 </template>

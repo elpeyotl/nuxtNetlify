@@ -33,14 +33,34 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Image', name: 'thumbnail', widget: 'image' }
       - {
-          label: 'Albums',
-          name: 'albums',
-          widget: 'relation',
-          collection: 'albums',
-          required: false,
-          search_fields: ['artist', 'title'],
-          value_field: '{{slug}}',
-          multiple: true,
+        label: 'Artist',
+        name: 'artist',
+        widget: 'relation',
+        multiple: true,
+        collection: 'artists',
+        search_fields: ['artist'],
+        value_field: 'artist',
+        display_fields: ['{{artist}}'],
+        }
+      - {
+        label: 'Albums',
+        name: 'albums',
+        widget: 'relation',
+        collection: 'albums',
+        required: false,
+        search_fields: ['artist', 'title'],
+        value_field: '{{slug}}',
+        multiple: true,
+        }
+      - {
+        label: 'Photos',
+        name: 'photos',
+        widget: 'relation',
+        collection: 'photos',
+        required: false,
+        search_fields: ['artist', 'title'],
+        value_field: '{{slug}}',
+        multiple: true,
         }
       - {
         label: 'Spotify',
