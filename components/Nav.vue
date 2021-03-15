@@ -30,7 +30,7 @@
       enter-active-class="animated slideInLeft"
       leave-active-class="animated slideOutLeft"
     >
-      <div v-show="isActive" class="bg-black absolute h-full w-full z-30 p-4">
+      <div v-show="isActive" class="bg-black absolute h-full w-full z-50 p-4">
         <div class="flex flex-col items-center" @click="toggleMenu">
           <nuxt-link
             v-for="link in links"
@@ -60,10 +60,11 @@ export default {
 
     const toggleMenu = () => {
       isActive.value = !isActive.value
+      const header = document.querySelector('header')
       if (isActive.value) {
-        document.body.style.position = 'fixed'
+        header.classList.add('headerFixed')
       } else {
-        document.body.style.position = 'relative'
+        header.classList.remove('headerFixed')
       }
     }
     return {
@@ -75,4 +76,10 @@ export default {
 }
 </script>
 
-<style></style>
+<style>
+.headerFixed {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+}
+</style>
