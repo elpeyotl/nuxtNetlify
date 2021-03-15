@@ -4,8 +4,8 @@
       <img :src="album.thumbnail" class="w-1/2" />
     </div>
 
-    <div class="my-24 flex">
-      <div class="w-2/3 pr-16">
+    <div class="my-12 md:my-24 flex flex-col md:flex-row">
+      <div class="w-full md:w-2/3 pr-16">
         <h2 class="text-2xl font-semibold">{{ album.title }}</h2>
         <h3 class="text-lg font-semibold">
           <nuxt-link :to="`/artists/${artist[0].slug}`"
@@ -19,7 +19,7 @@
         <h3 v-if="album.lineup" class="text-xl font-semibold mt-16">Line-up</h3>
         {{ album.lineup }}
       </div>
-      <div class="w-1/3 flex justify-end">
+      <div class="w-full md:w-1/3 flex md:justify-end mt-12 md:mt-0">
         <spotify-embed
           v-if="album.spotifyId"
           :is-album="true"

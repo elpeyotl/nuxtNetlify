@@ -1,7 +1,7 @@
 <template>
   <iframe
+    class="w-full"
     :src="spotifyUrl"
-    width="300"
     height="380"
     frameborder="0"
     allowtransparency="true"

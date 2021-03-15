@@ -37,6 +37,7 @@ collections:
         name: 'artist',
         widget: 'relation',
         multiple: true,
+        required: false,
         collection: 'artists',
         search_fields: ['artist'],
         value_field: 'artist',
