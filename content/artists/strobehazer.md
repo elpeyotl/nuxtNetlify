@@ -17,3 +17,7 @@ spotifyId: 60CIhUHujDJ5luZnAMT1WA?si=BwYSmh5TQ8qOozYa4ZkAjw
 youtubeId: UCAmKCYRN9-jD9qo6QvJ6axQ/videos
 ---
 07/03/2020 Release of Finite Dreams (single) digital & vinyl.
+
+Support Strobehazer on [instagram](https://www.instagram.com/strobehazer/), [Facebook](https://www.facebook.com/strobehazer), [Spotify](https://open.spotify.com/artist/60CIhUHujDJ5luZnAMT1WA?si=I4XMp99QSMqu_hMman3mdg), [Youtube](https://www.youtube.com/watch?v=ZMu1eOreIew), [Apple Music](https://music.apple.com/ch/album/finite-dreams/1520441016?i=1520441019&app=music), [Deezer](https://www.deezer.com/de/track/1003731242), [Tidal](https://tidal.com/browse/album/146605245), [Napster](https://ch.napster.com/artist/strobehazer/album/finite-dreams), [Amazon](https://music.amazon.com/albums/B08BW31G33?trackAsin=B08BVVRW3T)
+
+Strobehazer has various music projects like: Megaton Sword, Forlet Sires, Woeful Silence, Geist Elbereth
