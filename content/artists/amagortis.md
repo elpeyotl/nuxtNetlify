@@ -1,7 +1,8 @@
 ---
 artist: Amagortis
 date: 2021-01-26T01:49:35.869Z
-description: ERROR 666
+description: Amagortis is a brutal death metal band from Düdingen, Switzerland.
+  The band is innactive since 2013.
 biography: 'Amagortis was formed in 2001 by Daniel, Stoef, Nathalie and friends.
   In January of 2004 Amagortis self-released their first full length album
   "Abominable". The line-up for this recording and the following gigs was:
