@@ -9,6 +9,4 @@ spotifyId: 5ToALAD5qqby7v1SZYmufh?si=9gabmZd8Q2CYT3P91bD0vQ
 youtubeId: UC9bOvPRd5C8BoxlKvZYAGfg
 ---
 Support Migre le Tigre on:\
-[Bandcamp](https://migreletigre.bandcamp.com/)\
-[Youtube](https://www.youtube.com/channel/UC9bOvPRd5C8BoxlKvZYAGfg)\
-[Facebook](https://www.facebook.com/Migre-Le-Tigre-197327033670944)
+[Bandcamp](https://migreletigre.bandcamp.com/), [Youtube](https://www.youtube.com/channel/UC9bOvPRd5C8BoxlKvZYAGfg), [Facebook](https://www.facebook.com/Migre-Le-Tigre-197327033670944)
