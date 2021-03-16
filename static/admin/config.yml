@@ -191,4 +191,4 @@ collections:
           - widget: "list"
             name: "genres"
             summary: '{{fields.image}}'
-            field: {label: "Genre", name: "genre", widget: "String"}
+            field: {label: "Genre", name: "genre", widget: "string"}
