@@ -1,7 +1,7 @@
 <template>
   <div class="relative">
     <div class="w-full mb-12 flex justify-center">
-      <img :src="post.thumbnail" class="w-1/2" />
+      <img v-lazy="post.thumbnail" class="w-1/2" />
     </div>
 
     <div class="mb-12">

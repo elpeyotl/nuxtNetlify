@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="w-full mb-12">
-      <img :src="artist.headerImage" />
+      <img v-lazy="artist.headerImage" />
     </div>
     <h2 class="text-2xl w-1/2 font-semibold mb-8">{{ artist.artist }}</h2>
     <div class="mb-16 flex flex-col lg:flex-row">

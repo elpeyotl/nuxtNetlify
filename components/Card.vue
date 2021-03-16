@@ -26,8 +26,8 @@
         </div>
 
         <div
+          v-lazy:background-image="content.thumbnail"
           class="card__bgImage bg-black z-0 absolute cursor-pointer w-full h-56"
-          :style="{ backgroundImage: 'url(' + content.thumbnail + ')' }"
         ></div>
       </div>
     </nuxt-link>
