@@ -100,10 +100,11 @@ collections:
           label: "Genres",
           name: "genres",
           widget: "relation",
+          collection: "settings",
           file: "content/settings/genres.md",
-          search_fields: ["genres.genre"],
-          display_fields: ['{{genres.genre}}'],
-          value_field: "genres.genre"
+          search_fields: ["genres"],
+          display_fields: ['{{genres}}'],
+          value_field: "genres"
         }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
