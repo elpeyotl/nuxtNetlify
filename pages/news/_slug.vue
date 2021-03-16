@@ -23,13 +23,13 @@
       </div>
     </div>
     <div
-      v-if="post.artists.length"
+      v-if="post.artist"
       class="my-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8"
     >
       <Card v-for="artist in artists" :key="artist.slug" :content="artist" />
     </div>
     <div
-      v-if="post.albums.length"
+      v-if="post.albums"
       class="my-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8"
     >
       <Card
@@ -41,7 +41,7 @@
     </div>
 
     <div
-      v-if="post.photos.length"
+      v-if="post.photos"
       class="mb-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8"
     >
       <Card
@@ -72,7 +72,18 @@ export default {
       albums = await $content('albums')
         .where({
           slug: {
-            $regex: [...post.albums, 'i'],
+            $regex: [post.albums, 'i'],
+          },
+        })
+        .sortBy('title', 'asc')
+        .fetch()
+    } catch (e) {}
+
+    try {
+      artists = await $content('artists')
+        .where({
+          artist: {
+            $regex: [post.artist, 'i'],
           },
         })
         .sortBy('title', 'asc')
@@ -83,21 +94,13 @@ export default {
       photos = await $content('photos')
         .where({
           slug: {
-            $regex: [...post.photos, 'i'],
+            $regex: [post.photos, 'i'],
           },
         })
         .sortBy('createdAt', 'asc')
         .fetch()
     } catch (e) {}
     try {
-      artists = await $content('artists')
-        .where({
-          slug: {
-            $regex: [...post.artist, 'i'],
-          },
-        })
-        .sortBy('title', 'asc')
-        .fetch()
     } catch (e) {}
     return {
       post,
