@@ -193,12 +193,12 @@ collections:
     name: "settings"
     files:
       - label: "Genres"
-        name: "genres"
+        name: "genreSetting"
         file: "content/settings/genres.md"
         editor:
           preview: false
         fields:
           - widget: "list"
             name: "genres"
-            summary: '{{fields.image}}'
+            summary: '{{genre}}'
             field: {label: "Genre", name: "genre", widget: "string"}
