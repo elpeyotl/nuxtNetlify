@@ -200,5 +200,3 @@ collections:
         fields:
           - widget: "list"
             name: "genres"
-            summary: '{{genre}}'
-            field: {label: "Genre", name: "genre", widget: "string"}
