@@ -101,7 +101,7 @@ collections:
           name: "genres",
           widget: "relation",
           collection: "settings",
-          file: "content/settings/genres.md",
+          file: "content/genres.md",
           search_fields: ["genres.genre"],
           display_fields: ['{{genres.genre}}'],
           value_field: "genres.genre"
@@ -200,5 +200,5 @@ collections:
         fields:
           - widget: "list"
             name: "genres"
-            summary: '{{fields.genre}}'
+            summary: '{{genres.genre}}'
             field: {label: "Genre", name: "genre", widget: "string"}
