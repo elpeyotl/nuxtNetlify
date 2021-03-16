@@ -190,4 +190,4 @@ collections:
         fields:
           - widget: "list"
             summary: '{{fields.image}}'
-            field: {label: Genre, name: genre, widget: String}
+            field: {label: "Genre", name: "genre", widget: "String"}
