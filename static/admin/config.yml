@@ -36,7 +36,7 @@ collections:
         label: 'Artist',
         name: 'artist',
         widget: 'relation',
-        multiple: true,
+        multiple: false,
         required: false,
         collection: 'artists',
         search_fields: ['artist'],
@@ -51,7 +51,7 @@ collections:
         required: false,
         search_fields: ['artist', 'title'],
         value_field: '{{slug}}',
-        multiple: true,
+        multiple: false,
         }
       - {
         label: 'Photos',
@@ -61,7 +61,7 @@ collections:
         required: false,
         search_fields: ['artist', 'title'],
         value_field: '{{slug}}',
-        multiple: true,
+        multiple: false,
         }
       - {
         label: 'Spotify',
