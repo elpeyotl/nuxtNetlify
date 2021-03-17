@@ -101,8 +101,8 @@ collections:
           name: "genresList",
           widget: "relation",
           collection: "settings",
-          search_fields: "genres",
-          display_fields: "genres",
+          search_fields: ["genres"],
+          display_fields: ["genres"],
           value_field: "genres"
         }
       - { label: 'Title', name: 'title', widget: 'string' }
