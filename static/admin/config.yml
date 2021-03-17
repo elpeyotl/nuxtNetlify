@@ -102,7 +102,7 @@ collections:
           widget: "relation",
           collection: "settings",
           search_fields: ["name"],
-          display_fields: ["{{name}}"],
+          display_fields: ["{{genres.name}}"],
           value_field: "name"
         }
       - { label: 'Title', name: 'title', widget: 'string' }
