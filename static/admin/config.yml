@@ -102,7 +102,7 @@ collections:
           widget: "relation",
           collection: "settings",
           file: "content/settings/genres.md",
-          search_fields: ["genres.genre"],
+          search_fields: ["genres"],
           display_fields: ['{{genres.genre}}'],
           value_field: "genres.genre"
         }
