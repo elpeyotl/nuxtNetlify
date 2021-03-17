@@ -2,24 +2,26 @@
   <div>
     <h1 class="text-4xl font-semibold text-center">Releases</h1>
 
-    <div class="flex justify-center mt-6">
-      <div
-        v-for="genre in genres"
-        :key="genre.genre"
-        :class="{ 'bg-red-400': selectedGenres.includes(genre.genre) }"
-        class="bg-red-300 rounded mr-2 px-2 py-1 cursor-pointer transition-colors duration-500 hover:bg-red-400"
-        @click="handleGenreClick(genre.genre)"
-      >
-        {{ genre.genre }}
+    <div class="filter hidden md:block">
+      <div class="flex justify-center mt-6">
+        <div
+          v-for="genre in genres"
+          :key="genre.genre"
+          :class="{ 'bg-red-400': selectedGenres.includes(genre.genre) }"
+          class="bg-red-300 rounded mr-2 px-2 py-1 cursor-pointer transition-colors duration-500 hover:bg-red-400"
+          @click="handleGenreClick(genre.genre)"
+        >
+          {{ genre.genre }}
+        </div>
       </div>
-    </div>
-    <div v-if="selectedGenres.length" class="flex justify-center">
-      <span
-        class="justify-center rounded mt-4 px-2 py-1 cursor-pointer transition-colors duration-500 hover:bg-red-400"
-        @click="selectedGenres = []"
-      >
-        RESET
-      </span>
+      <div v-if="selectedGenres.length" class="flex justify-center">
+        <span
+          class="justify-center rounded mt-4 px-2 py-1 cursor-pointer transition-colors duration-500 hover:bg-red-400"
+          @click="selectedGenres = []"
+        >
+          RESET
+        </span>
+      </div>
     </div>
 
     <div v-if="filteredAlbums.length">
