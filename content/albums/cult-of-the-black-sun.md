@@ -1,5 +1,7 @@
 ---
 artist: The Sunwashed Avenues
+genres:
+  - Rock
 title: Cult Of The Black Sun
 date: 2010-01-01T21:09:04.315Z
 recordLabel: "Dirty & Weird Music / The yelling light "
