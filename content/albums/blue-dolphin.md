@@ -1,5 +1,8 @@
 ---
 artist: The Sunwashed Avenues
+genres:
+  - Rock
+  - Post-rock
 title: Blue Dolphin
 date: 2012-02-19T00:02:00.000Z
 recordLabel: Self-Release / The yelling light
