@@ -1,6 +1,4 @@
 ---
 genres:
   - test
-  - hossa
-  - hüüüühüüü
 ---
