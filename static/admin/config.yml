@@ -97,13 +97,14 @@ collections:
           display_fields: ['{{artist}}'],
         }
       - {
-          label: "Genres",
-          name: "genresList",
-          widget: "relation",
-          collection: "settings",
-          search_fields: ["name"],
-          display_fields: ["{{genres.name}}"],
-          value_field: "name"
+          label: 'Genres',
+          name: 'genres',
+          widget: 'relation',
+          multiple: true,
+          collection: 'genres',
+          search_fields: ['genre'],
+          value_field: 'genre',
+          display_fields: ['{{genre}}'],
         }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
@@ -188,17 +189,13 @@ collections:
         fields:
           - {label: 'Image', name: 'image', widget: 'image' }
           - {label: "Caption", name: "caption", widget: "string", required: false}
-  - label: "Settings"
-    name: "settings"
-    files:
-      - label: "Genres"
-        name: "genreSetting"
-        file: "content/settings/genres.md"
-        editor:
-          preview: false
-        fields:
-          - widget: "list"
-            label: "Genres"
-            name: "genres"
-            summary: '{{genres.genre}}'
-            field: {label: "Genre", name: "genre", widget: "string"}
+  - label: "Genres"
+    name: "genres"
+    folder: 'content/genres'
+      format: 'frontmatter'
+      create: true
+      slug: '{{slug}}'
+      editor:
+        preview: false
+      fields:
+        - { label: 'Title', name: 'genre', widget: 'string' }
