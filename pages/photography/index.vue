@@ -20,9 +20,7 @@ export default {
     try {
       photos = await $content('photos').fetch()
       // OR const article = await $content(`articles/${params.slug}`).fetch()
-    } catch (e) {
-      error({ message: 'Blog Post not found' })
-    }
+    } catch (e) {}
     return {
       photos,
     }

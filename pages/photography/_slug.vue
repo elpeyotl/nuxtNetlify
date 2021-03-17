@@ -32,9 +32,7 @@ export default {
     let artists
     try {
       content = await $content('photos', params.slug).fetch()
-    } catch (e) {
-      error({ message: 'Not found' })
-    }
+    } catch (e) {}
     try {
       artists = await $content('artists')
         .where({
@@ -44,9 +42,7 @@ export default {
         })
         .sortBy('createdAt', 'asc')
         .fetch()
-    } catch (e) {
-      error({ message: 'Artist not found' })
-    }
+    } catch (e) {}
     return {
       artists,
       content,

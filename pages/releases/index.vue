@@ -7,8 +7,8 @@
         <div
           v-for="genre in genres"
           :key="genre.genre"
-          :class="{ 'bg-red-400': selectedGenres.includes(genre.genre) }"
-          class="bg-red-300 rounded mr-2 px-2 py-1 cursor-pointer transition-colors duration-500 hover:bg-red-400"
+          :class="{ 'filter--active': selectedGenres.includes(genre.genre) }"
+          class="border-b-4 border-black mr-4 px-2 py-1 cursor-pointer transition-colors duration-500 hover:border-red-500"
           @click="handleGenreClick(genre.genre)"
         >
           {{ genre.genre }}
@@ -16,7 +16,7 @@
       </div>
       <div v-if="selectedGenres.length" class="flex justify-center">
         <span
-          class="justify-center rounded mt-4 px-2 py-1 cursor-pointer transition-colors duration-500 hover:bg-red-400"
+          class="justify-center mt-4 px-2 py-1 cursor-pointer transition-colors duration-500 hover:bg-black hover:text-white"
           @click="selectedGenres = []"
         >
           RESET
@@ -106,4 +106,8 @@ export default {
 }
 </script>
 
-<style></style>
+<style>
+.filter--active {
+  @apply bg-black text-white border-red-500;
+}
+</style>
