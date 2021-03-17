@@ -194,7 +194,7 @@ collections:
     folder: 'content/genres'
     format: 'frontmatter'
     create: true
-    slug: '{{slug}}'
+    slug: '{{genre}}'
     editor:
       preview: false
     fields:

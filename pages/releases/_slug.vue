@@ -14,8 +14,16 @@
         </h3>
         <p class="text-sm font-light text-justify">
           {{ album.recordLabel }}<br />
-          {{ showYear(album.date) }}
+          {{ showYear(album.date) }}<br />
         </p>
+        <div v-if="album.genres" class="text-xs font-light text-justify">
+          <span
+            v-for="genre in album.genres"
+            :key="genre"
+            class="bg-red-300 p-1 rounded mr-1 text-center"
+            >{{ genre }}</span
+          >
+        </div>
         <h3 v-if="album.lineup" class="text-xl font-semibold mt-16">Line-up</h3>
         {{ album.lineup }}
       </div>
