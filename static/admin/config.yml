@@ -192,10 +192,10 @@ collections:
   - label: "Genres"
     name: "genres"
     folder: 'content/genres'
-      format: 'frontmatter'
-      create: true
-      slug: '{{slug}}'
-      editor:
-        preview: false
-      fields:
-        - { label: 'Title', name: 'genre', widget: 'string' }
+    format: 'frontmatter'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'genre', widget: 'string' }
