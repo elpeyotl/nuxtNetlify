@@ -16,10 +16,10 @@
       </div>
       <div v-if="selectedGenres.length" class="flex justify-center">
         <span
-          class="justify-center mt-4 px-2 py-1 cursor-pointer transition-colors duration-500 hover:bg-black hover:text-white"
+          class="justify-center mt-4 px-2 py-1 bg-black text-white cursor-pointer transition-colors duration-500 hover:bg-red-500 hover:text-white"
           @click="selectedGenres = []"
         >
-          RESET
+          Reset
         </span>
       </div>
     </div>
