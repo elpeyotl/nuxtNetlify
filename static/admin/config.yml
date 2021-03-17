@@ -101,7 +101,7 @@ collections:
           name: "genresList",
           widget: "relation",
           collection: "settings",
-          search_fields: ["genres"],
+          search_fields: ["name"],
           display_fields: ["{{genres.name}}"],
           value_field: "genres.name"
         }
