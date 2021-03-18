@@ -1,5 +1,8 @@
 ---
 artist: Ambrossia
+genres:
+  - Death
+  - Metal
 title: Pressorce Through Spate
 date: 2003-05-31T22:14:33.199Z
 recordLabel: Self Released (2003) / The yelling light (2020)
