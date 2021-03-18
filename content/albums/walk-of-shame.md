@@ -1,5 +1,8 @@
 ---
 artist: Datzun Daze
+genres:
+  - Indie
+  - Rock
 title: Walk of Shame
 date: 2021-04-01T23:58:54.806Z
 recordLabel: The yelling light
