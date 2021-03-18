@@ -1,5 +1,7 @@
 ---
 artist: Red Tape Redemption
+genres:
+  - Rock
 title: Driving South
 date: 2020-12-04T20:02:55.165Z
 recordLabel: The yelling light
