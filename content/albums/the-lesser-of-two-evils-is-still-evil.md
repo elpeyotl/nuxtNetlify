@@ -1,5 +1,7 @@
 ---
 artist: The Least Evil
+genres:
+  - Rock
 title: The Lesser Of Two Evils Is Still Evil
 date: 2020-02-28T00:36:38.293Z
 recordLabel: Self-Release / The yelling light
