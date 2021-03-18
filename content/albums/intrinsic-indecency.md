@@ -1,5 +1,8 @@
 ---
 artist: Amagortis
+genres:
+  - Death
+  - Metal
 title: Intrinsic Indecency
 date: 2010-06-01T21:53:40.283Z
 recordLabel: Brutal Bands / The yelling light
