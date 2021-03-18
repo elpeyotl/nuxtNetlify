@@ -1,5 +1,8 @@
 ---
 artist: Datzun Daze
+genres:
+  - Indie
+  - Rock
 title: Stockholm Syndrome
 date: 2021-02-18T22:18:00.891Z
 recordLabel: The yelling light
