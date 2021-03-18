@@ -1,6 +1,7 @@
 ---
 artist: Red Tape Redemption
 genres:
+  - Blues
   - Rock
 title: Driving South
 date: 2020-12-04T20:02:55.165Z
