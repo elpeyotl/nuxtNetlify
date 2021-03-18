@@ -1,5 +1,8 @@
 ---
 artist: Verwaltzen
+genres:
+  - Alternative
+  - Rock
 title: The Great Relief
 date: 2019-12-05T01:21:45.118Z
 recordLabel: The yelling light
