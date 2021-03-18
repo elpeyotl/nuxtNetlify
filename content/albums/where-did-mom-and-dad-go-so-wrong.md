@@ -1,5 +1,8 @@
 ---
 artist: Migre le Tigre
+genres:
+  - Acoustic
+  - Punk
 title: Where Did Mom And Dad Go So Wrong?
 date: 2015-03-16T19:58:52.310Z
 recordLabel: Schall und Rauch Platten / The yelling light
