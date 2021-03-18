@@ -1,5 +1,8 @@
 ---
 artist: Wolves Usually Take The Stairs
+genres:
+  - Alternative
+  - Metal
 title: Random Local
 date: 2020-12-17T23:22:41.271Z
 recordLabel: The yelling light
