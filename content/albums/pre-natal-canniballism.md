@@ -1,5 +1,8 @@
 ---
 artist: Amagortis
+genres:
+  - Death
+  - Metal
 title: Pre-Natal Canniballism
 date: 2007-06-01T21:47:31.825Z
 recordLabel: Fastbeast Entertainment /  Brutal Bands / The yelling light
