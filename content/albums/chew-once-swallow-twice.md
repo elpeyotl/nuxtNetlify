@@ -1,5 +1,8 @@
 ---
 artist: Wolves Usually Take The Stairs
+genres:
+  - Alternative
+  - Rock
 title: Chew Once, Swallow Twice
 date: 2020-12-10T23:19:39.824Z
 recordLabel: The yelling light
