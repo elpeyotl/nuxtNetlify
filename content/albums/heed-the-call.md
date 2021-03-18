@@ -1,5 +1,8 @@
 ---
 artist: Migre le Tigre
+genres:
+  - Acoustic
+  - Punk
 title: Heed The Call
 date: 2013-12-06T19:54:47.986Z
 recordLabel: Subversiv Records / The yelling light
