@@ -1,3 +1,0 @@
----
-genre: Post-rock
----
