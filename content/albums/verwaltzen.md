@@ -1,5 +1,8 @@
 ---
 artist: Verwaltzen
+genres:
+  - Alternative
+  - Metal
 title: Verwaltzen
 date: 2017-07-05T00:19:34.916Z
 recordLabel: The yelling light
