@@ -1,5 +1,7 @@
 ---
 artist: The Sunwashed Avenues
+genres:
+  - Rock
 title: Selftitled
 date: 2009-01-13T22:50:00.000Z
 recordLabel: Dirty & weird music / The yelling light
