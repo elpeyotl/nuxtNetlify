@@ -1,5 +1,8 @@
 ---
 artist: Verwaltzen
+genres:
+  - Alternative
+  - Metal
 title: pension off & nothing
 date: 2012-12-14T01:16:51.521Z
 recordLabel: Self Released / The yelling light (2019)
