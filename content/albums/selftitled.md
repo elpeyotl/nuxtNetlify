@@ -1,6 +1,7 @@
 ---
 artist: The Sunwashed Avenues
 genres:
+  - Alternative
   - Rock
 title: Selftitled
 date: 2009-01-13T22:50:00.000Z
