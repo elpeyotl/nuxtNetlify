@@ -1,5 +1,8 @@
 ---
 artist: Amagortis
+genres:
+  - Death
+  - Metal
 title: Promo 2007
 date: 2007-05-31T22:06:44.719Z
 recordLabel: Self Released / The yelling light
