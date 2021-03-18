@@ -3,12 +3,12 @@
     <h1 class="text-4xl font-semibold text-center">Releases</h1>
 
     <div class="filter hidden md:block">
-      <div class="flex justify-center mt-6">
+      <div class="flex justify-center flex-wrap mt-6">
         <div
           v-for="genre in genres"
           :key="genre.genre"
           :class="{ 'filter--active': selectedGenres.includes(genre.genre) }"
-          class="border-b-4 border-black mr-4 px-2 py-1 cursor-pointer transition-colors duration-500 hover:border-red-500"
+          class="border-b-4 border-black mr-4 mt-4 px-2 py-1 cursor-pointer transition-colors duration-500 hover:border-red-500"
           @click="handleGenreClick(genre.genre)"
         >
           {{ genre.genre }}
