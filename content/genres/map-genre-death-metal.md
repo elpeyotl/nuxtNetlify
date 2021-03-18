@@ -1,3 +1,3 @@
 ---
-genre: Death-Metal
+genre: Death
 ---
