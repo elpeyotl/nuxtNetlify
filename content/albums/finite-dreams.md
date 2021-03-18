@@ -1,5 +1,8 @@
 ---
 artist: Strobehazer
+genres:
+  - Synth
+  - Pop
 title: Finite Dreams
 date: 2020-07-02T22:55:05.179Z
 recordLabel: The yelling light
