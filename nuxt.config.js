@@ -32,7 +32,7 @@ export default {
   // Global CSS (https://go.nuxtjs.dev/config-css)
   css: ['~/assets/styles/styles.css', '~/assets/styles/animate.css'],
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
-  plugins: ['~/plugins/vue-lazyload.js'],
+  plugins: ['~/plugins/vue-lazyload.js', '~/plugins/svgIcon.js'],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
   components: true,

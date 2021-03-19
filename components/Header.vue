@@ -3,7 +3,7 @@
     <div class="border-b border-gray-900">
       <NuxtLink to="/">
         <div
-          class="w-full h-20 lg:h-32 flex flex-col justify-center items-center"
+          class="w-full h-20 lg:h-32 flex flex-col items-center justify-center"
         >
           <h1 class="uppercase text-xl lg:text-4xl font-bold">
             The yelling light
