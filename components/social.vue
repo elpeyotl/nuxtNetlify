@@ -1,7 +1,7 @@
 <template>
   <div>
-    <div class="social flex justify-evenly py-2 w-64 h-12">
-      <img src="~/assets/icons/facebook.svg" />
+    <div class="social flex justify-evenly py-2 w-64">
+      <svg-icon name="facebook" class="text-white h-24" />
       <img src="~/assets/icons/instagram.svg" />
       <img src="~/assets/icons/mail.svg" />
       <img src="~/assets/icons/twitter.svg" />
@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import '~/icons'
+import '@/icons'
 export default {
   name: 'Social',
 }

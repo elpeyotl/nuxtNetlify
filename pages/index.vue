@@ -25,7 +25,7 @@
 export default {
   async asyncData({ $content }) {
     const posts = await $content('blog').sortBy('createdAt', 'desc').fetch()
-    const home = await $content('pages', 'home').fetch()
+    const home = await $content('home').fetch()
     return {
       home,
       posts,
