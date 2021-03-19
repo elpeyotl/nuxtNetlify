@@ -17,7 +17,7 @@ biography: >-
 
 
   [Become a patreon of Datzun Daze.](https://www.patreon.com/Datzundaze)
-thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc7343422215/assets/2e29c46cc8734a87211a4e2e76684980/revisions/53e5597ae8104366a4a1f1bb85a70f5c/renditions/8c5ba20500d4b3a89ff2df8fdd59627a
+thumbnail: https://lightroom.adobe.com/v2c/spaces/a314ebc4d9974dc592337c6cdd0126b2/assets/d0f4db221e3ea0d8685a74e02a7aef61/revisions/7fc80d84b51547a9ab7c121da0a73800/renditions/413d2753ba0557afe2c00777f089e7e0
 headerImage: https://datzundaze.com/Bandfoto2.jpeg
 spotifyId: 6xb5XfdwKNFNZKOJWI0Ose
 ---
