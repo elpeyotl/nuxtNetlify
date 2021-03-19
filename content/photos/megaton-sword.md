@@ -6,7 +6,6 @@ description: Megaton Sword is an Epic Heavy Metal band from Winterthur,
   Victims Productions
 thumbnail: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/b6f8e1919f00339527e814d62b7969e6/revisions/be9ea1927187415a84bb26c8df09281b/renditions/258796e59c223d5cfd74d5667311d19f
 galleryImages:
-  - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/218acab37ade6447a40f6d6ed83f027a/revisions/99bb03a5ece5439291a2c8d3fa5c7e70/renditions/0721f3971801882fab667e9bac421b69
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/9ae48246d85ba7688e7011c01cc6947c/revisions/e5eec55437fe44fe92310e8abe7a9997/renditions/ca9bffaeb653f8223f5abd3b2644b6af
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/6d811b89916b80744473797443f6be88/revisions/d6096816552a42b3ac637becd3cd2bc7/renditions/5780c2be53a996f210a54e281620089d
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/8d620055b14a5d1e04b82ac49553a379/revisions/cef0a59939f84e3fb97ab60538aa485d/renditions/bb015296d5bf4622dee3b1c7dc32c2e9
