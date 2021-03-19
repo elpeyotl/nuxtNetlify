@@ -112,6 +112,7 @@ collections:
       - { label: 'Lineup', name: 'lineup', widget: 'markdown' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Image', name: 'thumbnail', widget: 'image' }
+      - { label: 'Image Caption', name: 'caption', widget: 'string' }
       - {
         label: 'Spotify',
         name: 'spotifyId',
@@ -142,7 +143,8 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Biography', name: 'biography', widget: 'markdown' }
       - { label: 'Thubmnail', name: 'thumbnail', widget: 'image' }
-      - { label: 'HeaderImage', name: 'headerImage', widget: 'image' }
+      - { label: 'Header Image', name: 'headerImage', widget: 'image' }
+      - { label: 'Caption Header Image', name: 'headerImage__caption', widget: 'string' }
       - {
           label: 'Spotify',
           name: 'spotifyId',
@@ -178,6 +180,7 @@ collections:
         search_fields: ['artist'],
         value_field: 'artist',
         display_fields: ['{{artist}}'],
+        required: false
       }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
