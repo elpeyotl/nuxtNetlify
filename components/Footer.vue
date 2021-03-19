@@ -12,6 +12,8 @@
 
     <mailchimp-form class="mb-12" />
 
+    <social />
+
     <div class="text-xs lg:text-sm">
       Copyright © 2021 THE YELLING LIGHT. All Rights Reserved. DISCLAIMER /
       Privacy Policy
@@ -21,8 +23,9 @@
 
 <script>
 import MailchimpForm from '~/components/mailchimpForm'
+import Social from '~/components/social'
 export default {
-  components: { MailchimpForm },
+  components: { Social, MailchimpForm },
 }
 </script>
 

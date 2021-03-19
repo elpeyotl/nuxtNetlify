@@ -1,7 +1,12 @@
 <template>
   <div>
-    <div class="w-full mb-12 flex justify-center">
-      <img v-lazy="album.thumbnail" class="w-1/2" />
+    <div class="mb-12 flex justify-center w-full">
+      <div class="w-1/2">
+        <img v-lazy="album.thumbnail" />
+        <span class="italic font-light text-xs flex justify-end">
+          {{ album.caption }}
+        </span>
+      </div>
     </div>
 
     <div class="my-12 md:my-24 flex flex-col md:flex-row">

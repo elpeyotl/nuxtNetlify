@@ -2,6 +2,9 @@
   <div>
     <div class="w-full mb-12">
       <img v-lazy="artist.headerImage" />
+      <span class="italic font-light text-xs flex justify-end">
+        {{ artist.headerImage__caption }}
+      </span>
     </div>
     <h2 class="text-2xl w-1/2 font-semibold mb-8">{{ artist.artist }}</h2>
     <div class="mb-16 flex flex-col lg:flex-row">
