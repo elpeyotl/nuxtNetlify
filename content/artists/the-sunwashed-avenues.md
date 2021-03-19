@@ -10,6 +10,7 @@ biography: The Sunwashed Avenues was formed in 2004, with the intention to
   already celebrate great successes with it on stage.
 thumbnail: /img/sunwashed.jpg
 headerImage: /img/sunwashed_header.jpg
+headerImage__caption: © Mario Burgener
 spotifyId: 3dA9anVtB3z1Xe7rUDrxSr?si=RTYHD9nRRT6S-OQVO9iTrw
 youtubeId: ZAuNG3agJQY
 ---
