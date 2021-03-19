@@ -13,6 +13,8 @@ galleryImages:
     caption: 03/11/2018 Coilguns live @ Albani, Winterthur
   - image: https://lightroom.adobe.com/v2c/spaces/251a33b160da4316a17813b8acf8a6f6/assets/fefa055df253f8ba83c6a4fe5ccecae0/revisions/d73e322127f44e50b4641d0d88cfb737/renditions/c90b2112cfaede1789963a8e19766d79
     caption: 03/03/2018 Coilguns live @ Gaswerk, Winterthur
+  - image: https://lightroom.adobe.com/v2c/spaces/251a33b160da4316a17813b8acf8a6f6/assets/6de1e05265738354b93531d46218cf8f/revisions/092a666dbf6c477fa8d0c32eb4240592/renditions/fbabb22f3fd1eb291191afdbfd015c85
+    caption: 03/03/2018 Coilguns live @ Gaswerk, Winterthur
 ---
 Coilguns are:
 
