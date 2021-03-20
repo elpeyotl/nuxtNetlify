@@ -1,5 +1,5 @@
 ---
-title: The Shattered Mind Machine
+title: TSMM
 date: 2021-03-11T21:02:41.474Z
 artist:
   - The Shattered Mind Machine
