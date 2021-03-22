@@ -13,7 +13,7 @@
           >
         </div>
       </NuxtLink>
-      <div class="flex justify-center">
+      <div class="flex justify-center mb-4">
         <Social />
       </div>
     </div>

@@ -1,11 +1,11 @@
 <template>
   <div>
-    <div class="social flex justify-evenly py-2 w-64">
-      <svg-icon name="facebook" class="text-white h-24" />
-      <img src="~/assets/icons/instagram.svg" />
-      <img src="~/assets/icons/mail.svg" />
-      <img src="~/assets/icons/twitter.svg" />
-      <img src="~/assets/icons/youtube.svg" />
+    <div class="social flex justify-around py-2 w-64">
+      <svg-icon name="facebook" class="icon text-white hover:text-red-500" />
+      <svg-icon name="instagram" class="icon text-white hover:text-red-500" />
+      <svg-icon name="youtube" class="icon text-white hover:text-red-500" />
+      <svg-icon name="twitter" class="icon text-white hover:text-red-500" />
+      <svg-icon name="mail" class="icon text-white hover:text-red-500" />
     </div>
   </div>
 </template>
@@ -18,9 +18,7 @@ export default {
 </script>
 
 <style scoped>
-.social {
-  img {
-    height: 6px;
-  }
+.icon {
+  transition: color 0.5s ease;
 }
 </style>

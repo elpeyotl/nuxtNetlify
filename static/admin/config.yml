@@ -17,6 +17,17 @@ collections:
         fields:
           - {label: 'Title', name: 'title', widget: 'string'}
           - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: "Settings"
+        name: "settings"
+        file: "content/pages/settings.md"
+        editor:
+          preview: false
+        fields:
+          - {label: 'Instagram', name: 'instagram', widget: 'string'}
+          - {label: 'Youtube', name: 'youtube', widget: 'string'}
+          - {label: 'Facebook', name: 'facebook', widget: 'string'}
+          - {label: 'Twitter', name: 'twitter', widget: 'string'}
+          - {label: 'Mail', name: 'mail', widget: 'string'}
   - name: 'blog'
     label: 'Blog'
     folder: 'content/blog'

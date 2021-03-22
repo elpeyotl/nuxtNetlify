@@ -12,7 +12,7 @@
 
     <mailchimp-form class="mb-12" />
 
-    <social />
+    <social class="mb-12" />
 
     <div class="text-xs lg:text-sm">
       Copyright © 2021 THE YELLING LIGHT. All Rights Reserved. DISCLAIMER /
