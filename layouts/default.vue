@@ -102,4 +102,8 @@ body {
 .fade-leave-to {
   opacity: 0;
 }
+
+.fade-enter-active {
+  transition-delay: 0.2s;
+}
 </style>

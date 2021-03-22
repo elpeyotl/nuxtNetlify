@@ -2,6 +2,19 @@
   <div>
     <h1 class="text-4xl font-semibold text-center">Releases</h1>
 
+    <div class="flex justify-center items-center">
+      <span class="justify-center mt-4 px-2 py-1 bg-red-500 text-white mr-2"
+        >Showing {{ filteredAlbums.length }} releases</span
+      >
+      <span
+        v-if="selectedGenres.length"
+        class="justify-center mt-4 px-2 py-1 bg-black text-white cursor-pointer transition-colors duration-500 hover:bg-red-500 hover:text-white"
+        @click="selectedGenres = []"
+      >
+        Reset
+      </span>
+    </div>
+
     <div class="filter hidden md:block">
       <div class="flex justify-center flex-wrap mt-6">
         <div
@@ -14,19 +27,12 @@
           {{ genre.genre }}
         </div>
       </div>
-      <div v-if="selectedGenres.length" class="flex justify-center">
-        <span
-          class="justify-center mt-4 px-2 py-1 bg-black text-white cursor-pointer transition-colors duration-500 hover:bg-red-500 hover:text-white"
-          @click="selectedGenres = []"
-        >
-          Reset
-        </span>
-      </div>
     </div>
 
     <div v-if="filteredAlbums.length">
       <transition-group
         name="fade"
+        mode="out-in"
         class="my-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8"
       >
         <Card
