@@ -4,7 +4,10 @@
 
     <div class="flex justify-center items-center">
       <span class="justify-center mt-4 px-2 py-1 bg-red-500 text-white mr-2"
-        >Showing {{ filteredAlbums.length }} releases</span
+        >Showing {{ filteredAlbums.length }} release<span
+          v-if="filteredAlbums.length > 1"
+          >s</span
+        ></span
       >
       <span
         v-if="selectedGenres.length"
