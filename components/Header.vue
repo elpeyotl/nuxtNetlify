@@ -5,7 +5,7 @@
         <div
           class="w-full h-20 lg:h-32 flex flex-col items-center justify-center"
         >
-          <h1 class="uppercase text-xl lg:text-4xl font-bold">
+          <h1 class="uppercase text-xl lg:text-4xl font-bold text-white">
             The yelling light
           </h1>
           <span class="uppercase text-sm lg:text-base text-gray-700"

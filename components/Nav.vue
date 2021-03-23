@@ -80,4 +80,18 @@ export default {
   height: 100%;
   width: 100%;
 }
+
+/* exact link will show the primary color for only the exact matching link */
+a.nuxt-link-exact-active,
+a.nuxt-link-active {
+  @apply text-red-500;
+}
+
+a {
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  @apply text-red-500;
+}
 </style>
