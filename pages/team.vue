@@ -8,7 +8,7 @@
 
     <div class="team">
       <div class="w-1/2 relative mb-24">
-        <img class="shadow-2xl team__image" src="img/me.jpg" />
+        <img class="shadow-2xl team__image" src="/img/me.jpg" />
         <div class="team__caption team__caption--right w-2/3">
           <div class="text-center mb-2 text-lg mx-auto">
             <span class="bg-red-500 px-2 py-1"> Chris Perez </span>
@@ -26,7 +26,7 @@
       </div>
 
       <div class="w-1/2 relative ml-auto">
-        <img class="shadow-2xl team__image" src="img/puffler.jpg" />
+        <img class="shadow-2xl team__image" src="/img/puffler.jpg" />
         <div class="team__caption team__caption--left w-2/3">
           <div class="text-center mb-2 text-lg mx-auto">
             <span class="bg-red-500 px-2 py-1"> Christan Poffet </span>
