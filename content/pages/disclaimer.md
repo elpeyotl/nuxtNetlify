@@ -10,6 +10,8 @@ Switzerland\
 \
 note@theyellinglight.ch
 
+
+
 **Disclaimer**
 
 The author or THE YELLING LIGHT do not assume any liability with regard to the correctness, accuracy, topicality, reliability and completeness of the information provided.
