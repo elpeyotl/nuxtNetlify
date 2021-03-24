@@ -17,7 +17,6 @@ collections:
         fields:
           - {label: 'Title', name: 'title', widget: 'string'}
           - { label: 'Body', name: 'body', widget: 'markdown' }
-          -
       - label: "Settings"
         name: "settings"
         file: "content/pages/settings.md"
@@ -29,7 +28,6 @@ collections:
           - {label: 'Facebook', name: 'facebook', widget: 'string'}
           - {label: 'Twitter', name: 'twitter', widget: 'string'}
           - {label: 'Mail', name: 'mail', widget: 'string'}
-          -
       - label: "Disclaimer"
         name: "disclaimer"
         file: "content/pages/disclaimer.md"
