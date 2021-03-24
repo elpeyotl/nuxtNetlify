@@ -1,8 +1,7 @@
 <template>
   <div class="text-center">
     <h2 class="text-4xl font-light mb-8">{{ content.title }}</h2>
-    <span class="font-normal">{{ content.description }}</span
-    >(
+    <span class="font-normal">{{ content.description }}</span>
     <div class="mb-16 mt-8">
       <nuxt-content :document="content" />
     </div>
@@ -27,6 +26,7 @@
 
 <script>
 import LazyLoad from '~/components/lazyLoad'
+import { pageTitle } from '~/config/yellingLightSettings'
 export default {
   components: { LazyLoad },
   async asyncData({ $content, params, error }) {
@@ -52,6 +52,18 @@ export default {
   },
   mounted() {
     this.$store.commit('updateBgImage', this.content.thumbnail)
+  },
+  head() {
+    return {
+      title: `${pageTitle} - ${this.content.title}`,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: `${this.content.description}`,
+        },
+      ],
+    }
   },
 }
 </script>

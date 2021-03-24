@@ -17,6 +17,7 @@ collections:
         fields:
           - {label: 'Title', name: 'title', widget: 'string'}
           - { label: 'Body', name: 'body', widget: 'markdown' }
+          -
       - label: "Settings"
         name: "settings"
         file: "content/pages/settings.md"
@@ -27,7 +28,18 @@ collections:
           - {label: 'Youtube', name: 'youtube', widget: 'string'}
           - {label: 'Facebook', name: 'facebook', widget: 'string'}
           - {label: 'Twitter', name: 'twitter', widget: 'string'}
-          - {label: 'Mail', name: 'mail', widget: 'string'}
+          - {label: 'Mail', name: 'mail', widget: 'string'},
+
+
+      - label: "Disclaimer"
+        name: "disclaimer"
+        file: "content/pages/disclaimer.md"
+        editor:
+          preview: false
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+
   - name: 'blog'
     label: 'Blog'
     folder: 'content/blog'

@@ -8,6 +8,8 @@
 </template>
 
 <script>
+import { pageTitle } from '~/config/yellingLightSettings'
+
 export default {
   name: 'Artists',
   async asyncData({ $content, params, error }) {
@@ -24,6 +26,18 @@ export default {
   },
   mounted() {
     this.$store.commit('updateBgImage', false)
+  },
+  head() {
+    return {
+      title: `${pageTitle} - Artists`,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Artist from the yelling light',
+        },
+      ],
+    }
   },
 }
 </script>

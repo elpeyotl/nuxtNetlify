@@ -58,6 +58,7 @@
 
 <script>
 import spotifyEmbed from '../../components/spotifyEmbed.vue'
+import { pageTitle } from '~/config/yellingLightSettings'
 export default {
   components: { spotifyEmbed },
   async asyncData({ $content, params, error }) {
@@ -90,6 +91,18 @@ export default {
       const parsedDdate = new Date(date)
       return parsedDdate.getFullYear()
     },
+  },
+  head() {
+    return {
+      title: `${pageTitle} - ${this.album.title} - ${this.artist[0].slug}`,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: `${this.album.title}  - ${this.artist[0].slug}`,
+        },
+      ],
+    }
   },
 }
 </script>

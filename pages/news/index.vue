@@ -14,6 +14,8 @@
 </template>
 
 <script>
+import { pageTitle } from '~/config/yellingLightSettings'
+
 export default {
   name: 'Releases',
   async asyncData({ $content, params, error }) {
@@ -30,6 +32,18 @@ export default {
   },
   mounted() {
     this.$store.commit('updateBgImage', false)
+  },
+  head() {
+    return {
+      title: `${pageTitle} - News`,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'News',
+        },
+      ],
+    }
   },
 }
 </script>

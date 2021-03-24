@@ -55,6 +55,8 @@
 </template>
 
 <script>
+import { pageTitle } from '~/config/yellingLightSettings'
+
 export default {
   name: 'Releases',
   async asyncData({ $content, params, error }) {
@@ -111,6 +113,18 @@ export default {
         }
       }
     },
+  },
+  head() {
+    return {
+      title: `${pageTitle} - Releases`,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Releases from the yelling light',
+        },
+      ],
+    }
   },
 }
 </script>

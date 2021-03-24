@@ -1,3 +1,5 @@
+import { pageTitle, pageDescription } from './config/yellingLightSettings'
+
 export default {
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
@@ -6,9 +8,59 @@ export default {
   head: {
     title: 'netlifyCMS',
     meta: [
+      { title: 'The yelling light' },
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      {
+        hid: 'description',
+        name: 'description',
+        content: pageDescription,
+      },
+      {
+        hid: 'twitter:title',
+        name: 'twitter:title',
+        content: pageTitle,
+      },
+      {
+        hid: 'twitter:description',
+        name: 'twitter:description',
+        content: pageDescription,
+      },
+      {
+        hid: 'twitter:image',
+        name: 'twitter:image',
+        content: '/img/yelling-logo.jpg',
+      },
+      {
+        hid: 'twitter:image:alt',
+        name: 'twitter:image:alt',
+        content: 'Yelling light logo',
+      },
+      {
+        hid: 'og:title',
+        property: 'og:title',
+        content: pageTitle,
+      },
+      {
+        hid: 'og:description',
+        property: 'og:description',
+        content: pageDescription,
+      },
+      {
+        hid: 'og:image',
+        property: 'og:image',
+        content: '/img/yelling-logo.jpg',
+      },
+      {
+        hid: 'og:image:secure_url',
+        property: 'og:image:secure_url',
+        content: '/img/yelling-logo.jpg',
+      },
+      {
+        hid: 'og:image:alt',
+        property: 'og:image:alt',
+        content: 'Yelling light logo',
+      },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },

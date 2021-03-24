@@ -54,6 +54,8 @@
 </template>
 
 <script>
+import { pageTitle } from '~/config/yellingLightSettings'
+
 export default {
   async asyncData({ $content, params, error }) {
     let artist
@@ -90,6 +92,18 @@ export default {
   },
   mounted() {
     this.$store.commit('updateBgImage', this.artist.thumbnail)
+  },
+  head() {
+    return {
+      title: `${pageTitle} - ${this.artist.artist} `,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: `${this.artist.artist}  - ${this.artist.description}`,
+        },
+      ],
+    }
   },
 }
 </script>
