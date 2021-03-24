@@ -63,7 +63,7 @@ export default {
     let albums
     let genres
     try {
-      albums = await $content('albums').fetch()
+      albums = await $content('albums').sortBy('date', 'desc').fetch()
       // OR const article = await $content(`articles/${params.slug}`).fetch()
     } catch (e) {
       error({ message: 'Blog Post not found' })
@@ -101,15 +101,29 @@ export default {
   },
   mounted() {
     this.$store.commit('updateBgImage', false)
+    if (Array.isArray(this.$route.query.genre)) {
+      this.selectedGenres.push(...this.$route.query.genre)
+    } else {
+      this.selectedGenres.push(this.$route.query.genre)
+    }
   },
   methods: {
     handleGenreClick(item) {
       if (!this.selectedGenres.includes(item)) {
         this.selectedGenres.push(item)
+        // add to param
+        this.$router.push({
+          path: 'releases',
+          query: { genre: this.selectedGenres },
+        })
       } else {
         const index = this.selectedGenres.indexOf(item)
         if (index > -1) {
           this.selectedGenres.splice(index, 1)
+          this.$router.push({
+            path: 'releases',
+            query: { genre: this.selectedGenres },
+          })
         }
       }
     },
