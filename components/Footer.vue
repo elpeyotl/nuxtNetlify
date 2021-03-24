@@ -15,8 +15,8 @@
     <social class="mb-12" />
 
     <div class="text-xs lg:text-sm">
-      Copyright © 2021 THE YELLING LIGHT. All Rights Reserved. DISCLAIMER /
-      Privacy Policy
+      Copyright © 2021 THE YELLING LIGHT. All Rights Reserved.
+      <nuxt-link to="/disclaimer">DISCLAIMER / Privacy Policy</nuxt-link>
     </div>
   </div>
 </template>

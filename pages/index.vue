@@ -22,6 +22,8 @@
 </template>
 
 <script>
+import { pageTitle } from '~/config/yellingLightSettings'
+
 export default {
   async asyncData({ $content }) {
     const posts = await $content('blog').sortBy('createdAt', 'desc').fetch()
@@ -36,6 +38,7 @@ export default {
   },
   head() {
     return {
+      title: `${pageTitle} - Welcome to the music!`,
       script: [
         {
           src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
