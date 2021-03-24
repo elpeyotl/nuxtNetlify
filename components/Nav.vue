@@ -53,7 +53,7 @@
 import { ref } from '@nuxtjs/composition-api'
 export default {
   setup() {
-    const links = ref(['news', 'releases', 'artists', 'photography'])
+    const links = ref(['news', 'releases', 'artists', 'photography', 'team'])
     const isActive = ref(false)
 
     const toggleMenu = () => {
