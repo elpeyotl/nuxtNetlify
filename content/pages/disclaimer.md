@@ -8,7 +8,7 @@ Oberseenerstrasse 79\
 8405 Winterthur\
 Switzerland\
 \
-note@theyellinglight.ch\\
+note@theyellinglight.ch\
 
 **Disclaimer**
 
