@@ -103,7 +103,7 @@ export default {
     this.$store.commit('updateBgImage', false)
     if (Array.isArray(this.$route.query.genre)) {
       this.selectedGenres.push(...this.$route.query.genre)
-    } else {
+    } else if (this.$route.query.genre) {
       this.selectedGenres.push(this.$route.query.genre)
     }
   },
