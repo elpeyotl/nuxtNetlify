@@ -6,7 +6,7 @@ description: RED TAPE REDEMTION delivers high octane bluesrock straight out from
 biography: >-
   The project started as a One-Man-Band by Lukas Oberholzer in 2019 since his
   former band Coffee For The Restless broke up. After a few solo shows, his
-  former CFTR band colleague Tobias Kalt picked up the drumstick to join forces
+  former CFTR band colleague Tobias Kalt picked up the drumsticks to join forces
   – Red Tape Redemption started rock ‘n’ rolling. 
 
   In December 2020 their debut EP DRIVING SOUTH was released digitally through THE YELLING LIGHT.
