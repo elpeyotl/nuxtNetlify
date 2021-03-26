@@ -6,13 +6,13 @@ description: Verwaltzen was founded in September 2007 near Winterthur,
   turned out to be more.
 biography: After a few small EPs, gigs and changes of members, the band tries to
   get away from the common tracks. At the moment not complete, since the last
-  three members have died in a spaceship crash Verwaltzen try to find their luck
-  while working in their own recording studio. With or without a safety net.
-  Stay tuned.
+  three members have died in a spaceship crash, Verwaltzen try to find their
+  luck while working in their own recording studio. With or without a safety
+  net. Stay tuned.
 thumbnail: /img/logo.svg
 headerImage: https://lightroom.adobe.com/v2c/spaces/a42eae7a04bd48dda6b8193b4c695220/assets/1b5e3d87f38bb4a214b49e83ad92b955/revisions/43781779805c40af815b6926d63cf71e/renditions/386b2ef79afbfffc3074d7d9962dc316
 spotifyId: 44myJwFQUxjEsx8SoTIBxQ?si=k9XLJ5hrTa6gIrcaAPmC0Q
-youtubeId: UCslDw0LZLhZwJmc4D29ECxg
+youtubeId: watch?v=QyN--akod3E&list=PL-3yhMg7zpSPKJ7WwMye6jEl0-b-5CdKH
 ---
 **Current Members**
 
