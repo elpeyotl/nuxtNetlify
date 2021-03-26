@@ -14,7 +14,7 @@ biography: Since Strobehazer’s first encounter with 80s music in his early
 thumbnail: /img/strobehazer_logo.jpg
 headerImage: https://lightroom.adobe.com/v2c/spaces/22ef91dd2f7143d7968ed57e4653aca6/assets/79a3c878a1f75863eed35eb28cf76ac9/revisions/909fe20c9eac4b05a9fc91104be01929/renditions/9d80aa2b9df8d059b1353a678606ff22
 spotifyId: 60CIhUHujDJ5luZnAMT1WA?si=BwYSmh5TQ8qOozYa4ZkAjw
-youtubeId: UCAmKCYRN9-jD9qo6QvJ6axQ/videos
+youtubeId: watch?v=ZMu1eOreIew
 ---
 07/03/2020 Release of Finite Dreams (single) digital & vinyl.
 
