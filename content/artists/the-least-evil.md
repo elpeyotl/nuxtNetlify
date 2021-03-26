@@ -16,7 +16,7 @@ biography: >-
 thumbnail: /img/theleastevil_bgschwarz.jpg
 headerImage: https://lightroom.adobe.com/v2c/spaces/3882c3d0f5c34cd6b1f13f8e828f67bf/assets/72146d01709c68e07fec067883fb8475/revisions/0a9691d25bce4c6eb62f78b638b963fd/renditions/6ba6b098ec0ec07edb1fce001a41d5cc
 spotifyId: 6rmnRIKcCkP66tJ1oOe0ua?si=np1ecduNS6GrH0sVhwyB1w
-youtubeId: UCBI1BZDMcpru2k193Ns3ZzQ
+youtubeId: watch?v=RYvqWFJk01Y&list=PLjgrjAap9RnobYD5oTpZmQSuPEiUf-gnR
 ---
 2020 - The lesser of two evils is still evil\
 \
