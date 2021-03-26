@@ -1,7 +1,7 @@
 ---
 artist: Ambrossia
 date: 2021-01-26T01:53:21.061Z
-description: Startet under the name "Iron Metal" in 1994 and later in "Brainstorm".
+description: Started under the name "Iron Metal" in 1994 and later changed in "Brainstorm".
 biography: "Ambrossia is: Markus Betschart, Ralph “Hoss” Gwerder, Daniel
   Inderbitzin, Peter Stöckli, Hugo Schelbert."
 thumbnail: https://lightroom.adobe.com/v2c/spaces/a314ebc4d9974dc592337c6cdd0126b2/assets/86688a8037b36849c39d0d7ed0c7669d/revisions/24e8ba893fc54c1c9099575a71c6ada3/renditions/868751ecd727e67141517ff5ed6f82dd
