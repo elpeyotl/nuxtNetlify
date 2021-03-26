@@ -25,6 +25,6 @@ biography: 'Amagortis was formed in 2001 by Daniel, Stoef, Nathalie and friends.
 thumbnail: https://lightroom.adobe.com/v2c/spaces/a314ebc4d9974dc592337c6cdd0126b2/assets/7080b80840f968551377adfa327ecc1e/revisions/9e558237e3f94b968c4b94fd859b9988/renditions/f963abcf54cd5b2cd19847a26bac1df3
 headerImage: https://lightroom.adobe.com/v2c/spaces/a314ebc4d9974dc592337c6cdd0126b2/assets/7080b80840f968551377adfa327ecc1e/revisions/9e558237e3f94b968c4b94fd859b9988/renditions/f963abcf54cd5b2cd19847a26bac1df3
 spotifyId: 3h6biOZ09elGkxUJK04PS8?si=Mp-w_cX-Sv2coTiJFQKhQg
-youtubeId: UC8g2wL_VqJ2GTQsYCKtfZMQ/featured
+youtubeId: watch?v=WYKrkt5DIJQ&list=PLFdXRzJtmhfUH7Cy-e8nLIz2nkSlhfip1
 ---
 ERROR 666
