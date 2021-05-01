@@ -131,7 +131,7 @@ collections:
       - { label: 'Lineup', name: 'lineup', widget: 'markdown' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Image', name: 'thumbnail', widget: 'image' }
-      - { label: 'Image Caption', name: 'q', widget: 'string' }
+      - { label: 'Image Caption', name: 'q', widget: 'string', required: false }
       - {
         label: 'Spotify',
         name: 'spotifyId',
