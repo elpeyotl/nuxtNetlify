@@ -11,6 +11,7 @@
         <svg-icon name="facebook" class="icon hover:text-red-500"
       /></a>
       <a
+        v-if="artist.instagram"
         :href="artist.instagram"
         target="_blank"
         title="Instagram"
