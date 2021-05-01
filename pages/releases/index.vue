@@ -11,11 +11,24 @@
       >
       <span
         v-if="selectedGenres.length"
-        class="justify-center mt-4 px-2 py-1 bg-black text-white cursor-pointer transition-colors duration-500 hover:bg-red-500 hover:text-white"
+        class="hidden md:inline justify-center mt-4 px-2 py-1 bg-black text-white cursor-pointer transition-colors duration-500 hover:bg-red-500 hover:text-white"
         @click="selectedGenres = []"
       >
         Reset
       </span>
+    </div>
+
+    <div class="md:hidden mt-8">
+      <multiselect
+        v-model="multiSelectValue"
+        :options="genres"
+        :multiple="true"
+        placeholder="Filter genres"
+        track-by="genre"
+        label="genre"
+        @select="handleGenreClick"
+        @remove="handleGenreClick"
+      ></multiselect>
     </div>
 
     <div class="filter hidden md:block">
@@ -55,10 +68,12 @@
 </template>
 
 <script>
+import Multiselect from 'vue-multiselect'
 import { pageTitle } from '~/config/yellingLightSettings'
 
 export default {
   name: 'Releases',
+  components: { Multiselect },
   async asyncData({ $content, params, error }) {
     let albums
     let genres
@@ -82,6 +97,7 @@ export default {
   data: () => {
     return {
       selectedGenres: [],
+      multiSelectValue: [],
     }
   },
   computed: {
@@ -103,12 +119,21 @@ export default {
     this.$store.commit('updateBgImage', false)
     if (Array.isArray(this.$route.query.genre)) {
       this.selectedGenres.push(...this.$route.query.genre)
+      this.multiSelectValue = this.genres.filter((genre) =>
+        this.$route.query.genre.includes(genre.genre)
+      )
     } else if (this.$route.query.genre) {
       this.selectedGenres.push(this.$route.query.genre)
+      this.multiSelectValue = this.genres.filter(
+        (genre) => genre.genre === this.$route.query.genre
+      )
     }
   },
   methods: {
     handleGenreClick(item) {
+      if (typeof item === 'object' && item !== null) {
+        item = item.genre
+      }
       if (!this.selectedGenres.includes(item)) {
         this.selectedGenres.push(item)
         // add to param
@@ -143,8 +168,19 @@ export default {
 }
 </script>
 
+<style src="vue-multiselect/dist/vue-multiselect.min.css"></style>
+
 <style>
 .filter--active {
   @apply bg-black text-white border-red-500;
+}
+.multiselect__tag {
+  @apply bg-red-500;
+}
+.multiselect__tag-icon:after {
+  color: white;
+}
+.multiselect__tag-icon:hover {
+  @apply bg-red-600;
 }
 </style>
