@@ -10,7 +10,7 @@ biography: The Sunwashed Avenues was formed in 2004, with the intention to
 thumbnail: /img/sunwashed.jpg
 headerImage: /img/sunwashed_header.jpg
 spotifyId: 3dA9anVtB3z1Xe7rUDrxSr?si=RTYHD9nRRT6S-OQVO9iTrw
-facebook: Facebook
+facebook: ""
 instagram: Instagram
 youtube: Youtube
 twitter: Twitter
