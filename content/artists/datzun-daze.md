@@ -20,5 +20,11 @@ biography: >-
 thumbnail: https://lightroom.adobe.com/v2c/spaces/a314ebc4d9974dc592337c6cdd0126b2/assets/d0f4db221e3ea0d8685a74e02a7aef61/revisions/7fc80d84b51547a9ab7c121da0a73800/renditions/413d2753ba0557afe2c00777f089e7e0
 headerImage: https://datzundaze.com/Bandfoto2.jpeg
 spotifyId: 6xb5XfdwKNFNZKOJWI0Ose
+facebook: https://www.facebook.com/datzundaze
+instagram: https://www.instagram.com/datzun.daze/
+youtube: https://www.youtube.com/channel/UCQ0LZTtlzrnh--rEkHFG_7Q
+email: " datzun.daze@gmail.com"
+bandcamp: https://datzundaze.bandcamp.com/
+website: www.datzundaze.com
 ---
 02/19/2021 Digital release of Stockholm Syndrome
