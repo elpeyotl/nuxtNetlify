@@ -15,5 +15,11 @@ headerImage: https://lightroom.adobe.com/v2c/spaces/a42eae7a04bd48dda6b8193b4c69
 headerImage__caption: Photography by analogue.dump.
 spotifyId: 08U7n4LgF0YLzkiuX8Gsx3?si=J52aFys3QiihjCu3OqEA8A
 youtubeId: watch?v=Eu5Y87wThnc&list=PL1bS_Ul58BlZ1la258v8n5UPil7oiME9e
+facebook: https://www.facebook.com/RTRDMT
+instagram: https://www.instagram.com/red_tape_redemption/?hl=en
+youtube: https://www.youtube.com/channel/UCJt7D57uzhZHunHtVCZrUvQ
+email: https://redtaperedemption.bandcamp.com/
+bandcamp: https://redtaperedemption.bandcamp.com/
+webshop: https://redtaperedemption.bandcamp.com/
 ---
 Red Tape Redemption is Lukas Oberholzer & Tobias Kalt.
