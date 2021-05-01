@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="social flex justify-around py-2 w-64">
+    <div class="social flex justify-around w-64">
       <a :href="settings.facebook" target="_blank">
         <svg-icon name="facebook" class="icon text-white hover:text-red-500"
       /></a>

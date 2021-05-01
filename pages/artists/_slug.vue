@@ -6,6 +6,7 @@
         {{ artist.headerImage__caption }}
       </span>
     </div>
+    <social-artist />
     <h2 class="text-2xl w-1/2 font-semibold mb-8">{{ artist.artist }}</h2>
     <div class="mb-16 flex flex-col lg:flex-row">
       <div class="w-full lg:w-2/3 pr-16">
@@ -55,8 +56,10 @@
 
 <script>
 import { pageTitle } from '~/config/yellingLightSettings'
+import SocialArtist from '~/components/socialArtist'
 
 export default {
+  components: { SocialArtist },
   async asyncData({ $content, params, error }) {
     let artist
     let albums
