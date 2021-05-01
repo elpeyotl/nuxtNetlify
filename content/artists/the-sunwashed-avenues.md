@@ -11,17 +11,17 @@ thumbnail: /img/sunwashed.jpg
 headerImage: /img/sunwashed_header.jpg
 spotifyId: 3dA9anVtB3z1Xe7rUDrxSr?si=RTYHD9nRRT6S-OQVO9iTrw
 facebook: ""
-instagram: Instagram
-youtube: Youtube
-twitter: Twitter
-bandcamp: Bandcamp
-webshop: Webshop
+instagram: ""
+youtube: ""
+twitter: ""
+bandcamp: ""
+webshop: ""
 mail: Twittter
 description: YOU DON’T JUST WATCH THE MAGIC – MAGIC WILL COME TO YOU!
 headerImage__caption: ©Mario Burgener
 youtubeId: ZAuNG3agJQY
-email: Email
-website: Website
+email: ""
+website: ""
 ---
 2015: Lama King (digial) - (self-released)\
 2012: Blue Dolphin (CD, Vinyl, digital) - (self-released/The yelling light)\
