@@ -11,6 +11,7 @@
 
     <div class="my-12 md:my-24 flex flex-col md:flex-row">
       <div class="w-full md:w-2/3 pr-16">
+        <social-artist :artist="album" />
         <h2 class="text-2xl font-semibold">{{ album.title }}</h2>
         <h3 class="text-lg font-semibold">
           <nuxt-link :to="`/artists/${artist[0].slug}`"

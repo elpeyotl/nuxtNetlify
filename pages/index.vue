@@ -4,7 +4,7 @@
       <div class="w-full mb-16">
         <img src="/img/yelling-logo.jpg" title="The yelling light" />
       </div>
-      <h2 class="text-2xl w-1/2 font-semibold mb-8">
+      <h2 class="text-2xl lg:w-1/2 font-semibold mb-8">
         {{ home.title }}
       </h2>
       <nuxt-content :document="home" />
