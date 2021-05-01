@@ -25,6 +25,6 @@ instagram: https://www.instagram.com/datzun.daze/
 youtube: https://www.youtube.com/channel/UCQ0LZTtlzrnh--rEkHFG_7Q
 email: " datzun.daze@gmail.com"
 bandcamp: https://datzundaze.bandcamp.com/
-website: www.datzundaze.com
+website: https://datzundaze.com/
 ---
 02/19/2021 Digital release of Stockholm Syndrome
