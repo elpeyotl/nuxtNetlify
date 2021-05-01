@@ -8,6 +8,8 @@ thumbnail: https://lightroom.adobe.com/v2c/spaces/a314ebc4d9974dc592337c6cdd0126
 headerImage: https://lightroom.adobe.com/v2c/spaces/a42eae7a04bd48dda6b8193b4c695220/assets/b0cab70d402ef6260b42fbee95323096/revisions/04c42b415548451ca234a68e0a821b97/renditions/24b78a465ee05069c7f6cdae36c32ab1
 spotifyId: 2J8CCVrAVIZLGxRcRvwVBk?si=pQMxKjuwRWy1h7sUsppeTA
 youtubeId: watch?v=cMdguM99INk&list=PLg01btvz1lOZwNWDuofF9K4WgXJwtudQ-
+youtube: https://www.youtube.com/watch?v=WOynEMOH9SQ
+website: https://youtu.be/TlCaogazcsk
 ---
 Tracklist:
 
