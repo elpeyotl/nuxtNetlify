@@ -13,6 +13,14 @@ headerImage: /img/sunwashed_header.jpg
 headerImage__caption: ©Mario Burgener
 spotifyId: 3dA9anVtB3z1Xe7rUDrxSr?si=RTYHD9nRRT6S-OQVO9iTrw
 youtubeId: ZAuNG3agJQY
+facebook: Facebook
+instagram: Instagram
+youtube: Youtube
+mail: Twittter
+email: Email
+bandcamp: Bandcamp
+website: Website
+webshop: Webshop
 ---
 2015: Lama King (digial) - (self-released)\
 2012: Blue Dolphin (CD, Vinyl, digital) - (self-released/The yelling light)\
