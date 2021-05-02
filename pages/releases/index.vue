@@ -26,6 +26,8 @@
         placeholder="Filter genres"
         track-by="genre"
         label="genre"
+        select-label="Select"
+        deselect-label="Deselect"
         @select="handleGenreClick"
         @remove="handleGenreClick"
       ></multiselect>

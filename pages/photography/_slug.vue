@@ -1,6 +1,7 @@
 <template>
   <div class="text-center">
     <h2 class="text-4xl font-light mb-8">{{ content.title }}</h2>
+    <social-bar :content="content" />
     <span class="font-normal">{{ content.description }}</span>
     <div class="mb-16 mt-8">
       <nuxt-content :document="content" />

@@ -7,13 +7,13 @@
     </div>
 
     <div class="team">
-      <div class="w-1/2 relative mb-24">
-        <img class="shadow-2xl team__image" src="/img/me.jpg" />
-        <div class="team__caption team__caption--right w-2/3">
+      <div class="w-full relative mb-4 p-2">
+        <img class="shadow-2xl team__image w-full" src="/img/me.jpg" />
+        <div class="team__caption w-2/3">
           <div class="text-center mb-2 text-lg mx-auto">
             <span class="bg-red-500 px-2 py-1"> Chris Perez </span>
           </div>
-          <div class="text-center mb-8 text-lg mx-auto">
+          <div class="text-center mb-8 text-sm mx-auto">
             <span class="bg-red-500 px-2 py-1">Webdesigner</span>
           </div>
           <div class="text-center mb-2 text-sm mx-auto">
@@ -25,9 +25,9 @@
         </div>
       </div>
 
-      <div class="w-1/2 relative ml-auto">
+      <div class="w-full relative mb-4 p-2">
         <img class="shadow-2xl team__image" src="/img/puffler.jpg" />
-        <div class="team__caption team__caption--left w-2/3">
+        <div class="team__caption w-2/3">
           <div class="text-center mb-2 text-lg mx-auto">
             <span class="bg-red-500 px-2 py-1"> Christan Poffet </span>
           </div>
@@ -77,25 +77,19 @@ export default {
 
 <style scoped>
 .team__image {
-  filter: sepia(1);
+  filter: grayscale(1);
   cursor: pointer;
   transition: filter 0.2s ease;
 }
 
 .team__image:hover {
-  filter: sepia(0);
+  filter: grayscale(0);
 }
 .team__caption {
   @apply text-white;
   position: absolute;
+  left: 50%;
   top: 50%;
-}
-.team__caption--right {
-  right: 0;
-  transform: translate(50%, -50%);
-}
-.team__caption--left {
-  left: 0;
   transform: translate(-50%, -50%);
 }
 </style>

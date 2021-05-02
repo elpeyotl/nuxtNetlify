@@ -5,6 +5,7 @@
     </div>
 
     <div class="mb-12">
+      <social-bar :content="post" />
       <h2 class="text-2xl font-semibold">{{ post.title }}</h2>
       {{ showDate(post.createdAt) }}
     </div>
@@ -33,8 +34,8 @@
       class="my-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8"
     >
       <Card
-        v-for="album in albums"
-        :key="album"
+        v-for="(album, index) in albums"
+        :key="index"
         :content="album"
         :is-album="true"
       />
