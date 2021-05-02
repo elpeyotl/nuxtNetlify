@@ -1,6 +1,6 @@
 ---
-title: TSMM
-date: 2021-03-11T21:02:41.474Z
+title: The Shattered Mind Machine
+date: 2021-05-02T14:26:30.621Z
 artist:
   - The Shattered Mind Machine
 description: The Shattered Mind Machine is currently signed at AuGeil Records, Frauenfeld.
