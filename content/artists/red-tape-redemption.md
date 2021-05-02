@@ -20,6 +20,7 @@ instagram: https://www.instagram.com/red_tape_redemption/?hl=en
 youtube: https://www.youtube.com/channel/UCJt7D57uzhZHunHtVCZrUvQ
 email: https://redtaperedemption.bandcamp.com/
 bandcamp: https://redtaperedemption.bandcamp.com/
+website: https://mx3.ch/redtaperedemption
 webshop: https://redtaperedemption.bandcamp.com/
 ---
 Red Tape Redemption is Lukas Oberholzer & Tobias Kalt.
