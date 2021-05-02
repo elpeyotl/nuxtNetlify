@@ -11,6 +11,6 @@ Recently, the one-man project has developed into a small team. Sarah helps with 
 \
 In near future more helpers will join, I'm looking forward to see how the light will yell brighter and brighter.\
 \
-I would also like to thank all those who read this text. Especially in these times it is important to support alternative music. With the new website it is certainly easier to listen to and discover music supported by The yelling light. I wish you a lot of fun!\
+I would also like to thank all those who read this text. Especially in these times it is important to support alternative music. With the new website it is certainly easier to listen to and discover music supported by The yelling light. I wish you a ton of fun!\
 \
 Christian
