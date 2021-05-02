@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div :class="isCenter">
     <div class="social flex w-64 mb-4">
       <a
         v-if="content.facebook"
@@ -85,6 +85,18 @@ export default {
     content: {
       type: Object,
       default: () => {},
+    },
+    center: {
+      type: Boolean,
+      default: false,
+    },
+  },
+  computed: {
+    isCenter() {
+      if (this.center) {
+        return 'flex justify-center'
+      }
+      return ''
     },
   },
 }
