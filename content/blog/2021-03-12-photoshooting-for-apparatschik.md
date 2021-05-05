@@ -6,6 +6,9 @@ thumbnail: https://lightroom.adobe.com/v2c/spaces/7e2fc525d2b942d8aad4d93f275b44
 artist: ""
 albums: ""
 photos: the-shattered-mind-machine
+facebook: https://www.facebook.com/shatteredmind1/
+instagram: https://www.instagram.com/shatteredmindmachine/?hl=en
+bandcamp: https://shatteredmind.bandcamp.com/
 ---
 I had the opportunity to take promo photos for the upcoming album Apparatschik. It's nice to be allowed to work in such an environment. Thanks & Cheers!\
 \
