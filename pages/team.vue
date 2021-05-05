@@ -9,7 +9,7 @@
       <div v-for="member in team" :key="member.name">
         <div class="w-full relative mb-4 p-2">
           <img class="shadow-2xl team__image w-full" :src="member.image" />
-          <div class="team__caption w-2/3 max-w-md">
+          <div class="team__caption hidden sm:block w-2/3 max-w-md">
             <div class="text-center mb-2 text-lg mx-auto">
               <span class="bg-red-500 px-2 py-1"> {{ member.title }} </span>
             </div>
@@ -19,6 +19,20 @@
             <div class="text-center mb-2 text-sm mx-auto bg-red-500 p-2">
               {{ member.description }}
             </div>
+          </div>
+        </div>
+
+        <div
+          class="w-2/3 sm:hidden mx-auto text-white mb-24 -mt-24 z-10 relative"
+        >
+          <div class="text-center mb-2 text-lg mx-auto">
+            <span class="bg-red-500 px-2 py-1"> {{ member.title }} </span>
+          </div>
+          <div class="text-center mb-8 text-sm mx-auto">
+            <span class="bg-red-500 px-2 py-1">{{ member.job }}</span>
+          </div>
+          <div class="text-center mb-2 text-sm mx-auto bg-red-500 p-2">
+            {{ member.description }}
           </div>
         </div>
       </div>
