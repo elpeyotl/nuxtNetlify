@@ -47,7 +47,7 @@ export default {
         .set(bgImage, { backgroundSize: '150% 150%' })
         // animate CSS autoAlpha to 1
         .to(bgImage, 40, {
-          backgroundSize: '100% 100%',
+          backgroundSize: '+=100% +=100%',
           autoRound: false,
           ease: Power1.ease0ut,
         })

@@ -253,3 +253,20 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'genre', widget: 'string' }
+  - label: "Team"
+    name: "team"
+    folder: 'content/team'
+    create: true
+    slug: '{{team}}'
+    editor:
+      preview: false
+    widget: "list"
+    summary: '{{fields.name}}'
+    fields:
+      - {label: 'Image', name: 'image', widget: 'image' }
+      - {label: "Name", name: "name", widget: "string", required: true}
+      - {label: "Job", name: "job", widget: "string", required: false}
+      - {label: "Description", name: "description", widget: "string", required: false}
+
+
+
