@@ -44,6 +44,7 @@
           >
           <a
             href="https://shop.theyellinglight.ch/"
+            rel="noopener"
             target="_blank"
             @click="toggleMenu"
             >SHOP</a
