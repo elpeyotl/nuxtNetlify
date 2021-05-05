@@ -257,16 +257,14 @@ collections:
     name: "team"
     folder: 'content/team'
     create: true
-    slug: '{{team}}'
+    slug: '{{fields.name}}'
     editor:
       preview: false
-    widget: "list"
-    summary: '{{fields.name}}'
     fields:
       - {label: 'Image', name: 'image', widget: 'image' }
       - {label: "Name", name: "name", widget: "string", required: true}
-      - {label: "Job", name: "job", widget: "string", required: false}
-      - {label: "Description", name: "description", widget: "string", required: false}
+      - {label: "Job", name: "job", widget: "string", required: true}
+      - {label: "Description", name: "description", widget: "string", required: true}
 
 
 

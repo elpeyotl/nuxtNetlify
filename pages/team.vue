@@ -6,18 +6,20 @@
       </div>
     </div>
 
+    {{ team }}
+
     <div class="team">
       <div class="w-full relative mb-4 p-2">
         <img class="shadow-2xl team__image w-full" src="/img/me.jpg" />
-        <div class="team__caption w-2/3">
+        <div class="team__caption w-2/3 max-w-md">
           <div class="text-center mb-2 text-lg mx-auto">
             <span class="bg-red-500 px-2 py-1"> Chris Perez </span>
           </div>
           <div class="text-center mb-8 text-sm mx-auto">
             <span class="bg-red-500 px-2 py-1">Webdesigner</span>
           </div>
-          <div class="text-center mb-2 text-sm mx-auto">
-            <span class="bg-red-500 px-2 py-1 text-center inline">
+          <div class="text-center mb-2 text-sm mx-auto bg-red-500 p-2">
+            <span>
               Music was my first love! I like geeky stuff, nature and of course
               fucking awsome concerts!!
             </span>
@@ -51,11 +53,15 @@ import { pageTitle } from '~/config/yellingLightSettings'
 export default {
   name: 'Team',
   async asyncData({ $content }) {
-    const posts = await $content('blog').sortBy('createdAt', 'desc').fetch()
-    const home = await $content('pages', 'home').fetch()
+    let team
+    try {
+      team = await $content('team').sortBy('createdAt', 'desc').fetch()
+      // OR const article = await $content(`articles/${params.slug}`).fetch()
+    } catch (e) {
+      e({ message: 'Team Post not found' })
+    }
     return {
-      home,
-      posts,
+      team,
     }
   },
   mounted() {
