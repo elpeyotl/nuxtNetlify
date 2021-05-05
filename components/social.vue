@@ -1,19 +1,19 @@
 <template>
   <div>
     <div class="social flex justify-around w-64">
-      <a :href="settings.facebook" target="_blank">
+      <a :href="settings.facebook" target="_blank" rel="noopener">
         <svg-icon name="facebook" class="icon text-white hover:text-red-500"
       /></a>
-      <a :href="settings.instagram" target="_blank">
+      <a :href="settings.instagram" target="_blank" rel="noopener">
         <svg-icon name="instagram" class="icon text-white hover:text-red-500" />
       </a>
-      <a :href="settings.youtube" target="_blank">
+      <a :href="settings.youtube" target="_blank" rel="noopener">
         <svg-icon name="youtube" class="icon text-white hover:text-red-500" />
       </a>
-      <a :href="settings.twitter" target="_blank">
+      <a :href="settings.twitter" target="_blank" rel="noopener">
         <svg-icon name="twitter" class="icon text-white hover:text-red-500" />
       </a>
-      <a :href="`mailto:${settings.mail}`" target="_blank">
+      <a :href="`mailto:${settings.mail}`" target="_blank" rel="noopener">
         <svg-icon name="mail" class="icon text-white hover:text-red-500" />
       </a>
     </div>

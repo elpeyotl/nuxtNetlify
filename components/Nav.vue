@@ -9,7 +9,12 @@
           class="uppercase"
           >{{ link }}</nuxt-link
         >
-        <a href="https://shop.theyellinglight.ch/" target="_blank">SHOP</a>
+        <a
+          href="https://shop.theyellinglight.ch/"
+          target="_blank"
+          rel="noopener"
+          >SHOP</a
+        >
       </div>
     </div>
     <div class="md:hidden flex justify-center">
