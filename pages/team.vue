@@ -11,7 +11,7 @@
           <img class="shadow-2xl team__image w-full" :src="member.image" />
           <div class="team__caption w-2/3 max-w-md">
             <div class="text-center mb-2 text-lg mx-auto">
-              <span class="bg-red-500 px-2 py-1"> {{ member.name }} </span>
+              <span class="bg-red-500 px-2 py-1"> {{ member.title }} </span>
             </div>
             <div class="text-center mb-8 text-sm mx-auto">
               <span class="bg-red-500 px-2 py-1">{{ member.job }}</span>
