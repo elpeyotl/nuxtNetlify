@@ -1,17 +1,17 @@
 <template>
-  <div
-    id="main_wrapper"
-    v-lazy:background-image="backgroundImgSrc"
-    class="bg-center bg-cover bg-fixed bg-no-repeat bg-image min-w-screen min-h-screen"
-  >
-    <div class="bg-gray-800 h-full w-full bg-opacity-75">
+  <div>
+    <!-- <img
+      v-lazy="backgroundImgSrc"
+      class="backgroundImage top-0 z-0 fixed w-screen h-screen"
+    />-->
+    <div id="bgCanvas" class="fixed h-screen w-screen"></div>
+    <div class="bg-gray-800 h-full w-full bg-opacity-75 z-10 relative">
       <div class="mx-auto max-w-6xl bg-gray-200 bg-opacity-75 shadow-lg">
         <Header />
+
         <Nuxt class="p-4 lg:p-16 min-h-screen" />
         <Footer />
       </div>
-
-      />
     </div>
   </div>
 </template>
@@ -19,7 +19,9 @@
 <script>
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
-import { gsap, Power1, CSSPlugin, TimelineMax } from 'gsap'
+import { gsap, EasePack } from 'gsap/all'
+import { PixiPlugin } from 'gsap/PixiPlugin'
+import * as PIXI from 'pixi.js'
 
 export default {
   components: { Header, Footer },
@@ -29,29 +31,62 @@ export default {
     },
   },
   mounted() {
-    gsap.registerPlugin(CSSPlugin)
-    this.animateBackground()
+    gsap.registerPlugin(PixiPlugin)
+    PixiPlugin.registerPIXI(PIXI)
+    gsap.registerPlugin(EasePack)
+    // Create the application
+    const myView = document.getElementById('bgCanvas')
+
+    // Set dimensions
+    let width, height
+    function initDimensions() {
+      width = window.innerWidth
+      height = window.innerHeight
+    }
+    const app = new PIXI.Application({
+      width,
+      height,
+    })
+    initDimensions()
+    // Add the view to the DOM
+    myView.appendChild(app.view)
+    // Resizes renderer view in CSS pixels to allow for resolutions other than 1
+    app.renderer.autoDensity = true
+    // Resize the view to match viewport dimensions
+    app.renderer.resize(width, height)
+    // ex, add display objects
+    const bg = PIXI.Sprite.from(this.backgroundImgSrc)
+    bg.width = width
+    bg.height = height
+
+    app.stage.addChild(bg)
+
+    gsap.to(bg.scale, 30, {
+      x: 2,
+      y: 2,
+      repeat: -1,
+      yoyo: true,
+      ease: EasePack.ExpoScaleEase.config(1, 2),
+    })
+
+    /*      const timeLine = new TimelineMax({
+      // reversed: true,
+      repeat: -1,
+      yoyo: true,
+    })
+    timeLine.fromTo(
+      bg,
+      { pixi: { scale: 1 } },
+      {
+        pixi: { scale: 1.5 },
+        duration: 30,
+        ease: Power1.easeInOut,
+      }
+    ) */
   },
 
   methods: {
-    animateBackground() {
-      const bgImage = document.getElementById('main_wrapper')
-      const timeLine = new TimelineMax({
-        // reversed: true,
-        repeat: -1,
-        yoyo: true,
-      })
-      // set initial CSS autoAlpha to 0
-      // GSAP handles the cross browser vendor prefixes
-      timeLine
-        .set(bgImage, { backgroundSize: '150% 150%' })
-        // animate CSS autoAlpha to 1
-        .to(bgImage, 40, {
-          backgroundSize: '+=100% +=100%',
-          autoRound: false,
-          ease: Power1.ease0ut,
-        })
-    },
+    async animateBackground() {},
   },
 }
 </script>
@@ -68,8 +103,8 @@ body {
   font-family: 'Raleway', sans-serif;
   letter-spacing: 0.25em;
 }
-
-.bg-image {
+.backgroundImage {
+  will-change: transform;
 }
 @keyframes imagebulger {
   0% {

@@ -3,7 +3,7 @@ import { pageTitle, pageDescription } from './config/yellingLightSettings'
 export default {
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
-
+  mode: 'spa',
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
     title: 'netlifyCMS',
