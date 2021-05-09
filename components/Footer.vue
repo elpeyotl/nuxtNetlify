@@ -17,6 +17,11 @@
     <div class="text-xs lg:text-sm">
       Copyright © 2021 THE YELLING LIGHT. All Rights Reserved.
       <nuxt-link to="/disclaimer">DISCLAIMER / Privacy Policy</nuxt-link>
+      <br /><br />
+      Coded:
+      <a href="https://www.chrisperez.ch/" target="_blank" rel="noopener">
+        Chrisperez.ch
+      </a>
     </div>
   </div>
 </template>
