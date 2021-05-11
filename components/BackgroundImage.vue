@@ -13,7 +13,7 @@ export default {
       canvas: null,
       width: null,
       height: null,
-      pixiApp: null,
+      app: null,
     }
   },
   computed: {
@@ -32,11 +32,15 @@ export default {
     gsap.registerPlugin(EasePack)
   },
   mounted() {
-    this.initDimensions()
-    this.initCanvas()
-    this.initImage()
+    this.init()
   },
   methods: {
+    init() {
+      this.initDimensions()
+      this.initCanvas()
+      this.clearStage()
+      this.initImage()
+    },
     initDimensions() {
       this.width = window.innerWidth
       this.height = window.innerHeight
@@ -48,6 +52,7 @@ export default {
       this.app = new PIXI.Application({
         width,
         height,
+        resizeTo: window,
       })
       // Add the view to the DOM
       this.canvas.appendChild(this.app.view)
@@ -58,13 +63,15 @@ export default {
       // Resize the view to match viewport dimensions
       this.app.renderer.resize(width, height)
     },
+    clearStage() {
+      this.app.stage.children = []
+    },
     initImage() {
+      this.clearStage()
       const loader = new PIXI.Loader()
       loader.add('bg', this.backgroundImgSrc)
       loader.load((loader, resources) => {
-        console.log(resources)
         const bg = PIXI.Sprite.from(resources.bg.data)
-        this.app.stage.removeChild(bg)
         bg.anchor.x = 0.5
         bg.x = this.width / 2
         bg.anchor.y = 0.5

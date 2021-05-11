@@ -1,9 +1,5 @@
 <template>
   <div>
-    <!-- <img
-      v-lazy="backgroundImgSrc"
-      class="backgroundImage top-0 z-0 fixed w-screen h-screen"
-    />-->
     <BackgroundImage />
     <div class="bg-gray-800 h-full w-full bg-opacity-75 z-10 relative">
       <div class="mx-auto max-w-6xl bg-gray-200 bg-opacity-75 shadow-lg">
