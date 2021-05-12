@@ -97,7 +97,7 @@ export default {
           this.app.stage.addChild(bg)
           this.animate()
         }, 500)
-        gsap.to(bg.scale, 40, {
+        gsap.to(bg.scale, 30, {
           x: 2,
           y: 2,
           repeat: -1,
