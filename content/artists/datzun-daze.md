@@ -17,7 +17,7 @@ biography: >-
 
 
   [Become a patreon of Datzun Daze.](https://www.patreon.com/Datzundaze)
-thumbnail: https://lightroom.adobe.com/v2c/spaces/a314ebc4d9974dc592337c6cdd0126b2/assets/d0f4db221e3ea0d8685a74e02a7aef61/revisions/7fc80d84b51547a9ab7c121da0a73800/renditions/413d2753ba0557afe2c00777f089e7e0
+thumbnail: /img/413d2753ba0557afe2c00777f089e7e0.jpg
 headerImage: https://datzundaze.com/Bandfoto2.jpeg
 spotifyId: 6xb5XfdwKNFNZKOJWI0Ose
 facebook: https://www.facebook.com/datzundaze
