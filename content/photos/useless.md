@@ -1,7 +1,7 @@
 ---
 title: Useless
 date: 2016-05-31T23:24:06.510Z
-thumbnail: https://lightroom.adobe.com/v2c/spaces/5ff6851c67d945c0bcedb13b9aa0febd/assets/b85da1c5892e721adc8b05d9a5dcc427/revisions/df12457923da44e0b5b7d7af1567232d/renditions/ff95ac4ea7323cd170c985227ff43033
+thumbnail: /img/ff95ac4ea7323cd170c985227ff43033.jpg
 galleryImages:
   - image: https://lightroom.adobe.com/v2c/spaces/5ff6851c67d945c0bcedb13b9aa0febd/assets/fe4c6e936d898b03bde613918f5e2fe3/revisions/c5fd49ae842d489090b58e72cfcd8ab4/renditions/48518f45a61c6fc3850eb6c06191be1e
   - image: https://lightroom.adobe.com/v2c/spaces/5ff6851c67d945c0bcedb13b9aa0febd/assets/e8c0425bc2a0d9e0ce1418e4a8b523b7/revisions/7b46c96ebe6b4b09b5653a58f8561fe5/renditions/a7f9a9511f6320f383427e016a3b2123
