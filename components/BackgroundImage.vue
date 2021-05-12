@@ -1,11 +1,12 @@
 <template>
-  <div id="bgCanvas" class="fixed h-screen w-screen"></div>
+  <div>
+    <div id="bgCanvas" class="fixed h-screen w-screen"></div>
+  </div>
 </template>
 
 <script>
 import { gsap, EasePack } from 'gsap/all'
 import { PixiPlugin } from 'gsap/PixiPlugin'
-import { ReflectionFilter } from 'pixi-filters'
 
 import * as PIXI from 'pixi.js'
 export default {
@@ -86,7 +87,6 @@ export default {
       loader.add('bg', this.backgroundImgSrc)
       loader.load((loader, resources) => {
         const bg = PIXI.Sprite.from(resources.bg.data)
-        bg.filters = [new ReflectionFilter({})]
         bg.anchor.x = 0.5
         bg.x = this.width / 2
         bg.anchor.y = 0.5
