@@ -11,4 +11,9 @@ galleryImages:
   - image: https://lightroom.adobe.com/v2c/spaces/1af9c16096604a0ab5c0ded15fda07dd/assets/242aeae2b0ac9b2940a4c573615f7e2e/revisions/cfafcb7a1a3c43bca1ae67d3b13e49ae/renditions/3931a5ca072a52559deb7decde81bf50
   - image: https://lightroom.adobe.com/v2c/spaces/1af9c16096604a0ab5c0ded15fda07dd/assets/2e838a94f431012eaee39b071404d980/revisions/54acb3b7ac0c41ad8dd0e894ad4696ed/renditions/ef90f49ff6e3ecb5834c007bc9a6203f
   - image: https://lightroom.adobe.com/v2c/spaces/1af9c16096604a0ab5c0ded15fda07dd/assets/ecc24e8420154aa595b3504ff9620145/revisions/755de2d420ac4634abf1821019753c04/renditions/6871e22e40acada6e9c978bbeba96c6e
+facebook: https://www.facebook.com/strobehazer
+instagram: https://www.instagram.com/strobehazer/
+youtube: https://www.youtube.com/watch?v=52NRbsW846c
+bandcamp: ""
+webshop: https://shop.theyellinglight.ch/product/finite-dreams/
 ---
