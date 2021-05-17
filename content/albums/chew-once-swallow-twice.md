@@ -11,5 +11,6 @@ thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc73434222
 q: "-"
 spotifyId: 7onozJShRnN9B2k6vb8SAD?si=h1ixnNMvRMCyog_UXTJNDw
 youtubeId: watch?v=-z_DyIuqJRY&list=PLfxMW7fOi1QuKdO6KAxQO_qu4rVWlKjdw
+webshop: https://shop.theyellinglight.ch/product/wolves-usually-take-the-stairs-random-local-digital/
 ---
 A rock trio that we haven’t seen in this constellation so far. Although, these fine fanatics produce music together since decades.
