@@ -17,7 +17,10 @@ galleryImages:
 facebook: https://www.facebook.com/coilguns
 instagram: https://www.instagram.com/coilgunsnoise/
 youtube: https://www.youtube.com/channel/UCsaE4isT29Oh1IbgGgTfpVQ
+twitter: https://twitter.com/COILGUNS
 bandcamp: https://coilguns.bandcamp.com/
+website: https://www.coilguns.ch/
+webshop: https://hummus-records.com/
 ---
 Coilguns are:
 
