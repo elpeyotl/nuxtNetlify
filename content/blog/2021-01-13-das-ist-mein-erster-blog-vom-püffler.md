@@ -6,6 +6,4 @@ thumbnail: /img/0.png
 albums:
   - selftitled
 ---
-There's a lot going on at The yelling light.
-
-Chris, Leylah & Sarah and joined The yelling light. The goal is, to bring underground music to dreamy music lovers.
+Chris created a fantastic website and Sarah has been taking care of translations and the newsletter for quite some time. Thank you at for this <3
