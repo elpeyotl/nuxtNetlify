@@ -18,5 +18,9 @@ galleryImages:
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/d554d1a1156f743dbf1557de6b011c7e/revisions/72af3682b7c74bf4b6ccf9e4542dc2af/renditions/f875929b73979c4f983094120d770cb9
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/d42ca193e408489efa04331b0a442b4b/revisions/97e2615a1c8b48b98d3269023615be03/renditions/e3f4d61086ecc67866ee84a3536fe793
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/e8c1601aeb6a4f417f31b42604c72f86/revisions/3d473d602e5f43a1a558783b418ccd4d/renditions/6ea6c9874905ff4689926d88ed37812f
+facebook: https://www.facebook.com/megatonsword
+instagram: https://www.instagram.com/hailmegatonsword/
+youtube: https://www.youtube.com/channel/UCpsBidcgYoifZJJ7QnmwN7g
+bandcamp: https://megatonsword.bandcamp.com/
 ---
 Chris The Axe, Dan Thundersteel, Simon the Sorcerer, Seth Angel, Uzzy Unchained.
