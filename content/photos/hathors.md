@@ -9,4 +9,4 @@ youtube: https://www.youtube.com/user/HATHORSTUBE
 bandcamp: https://hathors.bandcamp.com/
 website: http://hathors.info/
 ---
-The Hathors were the apprentices in the temple of the goddess Hathor in ancient Egypt. Today it's a rock band signed at Noisolution
+The Hathors were the apprentices in the temple of the goddess Hathor in ancient Egypt. Today it's a rock band signed at [Noisolution](https://www.noisolution.de/).
