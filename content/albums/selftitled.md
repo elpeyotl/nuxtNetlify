@@ -13,8 +13,9 @@ lineup: |-
   Rembrandt Ludovico (Drums)
 thumbnail: /img/the-sunwashed-avenues-ep-72dpi.jpg
 spotifyId: 3AD6ongmO3BoI7sruBkSnn?si=9Z5PZMmHTNKbz6_cZ_zknw
-description: asdf
 youtubeId: watch?v=uVxctCrPZXs&list=OLAK5uy_lmwM-ojpbQdhPFL4cRtnsPQxFcyV5KI9U
+webshop: https://shop.theyellinglight.ch/product/verwaltzen-s-t/
+description: asdf
 ---
 Recorded by Kilian Roth Beatlounge studios Winterthur, Switzerland
 Mixed by Abele Franzé Cultrock studios Romanshorn, Switzerland
