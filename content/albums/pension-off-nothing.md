@@ -13,6 +13,7 @@ lineup: |-
 thumbnail: /img/verwaltzen-pension-off-nothing.jpg
 spotifyId: 6UiqfIfJewqHd3gWGTct0Z?si=a-zg6MzyQwSsIRq5yflMWg
 youtubeId: watch?v=DwFrWJfa8fQ&list=OLAK5uy_kxPk_z8dN_siEgwVlG3hVWTxJl99e2Q5A
+webshop: https://shop.theyellinglight.ch/product/verwaltzen-pension-off-nothing-digital/
 ---
 Released Dezember 14, 2012.
 
