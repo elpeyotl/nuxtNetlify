@@ -20,6 +20,7 @@ lineup: >-
 thumbnail: /img/verwaltzen-the-great-relief.jpg
 spotifyId: 4kt1Yl6aSeC5ud1BGMSVmY?si=nJ2U8VWmS5iUpzMIc-F1HQ
 youtubeId: watch?v=SXb_GZ-WLho&list=OLAK5uy_ljHO20A-crkCO-DiilUfJoYfoR0QToRDc
+webshop: https://shop.theyellinglight.ch/product/verwaltzen-the-great-relief-digital/
 ---
 Graphic design & layout by Yvo Petrzilek.\
 Mastered by Justin Weis at TRAKWORX
