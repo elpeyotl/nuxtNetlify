@@ -1,10 +1,14 @@
 import { pageTitle, pageDescription } from './config/yellingLightSettings'
 
 export default {
+  googleAnalytics: {
+    id: 'UA-127631817-1',
+  },
   // Target (https://go.nuxtjs.dev/config-target)
   target: 'static',
   mode: 'spa',
   // Global page headers (https://go.nuxtjs.dev/config-head)
+
   head: {
     title: 'netlifyCMS',
     meta: [
@@ -96,6 +100,7 @@ export default {
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
     '@nuxtjs/composition-api',
+    '@nuxtjs/google-analytics',
   ],
 
   // Modules (https://go.nuxtjs.dev/config-modules)

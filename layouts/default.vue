@@ -5,6 +5,7 @@
       <div class="mx-auto max-w-6xl bg-gray-200 bg-opacity-75 shadow-lg">
         <Header />
         <Nuxt class="p-4 lg:p-16 min-h-screen" />
+        <Cookie />
         <Footer />
       </div>
     </div>
@@ -15,9 +16,10 @@
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import BackgroundImage from '~/components/BackgroundImage'
+import Cookie from '~/components/Cookie'
 
 export default {
-  components: { BackgroundImage, Header, Footer },
+  components: { Cookie, BackgroundImage, Header, Footer },
 }
 </script>
 
