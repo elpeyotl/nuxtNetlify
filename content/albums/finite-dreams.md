@@ -14,5 +14,6 @@ lineup: "Music written, recorded and played by Strobehazer (Except bass on
 thumbnail: /img/strobehazer_7inch_finalartwork.jpg
 spotifyId: 0qbTM5j7CkJHrjJHPoh89n?si=uRZ-fgkiQlW7XRowh3MWVg
 youtubeId: watch?v=ZMu1eOreIew&list=PLg01btvz1lObK_3F3vatuAJztyhkdF96X
+webshop: https://shop.theyellinglight.ch/product/finite-dreams/
 ---
 The single features two songs and will be released digitally, as well as on 7’’ vinyl, through THE YELLING LIGHT. A full length album and live shows are planned for early 2021. Until then; blast these two songs at max volume through the speakers of your DeLorean, as you rage back through time.
