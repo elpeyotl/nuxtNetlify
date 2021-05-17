@@ -27,6 +27,7 @@ headerImage: /img/f963abcf54cd5b2cd19847a26bac1df3.jpg
 spotifyId: 3h6biOZ09elGkxUJK04PS8?si=Mp-w_cX-Sv2coTiJFQKhQg
 youtubeId: watch?v=WYKrkt5DIJQ&list=PLFdXRzJtmhfUH7Cy-e8nLIz2nkSlhfip1
 facebook: https://www.facebook.com/Amagortis-172759200601
+youtube: https://www.youtube.com/channel/UC8g2wL_VqJ2GTQsYCKtfZMQ
 webshop: https://shop.theyellinglight.ch/product/amagortis-abominable-digital/
 ---
 ERROR 666
