@@ -14,7 +14,10 @@ galleryImages:
   - image: https://lightroom.adobe.com/v2c/spaces/251a33b160da4316a17813b8acf8a6f6/assets/6de1e05265738354b93531d46218cf8f/revisions/092a666dbf6c477fa8d0c32eb4240592/renditions/fbabb22f3fd1eb291191afdbfd015c85
     caption: 03/03/2018 Coilguns live @ Gaswerk, Winterthur
   - image: https://lightroom.adobe.com/v2c/spaces/251a33b160da4316a17813b8acf8a6f6/assets/e41dc3c85f52ad7831ff5dde6b24706b/revisions/b1d9ae4264f4445a8220f23d9acf0584/renditions/d63c72cdfae77e9d3b8f032464cc82f6
-facebook: ""
+facebook: https://www.facebook.com/coilguns
+instagram: https://www.instagram.com/coilgunsnoise/
+youtube: https://www.youtube.com/channel/UCsaE4isT29Oh1IbgGgTfpVQ
+bandcamp: https://coilguns.bandcamp.com/
 ---
 Coilguns are:
 
