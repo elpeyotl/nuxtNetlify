@@ -6,6 +6,7 @@ thumbnail: /img/dsc_5790.jpg
 facebook: https://www.facebook.com/hathorsnoise
 instagram: https://www.instagram.com/hathorsofficial
 youtube: https://www.youtube.com/user/HATHORSTUBE
+email: ""
 bandcamp: https://hathors.bandcamp.com/
 website: http://hathors.info/
 ---
