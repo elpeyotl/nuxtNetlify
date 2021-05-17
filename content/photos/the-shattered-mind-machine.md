@@ -14,5 +14,10 @@ galleryImages:
     caption: Slayin' live at Winterthurer Musikfestwochen 2019
   - image: https://lightroom.adobe.com/v2c/spaces/7e2fc525d2b942d8aad4d93f275b44c9/assets/abd270ed208dbae6293ac419c83305dd/revisions/560fe83f22bd4ab68c20991ff4747700/renditions/341e8aca222654c1fd3a5ae880e127a6
   - image: https://lightroom.adobe.com/v2c/spaces/7e2fc525d2b942d8aad4d93f275b44c9/assets/db0d494b2e76ee84dffcb73261e3ec51/revisions/f784ffd10eab49799a33c6d1df3844db/renditions/5838ba618a01ddf440d79b068b108ca6
+facebook: https://www.facebook.com/shatteredmind1
+instagram: https://www.instagram.com/shatteredmindmachine/
+youtube: https://www.youtube.com/channel/UCU6cEwCHVihtgmV9GsH432Q
+bandcamp: https://shatteredmind.bandcamp.com/
+website: https://augeil.ch/
 ---
 I am super happy with their music and have had several opportunities to photograph the band. Thanks for the good times guys!
