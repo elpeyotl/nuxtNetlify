@@ -6,4 +6,4 @@ thumbnail: /img/0.png
 albums:
   - selftitled
 ---
-Chris created a fantastic website and Sarah has been taking care of translations and the newsletter for quite some time. Thank you at for this <3
+Chris created a fantastic website and Sarah has been taking care of translations and the newsletter for quite some time. Thank you for this and welcome to the team <3
