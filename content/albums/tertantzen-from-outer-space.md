@@ -15,6 +15,7 @@ lineup: |-
 thumbnail: /img/verwaltzen-t´ertantzen-from-outerspace.jpg
 spotifyId: 39bg83ku8GMju2TDSGeR0l?si=PgHxQChjRLiUsCm1Esnc1Q
 youtubeId: watch?v=-TR1_LoSzkw&list=OLAK5uy_kg1OYVOKdfy29WsPo-3TEADII7RwKWQuA
+webshop: https://shop.theyellinglight.ch/product/tertantzen-from-outer-space/
 ---
 all songs written & played by Verwaltzen\
 recorded, produced, mixed by Yvo Petrzilek, Verwaltzen Productions\
