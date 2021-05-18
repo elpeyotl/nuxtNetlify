@@ -7,7 +7,7 @@
     <div class="mb-12">
       <social-bar :content="post" />
       <h2 class="text-2xl font-semibold">{{ post.title }}</h2>
-      {{ showDate(post.createdAt) }}
+      {{ showDate(post.date) }}
     </div>
     <nuxt-content :document="post" />
 

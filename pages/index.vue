@@ -26,7 +26,7 @@ import { pageTitle } from '~/config/yellingLightSettings'
 
 export default {
   async asyncData({ $content }) {
-    const posts = await $content('blog').sortBy('createdAt', 'desc').fetch()
+    const posts = await $content('blog').sortBy('date', 'desc').fetch()
     const home = await $content('pages', 'home').fetch()
     return {
       home,
