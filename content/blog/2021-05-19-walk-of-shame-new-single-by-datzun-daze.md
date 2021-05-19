@@ -6,7 +6,7 @@ description: Datzun Daze release with "Walk of Shame" their second single.
 thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc7343422215/assets/38da59b0c4ce4c8c9a89e1eb8ddb0170/revisions/56967e6fe9b846a9ae0996f9eaaf9b7f/renditions/479e8f14e5364a15b19049342644b5c0
 artist: Datzun Daze
 albums: walk-of-shame
-spotifyId: 14u5vrp1L4excVEpxrSgK4?si=9967c2c3ef754c9f
+spotifyId: 4auJI4XTCaxXLLEIOOXygM?si=qQof_wnxS-2xrqKVxMv69w
 youtubeId: watch?v=2WkgaE96HaQ
 facebook: https://www.facebook.com/datzundaze
 instagram: https://www.instagram.com/datzun.daze/
