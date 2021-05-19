@@ -7,7 +7,8 @@ title: Walk of Shame
 date: 2021-04-01T23:58:54.806Z
 recordLabel: The yelling light
 lineup: >-
-  Lyrics by Nathanael Neuhaus
+  Lyrics by Nathanael Neuhaus\
+
 
   Music by Nathanael Neuhaus, Matthias Rüegger, Elia Schneider, Jordi Pürro, Marius Gruber, Maurin Pürro
 thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc7343422215/assets/38da59b0c4ce4c8c9a89e1eb8ddb0170/revisions/56967e6fe9b846a9ae0996f9eaaf9b7f/renditions/812465fcad902888a82c42487c9ed757
