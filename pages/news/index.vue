@@ -21,7 +21,7 @@ export default {
   async asyncData({ $content, params, error }) {
     let posts
     try {
-      posts = await $content('blog').sortBy('createdAt', 'desc').fetch()
+      posts = await $content('blog').sortBy('date', 'desc').fetch()
       // OR const article = await $content(`articles/${params.slug}`).fetch()
     } catch (e) {
       error({ message: 'Blog Post not found' })
