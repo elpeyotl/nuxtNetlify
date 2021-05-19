@@ -8,5 +8,11 @@ artist: Datzun Daze
 albums: walk-of-shame
 spotifyId: 14u5vrp1L4excVEpxrSgK4?si=9967c2c3ef754c9f
 youtubeId: watch?v=2WkgaE96HaQ
+facebook: https://www.facebook.com/datzundaze
+instagram: https://www.instagram.com/datzun.daze/
+youtube: https://www.youtube.com/channel/UCQ0LZTtlzrnh--rEkHFG_7Q
+email: " datzun.daze@gmail.com"
+bandcamp: https://datzundaze.bandcamp.com/
+website: https://datzundaze.com/
 ---
 Datzun Daze is: Nathanael Neuhaus, Elia Schneider, Jordi Pürro, Marius Gruber, Maurin Pürro. Walk of Shame was written in 2020. Recorded in 2021 by Pascal Lüthi, Schüpbach.
