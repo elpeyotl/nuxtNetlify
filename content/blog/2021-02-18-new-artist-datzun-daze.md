@@ -5,7 +5,7 @@ description: " Let us introduce you to DATZUN DAZE "
 thumbnail: /img/413d2753ba0557afe2c00777f089e7e0.jpg
 artist: Datzun Daze
 albums: stockholm-syndrome
-spotifyId: 6xb5XfdwKNFNZKOJWI0Ose?si=EmOR5MXfTqmyVkKpm4FJ7g
+spotifyId: 4auJI4XTCaxXLLEIOOXygM?si=_j2YfzQkQseACyxhXT7LDA
 youtubeId: vkpZ1tPCSJ4
 ---
 Hi folks,\
