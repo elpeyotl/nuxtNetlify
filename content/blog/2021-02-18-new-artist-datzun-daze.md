@@ -2,7 +2,7 @@
 title: "New artist: Datzun Daze"
 date: 2021-02-19T22:15:36.299Z
 description: " Let us introduce you to   DATZUN DAZE "
-thumbnail: https://f4.bcbits.com/img/a0399189426_10.jpg
+thumbnail: /img/413d2753ba0557afe2c00777f089e7e0.jpg
 albums:
   - stockholm-syndrome
 youtubeId: vkpZ1tPCSJ4
