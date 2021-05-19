@@ -9,6 +9,10 @@
       <h2 class="text-2xl font-semibold">{{ post.title }}</h2>
       {{ showDate(post.date) }}
     </div>
+    <p class="text-lg font-normal text-justify mb-8">
+      {{ post.description }}
+    </p>
+
     <nuxt-content :document="post" />
 
     <div class="flex justify-between">

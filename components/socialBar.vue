@@ -1,6 +1,6 @@
 <template>
   <div :class="isCenter">
-    <div class="social flex w-64 mb-4">
+    <div class="social flex w-64 mb-4" :class="isCenter">
       <a
         v-if="content.facebook"
         :href="content.facebook"
