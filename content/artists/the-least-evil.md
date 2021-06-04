@@ -1,7 +1,7 @@
 ---
 artist: The Least Evil
 date: 2020-01-01T00:28:09.603Z
-description: The Least Evil is a fresh Rock Duo from Winterthur, Switzerland.
+description: The Least Evil is a fresh Rock Band from Winterthur, Switzerland.
 biography: "Andy and Simon know each other since 2002, while being in several
   punk, metal and grunge bands. In 2014, they started their own project. The
   Least Evil was born. Andy, the former bassist and back vocalist changed to the
