@@ -5,6 +5,7 @@ genres:
   - Metal
 title: Intrinsic Indecency
 date: 2010-06-01T21:53:40.283Z
+isPrivate: false
 recordLabel: Brutal Bands / The yelling light
 lineup: |-
   Vocals – Pascal\

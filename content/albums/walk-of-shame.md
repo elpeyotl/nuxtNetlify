@@ -5,6 +5,7 @@ genres:
   - Rock
 title: Walk of Shame
 date: 2021-04-01T23:58:54.806Z
+isPrivate: false
 recordLabel: The yelling light
 lineup: >-
   Lyrics by Nathanael Neuhaus\

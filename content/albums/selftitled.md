@@ -5,6 +5,7 @@ genres:
   - Rock
 title: Selftitled
 date: 2009-01-13T22:50:00.000Z
+isPrivate: false
 recordLabel: Dirty & weird music / The yelling light
 lineup: |-
   Lt- Columbo (Vocals)

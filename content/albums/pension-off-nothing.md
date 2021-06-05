@@ -5,6 +5,7 @@ genres:
   - Rock
 title: pension off & nothing
 date: 2012-12-14T01:16:51.521Z
+isPrivate: false
 recordLabel: Self Released / The yelling light (2019)
 lineup: |-
   Vocals & guitars, Yvo Petrzilek\

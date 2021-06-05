@@ -4,6 +4,7 @@ genres:
   - Rock
 title: The Lesser Of Two Evils Is Still Evil
 date: 2020-02-28T00:36:38.293Z
+isPrivate: false
 recordLabel: Self-Release / The yelling light
 lineup: All songs written and performed by Andreas Good & Simon Wettstein.
 thumbnail: /img/tle_vorderseite3000x3000_72dpi.jpg

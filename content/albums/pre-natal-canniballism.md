@@ -5,6 +5,7 @@ genres:
   - Metal
 title: Pre-Natal Canniballism
 date: 2007-06-01T21:47:31.825Z
+isPrivate: false
 recordLabel: Fastbeast Entertainment /  Brutal Bands / The yelling light
 lineup: |-
   Vocals – Pascal\

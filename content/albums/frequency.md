@@ -5,6 +5,7 @@ genres:
   - Punk
 title: Frequency
 date: 2021-05-19T19:23:58.423Z
+isPrivate: false
 recordLabel: The yelling light
 lineup: >-
   Written, played, sung & ruined by Migre le tigre.

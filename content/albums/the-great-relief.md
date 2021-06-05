@@ -5,6 +5,7 @@ genres:
   - Rock
 title: The Great Relief
 date: 2019-12-05T01:21:45.118Z
+isPrivate: false
 recordLabel: The yelling light
 lineup: >-
   All songs written & played by VERWALTZEN in 2018.\

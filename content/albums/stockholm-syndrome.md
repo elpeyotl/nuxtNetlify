@@ -5,6 +5,7 @@ genres:
   - Rock
 title: Stockholm Syndrome
 date: 2021-02-18T22:18:00.891Z
+isPrivate: false
 recordLabel: The yelling light
 lineup: >-
   Text : Nathanael Neuhaus\

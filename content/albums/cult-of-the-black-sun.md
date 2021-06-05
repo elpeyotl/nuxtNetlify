@@ -7,6 +7,7 @@ genres:
   - Rock
 title: Cult Of The Black Sun
 date: 2010-01-01T21:09:04.315Z
+isPrivate: false
 lineup: |-
   John Lui (Vocals)\
   Francesco Romano (Guitar)\

@@ -5,6 +5,7 @@ genres:
   - Metal
 title: Verwaltzen
 date: 2017-07-05T00:19:34.916Z
+isPrivate: false
 recordLabel: The yelling light
 lineup: |-
   All songs written & played by Verwaltzen\

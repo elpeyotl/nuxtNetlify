@@ -5,6 +5,7 @@ genres:
   - Rock
 title: Driving South
 date: 2020-12-04T20:02:55.165Z
+isPrivate: false
 recordLabel: The yelling light
 lineup: Red Tape Redemption is Lukas Oberholzer & Tobias Kalt.
 thumbnail: /img/rtr_cover_fin_small.jpg

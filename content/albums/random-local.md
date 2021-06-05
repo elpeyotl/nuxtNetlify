@@ -5,6 +5,7 @@ genres:
   - Rock
 title: Random Local
 date: 2020-12-17T23:22:41.271Z
+isPrivate: false
 recordLabel: The yelling light
 lineup: Yvo Petrzilek, Francesco Romano, Sirio Forabosco.
 thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc7343422215/assets/81b29d664f884940c7aa059dcd5a2e0c/revisions/be36634d38944b72bc4f1d8c99e35b5c/renditions/13dc2880d3bda492b0fc49bf93075f26
