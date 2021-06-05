@@ -5,6 +5,7 @@ genres:
   - Metal
 title: Abominable
 date: 2004-06-01T21:35:33.527Z
+isPrivate: true
 recordLabel: Self Released / dirty & weird music / The yelling light
 lineup: |-
   Vocals – Grimm\
