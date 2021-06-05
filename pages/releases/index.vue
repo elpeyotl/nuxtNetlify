@@ -80,7 +80,12 @@ export default {
     let albums
     let genres
     try {
-      albums = await $content('albums').sortBy('date', 'desc').fetch()
+      albums = await $content('albums')
+        .where({
+          isPrivate: false,
+        })
+        .sortBy('date', 'desc')
+        .fetch()
       // OR const article = await $content(`articles/${params.slug}`).fetch()
     } catch (e) {
       error({ message: 'Blog Post not found' })

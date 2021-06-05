@@ -22,15 +22,24 @@
       <a href="https://www.chrisperez.ch/" target="_blank" rel="noopener">
         Chrisperez.ch
       </a>
+      <br /><br />
+      Version: {{ version }}
     </div>
   </div>
 </template>
 
 <script>
+import pkg from '../package.json'
 import MailchimpForm from '~/components/mailchimpForm'
 import Social from '~/components/social'
 export default {
   components: { Social, MailchimpForm },
+  setup() {
+    const version = pkg.version
+    return {
+      version,
+    }
+  },
 }
 </script>
 

@@ -2,7 +2,7 @@
   <div>
     <BackgroundImage />
     <div class="bg-gray-800 h-full w-full bg-opacity-75 z-10 relative">
-      <div class="mx-auto max-w-6xl bg-gray-200 bg-opacity-75 shadow-lg">
+      <div class="background__inner mx-auto max-w-6xl bg-gray-200 shadow-lg">
         <Header />
         <Nuxt class="p-4 lg:p-16 min-h-screen" />
         <Cookie />
@@ -72,5 +72,9 @@ body {
 
 .fade-enter-active {
   transition-delay: 0.2s;
+}
+
+.background__inner {
+  opacity: 0.9;
 }
 </style>
