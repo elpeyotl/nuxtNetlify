@@ -5,7 +5,7 @@ genres:
   - Pop
 title: Finite Dreams
 date: 2020-07-02T22:55:05.179Z
-isPrivate: true
+isPrivate: false
 recordLabel: The yelling light
 lineup: "Music written, recorded and played by Strobehazer (Except bass on
   Strobehazed: Written and recorded by Yvo Petrzilek. Lyrics by Strobehazer.
