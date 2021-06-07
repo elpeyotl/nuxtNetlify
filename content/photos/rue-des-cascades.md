@@ -11,7 +11,7 @@ description: Rue des Cascades is a musical project founded in 2010 in
   released. After an extended writing and recording process, that saw former
   lead singer Ivo part ways with the band, their new full length "The Black
   Sleep" was released in June 2021.
-thumbnail: /img/dsc_1600.jpg
+thumbnail: https://lightroom.adobe.com/v2c/spaces/994e80f93dc84f1b94bc9a56de07b584/assets/a9925d0fd61338b8200f674a82ba187d/revisions/29c70669888d4b4187cdd256de4d742e/renditions/f5f86c05bdd049f9bff90550f415bdb8
 galleryImages:
   - image: https://lightroom.adobe.com/v2c/spaces/994e80f93dc84f1b94bc9a56de07b584/assets/390753becc74306cb397ed58a67b10b4/revisions/bc3711f5ce234fec91fffeea253cb321/renditions/737036e096328fc74d847217cd4be4d8
     caption: ""
