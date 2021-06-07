@@ -11,10 +11,11 @@ description: Rue des Cascades is a musical project founded in 2010 in
   released. After an extended writing and recording process, that saw former
   lead singer Ivo part ways with the band, their new full length "The Black
   Sleep" was released in June 2021.
-thumbnail: /img/dsc_1796.jpg
+thumbnail: /img/dsc_1600.jpg
 galleryImages:
   - image: https://lightroom.adobe.com/v2c/spaces/994e80f93dc84f1b94bc9a56de07b584/assets/390753becc74306cb397ed58a67b10b4/revisions/bc3711f5ce234fec91fffeea253cb321/renditions/737036e096328fc74d847217cd4be4d8
     caption: ""
+  - image: https://lightroom.adobe.com/v2c/spaces/994e80f93dc84f1b94bc9a56de07b584/assets/a9925d0fd61338b8200f674a82ba187d/revisions/29c70669888d4b4187cdd256de4d742e/renditions/f5f86c05bdd049f9bff90550f415bdb8
   - image: https://lightroom.adobe.com/v2c/spaces/994e80f93dc84f1b94bc9a56de07b584/assets/69c27776bfe836548c13a37dd71ea35c/revisions/193edc49cf914453965261dcd8c08378/renditions/8694026497765b3690c7323889a5cff5
   - image: https://lightroom.adobe.com/v2c/spaces/994e80f93dc84f1b94bc9a56de07b584/assets/cb1580487dcec36c4e32d4b8157db38c/revisions/86d461c6a54e46bab5e2fd46f5b08aa1/renditions/ed2e4ea6b0de03a542969d9718340ca7
   - image: https://lightroom.adobe.com/v2c/spaces/994e80f93dc84f1b94bc9a56de07b584/assets/ab10eac2a65fbf1de1a77ed398278dbb/revisions/acc7ef5f206a4836b5204e323fcd8fbc/renditions/b5ac2ac8f7343180207dc77b2801a342
