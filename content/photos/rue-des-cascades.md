@@ -2,15 +2,8 @@
 title: Rue Des Cascades
 date: 2021-06-07T21:46:08.263Z
 isPrivate: true
-description: Rue des Cascades is a musical project founded in 2010 in
-  Winterthur, Switzerland. After first demo recordings in 2012, a lot of shows
-  and some lineup changes, Rue des Cascades released a 7” split EP with Abrassiv
-  in July 2014. At the end of the same year, an EP called “Katalepsie” was
-  released, marking the first output of their own small label “Cruel Bones”. In
-  July 2016, the debut album titled "Odes to Love, Flames to Paris" was
-  released. After an extended writing and recording process, that saw former
-  lead singer Ivo part ways with the band, their new full length "The Black
-  Sleep" was released in June 2021.
+description: "Rue des Cascades is a musical project founded in 2010 in
+  Winterthur, Switzerland. "
 thumbnail: /img/dsc_1600.jpg
 galleryImages:
   - image: https://lightroom.adobe.com/v2c/spaces/994e80f93dc84f1b94bc9a56de07b584/assets/390753becc74306cb397ed58a67b10b4/revisions/bc3711f5ce234fec91fffeea253cb321/renditions/737036e096328fc74d847217cd4be4d8
