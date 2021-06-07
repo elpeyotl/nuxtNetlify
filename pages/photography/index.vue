@@ -20,7 +20,12 @@ export default {
   async asyncData({ $content, params, error }) {
     let photos
     try {
-      photos = await $content('photos').sortBy('date', 'asc').fetch()
+      photos = await $content('photos')
+        .where({
+          isPrivate: false,
+        })
+        .sortBy('date', 'asc')
+        .fetch()
       // OR const article = await $content(`articles/${params.slug}`).fetch()
     } catch (e) {}
     return {

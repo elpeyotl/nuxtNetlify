@@ -4,6 +4,7 @@ date: 2019-01-29T20:52:29.791Z
 artist: []
 description: Coilguns is currently signed at Hummus-Records, Neuchâtel.
 thumbnail: /img/6554d7c35cd4593ff524cf7a515e5670.jpeg
+isPrivate: false
 galleryImages:
   - image: https://lightroom.adobe.com/v2c/spaces/251a33b160da4316a17813b8acf8a6f6/assets/7359c627f84ca27bbc0923996d5c2907/revisions/55eafdde2342422e8d4627c94ae29747/renditions/4130977ad08e45ebcd75042620a0816c
     caption: 03/03/2018 Coilguns live @ Gaswerk, Winterthur

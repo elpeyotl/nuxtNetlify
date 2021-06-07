@@ -5,6 +5,7 @@ artist:
   - The Shattered Mind Machine
 description: The Shattered Mind Machine is currently signed at AuGeil Records, Frauenfeld.
 thumbnail: /img/70c51b045d78650b354cc740e92e2be0.jpg
+isPrivate: false
 galleryImages:
   - image: https://lightroom.adobe.com/v2c/spaces/7e2fc525d2b942d8aad4d93f275b44c9/assets/8a80ea36acbc0b7d1b96885ec5591a88/revisions/46ee68eeb3d240289625cea36c3112ec/renditions/de04aae49f0a50bb1ecd3c8eb0191969
   - image: https://lightroom.adobe.com/v2c/spaces/7e2fc525d2b942d8aad4d93f275b44c9/assets/1727ae48f31740610c5a46adeff58aaa/revisions/6a01cbb6b5774cb4aab8809b5edef806/renditions/0e1fd9066585e57b16f899a7d436ea71

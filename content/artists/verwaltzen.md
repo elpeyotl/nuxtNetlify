@@ -1,5 +1,6 @@
 ---
 artist: Verwaltzen
+isPrivate: false
 date: 2008-01-01T22:48:26.640Z
 description: Verwaltzen was founded in September 2007 near Winterthur,
   Switzerland. What was originally planned as a pure studio project quickly

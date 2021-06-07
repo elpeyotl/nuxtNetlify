@@ -1,5 +1,6 @@
 ---
 artist: Datzun Daze
+isPrivate: false
 date: 2021-02-19T20:00:30.264Z
 description: Datzun Daze are a Post-melan-coholic Eurock Sound Experience out of
   Bern, Switzerland.

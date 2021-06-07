@@ -1,5 +1,6 @@
 ---
 artist: Wolves Usually Take The Stairs
+isPrivate: false
 date: 2021-01-26T01:33:29.596Z
 description: A rock trio that we haven’t seen in this constellation so far.
   Although, these fine fanatics produce music together since decades.

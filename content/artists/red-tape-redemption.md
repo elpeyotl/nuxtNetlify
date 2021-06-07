@@ -1,5 +1,6 @@
 ---
 artist: Red Tape Redemption
+isPrivate: false
 date: 2020-12-04T19:33:19.454Z
 description: RED TAPE REDEMTION delivers high octane bluesrock straight out from
   their souls.

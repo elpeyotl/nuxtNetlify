@@ -1,5 +1,6 @@
 ---
 artist: The Sunwashed Avenues
+isPrivate: false
 date: 2021-01-13T21:37:23.864Z
 description: YOU DON’T JUST WATCH THE MAGIC – MAGIC WILL COME TO YOU!
 biography: The Sunwashed Avenues was formed in 2004, with the intention to

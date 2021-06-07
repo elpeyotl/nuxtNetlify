@@ -15,7 +15,12 @@ export default {
   async asyncData({ $content, params, error }) {
     let artists
     try {
-      artists = await $content('artists').fetch()
+      artists = await $content('artists')
+        .where({
+          isPrivate: false,
+        })
+        .sortBy('slug', 'asc')
+        .fetch()
       // OR const article = await $content(`articles/${params.slug}`).fetch()
     } catch (e) {
       error({ message: 'Blog Post not found' })

@@ -1,5 +1,6 @@
 ---
 artist: Migre le Tigre
+isPrivate: false
 date: 2021-03-15T19:38:54.757Z
 description: Pedal to the metal!
 biography: Breaking strings since 2011!

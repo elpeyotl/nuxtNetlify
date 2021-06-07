@@ -1,5 +1,6 @@
 ---
 artist: The Least Evil
+isPrivate: false
 date: 2020-01-01T00:28:09.603Z
 description: The Least Evil is a fresh Rock Band from Winterthur, Switzerland.
 biography: "Andy and Simon know each other since 2002, while being in several

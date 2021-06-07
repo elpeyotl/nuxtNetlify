@@ -4,6 +4,7 @@ date: 2021-03-20T06:00:57.845Z
 artist:
   - Strobehazer
 thumbnail: /img/69ae527094a8c0a6535ed63cfcbafa30.jpg
+isPrivate: false
 galleryImages:
   - image: https://lightroom.adobe.com/v2c/spaces/1af9c16096604a0ab5c0ded15fda07dd/assets/8a27f714f29e0f78ba383ebd5900806b/revisions/0290e74d668641ca8db703fc879b6338/renditions/62ac22ba8fd933d826026f4276aaaea6
     caption: Strobehazer recording his second single at Verwaltzen-Productions,

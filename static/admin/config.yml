@@ -175,6 +175,7 @@ collections:
     fields:
       - { label: 'Artist', name: 'artist', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: "Private", name: "isPrivate", hint: "URL: https://www.theyellinglight.ch/artists/{{title}}", widget: "boolean", default: false }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Biography', name: 'biography', widget: 'markdown' }
@@ -215,6 +216,7 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: "Private", name: "isPrivate", hint: "URL: https://www.theyellinglight.ch/photography/{{title}}", widget: "boolean", default: false }
       - {
         label: 'Artist',
         name: 'artist',

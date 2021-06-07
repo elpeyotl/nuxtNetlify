@@ -1,5 +1,6 @@
 ---
 artist: Strobehazer
+isPrivate: false
 date: 2021-02-18T23:42:57.635Z
 description: " A glittering figure emerging from a shroud of haze, stepping into
   the stroboscope light, Strobehazer is sent straight from the 80s to abduct you
