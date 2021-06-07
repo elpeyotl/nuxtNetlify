@@ -75,6 +75,6 @@ body {
 }
 
 .background__inner {
-  opacity: 0.9;
+  --bg-opacity: 0.9;
 }
 </style>
