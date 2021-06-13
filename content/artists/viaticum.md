@@ -43,7 +43,7 @@ facebook: https://www.facebook.com/Kosmikrock
 bandcamp: https://viaticum.bandcamp.com/
 website: https://viaticumband.com
 ---
-Viaticum actual line-up is:
+**Viaticum actual line-up is:**
 
 Michael Locher (guitar)\
 Urs Gut (vocals, bass)\
