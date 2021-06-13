@@ -43,17 +43,6 @@ facebook: https://www.facebook.com/Kosmikrock
 bandcamp: https://viaticum.bandcamp.com/
 website: https://viaticumband.com
 ---
-**Viaticum actual line-up is:**
+**Current line-up:**
 
-Michael Locher (guitar)\
-Urs Gut (vocals, bass)\
-Pascal Gilgen (guitarspacenoise, clarinet, Korg Volca FM and vocals)\
-Jonas (drums)
-
-
-
-Drums on Trip Me Tender and Kosmikrock are played by Bastian
-
-
-
-Drums on Solar Transient are played by Dave
+Michael Locher (guitar), Urs Gut (vocals, bass), Pascal Gilgen (guitarspacenoise, clarinet, Korg Volca FM and vocals), Jonas (drums)
