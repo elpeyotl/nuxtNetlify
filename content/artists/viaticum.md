@@ -37,7 +37,7 @@ biography: "The history of Viaticum started 2005 in an old vaulted cellar where
   album – fresh off the press!"
 thumbnail: /img/viaticum.png
 headerImage: https://lightroom.adobe.com/v2c/spaces/a42eae7a04bd48dda6b8193b4c695220/assets/7042205e77b573d29b78c62456c8eeab/revisions/7fb412020be7418d9c514e5e8062f08d/renditions/c47beb8834391652cd85122b9911a755
-headerImage__caption: Photo by Lukas Gut @ Labüsch Bar, Winterthur. December 2020
+headerImage__caption: Photo by Lukas Gut in  December 2020 @ Labüsch Bar, Winterthur
 spotifyId: 7vvVxKPNxrtQNeMUG5956X?si=YqiDkd6ATrGc6soF6khfvQ&dl_branch=1
 facebook: https://www.facebook.com/Kosmikrock
 bandcamp: https://viaticum.bandcamp.com/
