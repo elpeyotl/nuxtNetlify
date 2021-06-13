@@ -50,6 +50,10 @@ Urs Gut (vocals, bass)\
 Pascal Gilgen (guitarspacenoise, clarinet, Korg Volca FM and vocals)\
 Jonas (drums)
 
+
+
 Drums on Trip Me Tender and Kosmikrock are played by Bastian
+
+
 
 Drums on Solar Transient are played by Dave
