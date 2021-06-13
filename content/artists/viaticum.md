@@ -45,4 +45,4 @@ website: https://viaticumband.com
 ---
 **Current line-up:**
 
-Michael Locher (guitar), Urs Gut (vocals, bass), Pascal Gilgen (guitarspacenoise, clarinet, Korg Volca FM and vocals), Jonas (drums)
+Michael Locher (guitar), Urs Gut (vocals, bass), Pascal Gilgen (guitarspacenoise, clarinet, Korg Volca FM and vocals), Jonas (drums).
