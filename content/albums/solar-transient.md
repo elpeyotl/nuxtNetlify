@@ -10,6 +10,9 @@ recordLabel: Sixteentimes Music / The yelling light
 lineup: Michael Locher (guitar), Urs Gut (vocals, bass), Pascal Gilgen
   (guitarspacenoise, clarinet, Korg Volca FM and vocals), David Müller (drums).
 thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc7343422215/assets/da48d7c5a2675c83945cf82de6cabb6d/revisions/2927e15c274b44cf9cb52d8dddb0f378/renditions/1b096d9a1c7f1335d376286e116912d0
+facebook: https://www.facebook.com/Kosmikrock
+bandcamp: https://viaticum.bandcamp.com/
+website: https://viaticumband.com/#news
 ---
 Viaticum, Solar Transient: Some things take their time to grow. Like the Giant Himalayan Lily or the Kurinji Plant. Or the Madagascar Palm. Or «Solar Transient», Viaticums latest release. After six years, the four men from Winterthur finally got to put out a new album, recorded by Verwaltzen Productions. According to the band, the album didn't come to them easily and «has taken many hurdles to finally be there». And now it doesn't come to us easily. It took time to create and it takes time to listen. Not only because the songs on «Solar Transient» are – with one exception – roughly eleven minutes long, but rather because the music brought to us by Viaticum on this record isn't like some light beer or wine cooler to sip while watching the sunset. It's obscure, tangled, nebulous, disturbing at times while on the other hand comfortingly soft and simply beautiful. Powerful and yet with a great sense of distress, the four songs are reminders of getting lost in the dark and not being sure whether you really want to find your way back home. \
 \
