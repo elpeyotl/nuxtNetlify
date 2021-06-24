@@ -1,7 +1,7 @@
 ---
 artist: Viaticum
 date: 2021-06-25T12:16:55.230Z
-isPrivate: true
+isPrivate: false
 description: The four members of Viaticum, old friends since early youth, while
   meanwhile living wildly spread across Switzerland create soundscapes which
   cannot be categorized. They call their music Kosmikrock- deeply rooted in
