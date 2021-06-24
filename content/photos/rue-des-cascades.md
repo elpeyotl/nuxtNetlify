@@ -1,7 +1,7 @@
 ---
 title: Rue Des Cascades
 date: 2021-06-07T21:46:08.263Z
-isPrivate: true
+isPrivate: false
 description: "Rue des Cascades is a musical project founded in 2010 in
   Winterthur, Switzerland. "
 thumbnail: /img/dsc_1796.jpg
