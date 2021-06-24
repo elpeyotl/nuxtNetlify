@@ -13,6 +13,7 @@ thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc73434222
 facebook: https://www.facebook.com/Kosmikrock
 bandcamp: https://viaticum.bandcamp.com/
 website: https://viaticumband.com/#news
+webshop: https://shop.theyellinglight.ch/produkt-schlagwort/viaticum/
 ---
 An album in a mood of change\
 \
