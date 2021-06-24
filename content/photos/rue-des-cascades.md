@@ -16,5 +16,5 @@ galleryImages:
   - image: https://lightroom.adobe.com/v2c/spaces/994e80f93dc84f1b94bc9a56de07b584/assets/5c284ef2d2a05747b1ebba736cbea437/revisions/7d7ef294335b4db4a68b9c04e66acd7f/renditions/8998eb8baebfc4bcc8d592344cebd556
     caption: Rue Des Cascades live at the Release Party for Flexi Recording Session
       Vol. I
-bandcamp: https://ruedescascades.bandcamp.com/community
+bandcamp: https://ruedescascades.bandcamp.com/album/the-black-sleep
 ---
