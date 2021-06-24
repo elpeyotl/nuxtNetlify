@@ -5,7 +5,7 @@ genres:
   - Rock
 title: Solar Transient
 date: 2021-06-25T12:58:24.283Z
-isPrivate: true
+isPrivate: false
 recordLabel: Sixteentimes Music / The yelling light
 lineup: Michael Locher (guitar), Urs Gut (vocals, bass), Pascal Gilgen
   (guitarspacenoise, clarinet, Korg Volca FM and vocals), David Müller (drums).
