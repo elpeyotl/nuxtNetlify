@@ -9,7 +9,7 @@
             The yelling light
           </h1>
           <span class="uppercase text-sm lg:text-base text-gray-700"
-            >Enligthening music</span
+            >Enlightening music</span
           >
         </div>
       </NuxtLink>
