@@ -3,7 +3,7 @@ title: "About Trip Me Tender & Kosmikrock: Viaticum's first two classics"
 date: 2021-07-15T22:17:44.789Z
 description: After the release of their newest record «Solar Transient», we
   should also be talking about Viaticums earlier recordings.
-thumbnail: https://lightroom.adobe.com/v2c/spaces/2facdf8a079544dbaa1ee0ecdc5df702/assets/3cf71b2126ae82adb3b7b9378e79365d/revisions/3b7a2ca2900a46bfaedeb47ed1495393/renditions/a536ea29e403625d283c8a7871c45165
+thumbnail: /img/zeichenfläche-1.png
 artist: Viaticum
 albums: ""
 ---
