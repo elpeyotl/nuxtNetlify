@@ -5,7 +5,7 @@ genres:
   - Rock
 title: Kosmikrock
 date: 2021-07-16T19:03:27.002Z
-isPrivate: true
+isPrivate: false
 recordLabel: Self-released / The yelling light
 lineup: >-
   **Current line-up:**
