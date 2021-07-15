@@ -6,6 +6,9 @@ description: After the release of their newest record «Solar Transient», we
 thumbnail: /img/zeichenfläche-1.png
 artist: Viaticum
 albums: ""
+bandcamp: https://viaticum.bandcamp.com/
+website: https://viaticumband.com/#news
+webshop: https://shop.theyellinglight.ch/produkt-schlagwort/viaticum/
 ---
 13 songs in total, only one as short as 4:44 minutes, while the average length lies more around double that. First, there was «Trip Me Tender», released ten years ago. \
 \
