@@ -5,7 +5,7 @@ genres:
   - Rock
 title: Trip Me Tender
 date: 2021-07-16T18:59:25.698Z
-isPrivate: true
+isPrivate: false
 recordLabel: " Acoustic Desaster Records / The yelling light"
 lineup: >-
   **Current line-up:**
