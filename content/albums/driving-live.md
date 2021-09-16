@@ -24,5 +24,6 @@ lineup: >-
 thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc7343422215/assets/e0cf2cccc6c66167c41a84c0995992a2/revisions/5319c09e4c5c40908d3098315ed0bdd2/renditions/c9c6be3becfedb088a2bdf638c7bb00f
 spotifyId: 39hdQiPxVPX4Fhy3YqLcVD?si=oxXIqBoiRaOLyB2dnzcxlw&dl_branch=1
 youtubeId: 1U5oPGn8i4Y
+bandcamp: https://redtaperedemption.bandcamp.com/album/driving-live?from=fanpub_fnb_pr
 ---
 The purpose of Driving Live was not only to produce another pandemic-streamingconcert-thingy, but more the event itself. So Red Tape Redemption gathered befriended musicians, artists and technicians (experienced or not) to capture the live performance of three songs of their debut EP.
