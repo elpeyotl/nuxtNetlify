@@ -5,7 +5,7 @@ description: With the release of their debut EP in December 2020, Red Tape
   Redemption chose an unfavorable time to start a new project. Half a year after
   the release of Driving South the wait for gigs got unbearable and the idea for
   Driving Live started to grow.
-thumbnail: /img/1a17f4602d31a80a084693a340094a9e.jpg
+thumbnail: /img/62cdaa33b48c236a82e4156fa12319a9.jpg
 artist: Red Tape Redemption
 albums: driving-live
 spotifyId: 39hdQiPxVPX4Fhy3YqLcVD?si=oxXIqBoiRaOLyB2dnzcxlw&dl_branch=1
