@@ -17,7 +17,7 @@ lineup: >-
   Additional guitars on Longer Nights by Sebastian Vogt (The Kushan Empire, Forlet Sires, Megaton Sword).
 
 
-  Recorded on 20 March, 2021 at Krempel Tanzbar in Buchs, SG. 
+  Recorded on 20 March, 2021 at Krempel Tanzbar in Buchs, SG.
 
 
   Mixed by Verwaltzen Productions. Mastered by Justin Weis. Lights by Daniele Brumana. Technical assistants by Manuel Steiner. Camera operators: David Gabathuler & Jonathan Giger. Video editing by David Gabathuler.
