@@ -8,8 +8,7 @@ date: 2021-09-16T22:03:44.528Z
 isPrivate: false
 recordLabel: The yelling light
 lineup: >-
-  Red Tape Redemption is Lukas Oberholzer & Tobias Kalt. <br />
-
+  Red Tape Redemption is Lukas Oberholzer & Tobias Kalt.
 
   Additional guitars on Coffee by Simon Gabathuler (Electric Fluid, The Mailbox Project).
 
