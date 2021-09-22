@@ -13,13 +13,11 @@
       {{ post.description }}
     </p>
 
-    <nuxt-content :document="post" />
-
-    <div class="flex justify-between">
-      <div class="mt-16 mb-12">
-        <youtube-embed v-if="post.youtubeId" :youtube-id="post.youtubeId" />
+    <div class="flex flex-col md:flex-row mb-12">
+      <div class="mb-12 w-full md:w-2/3 mr-8">
+        <nuxt-content :document="post" />
       </div>
-      <div>
+      <div class="w-full md:w-1/3">
         <spotify-embed
           v-if="post.spotifyId"
           :is-album="true"
@@ -27,6 +25,11 @@
         />
       </div>
     </div>
+
+    <div class="mb-12">
+      <youtube-embed v-if="post.youtubeId" :youtube-id="post.youtubeId" />
+    </div>
+
     <div
       v-if="post.artist"
       class="my-12 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8"
