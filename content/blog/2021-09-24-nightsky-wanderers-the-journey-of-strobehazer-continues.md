@@ -10,6 +10,7 @@ spotifyId: ""
 youtubeId: 9e4tk287Xd8
 facebook: https://www.facebook.com/strobehazer
 instagram: https://www.instagram.com/strobehazer/
+youtube: https://www.youtube.com/watch?v=_PnOiK3xHhc
 ---
 
 
