@@ -6,7 +6,7 @@ thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc73434222
 artist: ""
 albums: nightsky-wanderers
 photos: ""
-spotifyId: 60CIhUHujDJ5luZnAMT1WA?si=BwYSmh5TQ8qOozYa4ZkAjw
+spotifyId: ""
 youtubeId: 9e4tk287Xd8
 facebook: https://www.facebook.com/strobehazer
 instagram: https://www.instagram.com/strobehazer/
