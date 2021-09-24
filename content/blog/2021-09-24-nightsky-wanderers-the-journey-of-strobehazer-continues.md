@@ -6,7 +6,7 @@ thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc73434222
 artist: Strobehazer
 albums: nightsky-wanderers
 photos: strobehazer
-spotifyId: 60CIhUHujDJ5luZnAMT1WA?si=8w4UIz6nQPqb2HtpZdjYYg&dl_branch=1
+spotifyId: 60CIhUHujDJ5luZnAMT1WA?si=BwYSmh5TQ8qOozYa4ZkAjw
 youtubeId: 9e4tk287Xd8
 facebook: https://www.facebook.com/strobehazer
 instagram: https://www.instagram.com/strobehazer/
