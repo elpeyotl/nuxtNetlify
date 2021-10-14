@@ -8,7 +8,7 @@ description: With the release of their debut EP in December 2020, Red Tape
 thumbnail: /img/62cdaa33b48c236a82e4156fa12319a9.jpg
 artist: Red Tape Redemption
 albums: driving-live
-spotifyId: 60CIhUHujDJ5luZnAMT1WA?si=8w4UIz6nQPqb2HtpZdjYYg&dl_branch=1
+spotifyId: ""
 youtubeId: 1U5oPGn8i4Y
 youtube: ""
 ---
