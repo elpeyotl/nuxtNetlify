@@ -24,7 +24,10 @@ biography: "Some rock bands carry the burden of the world on their shoulders.
   with your life what you really want to – it became my dream.” Remarkably, the
   dream soon became reality. Just as swiftly, Bouffé threw off the shackles of
   grunge to follow his own vision of a guitar-driven high-octane rock sound
-  where each riff and each lick served not the ego, but the song.\r
+  where each riff and each lick served not the ego, but the song.
+
+
+  \r
 
   \r
 
@@ -37,7 +40,10 @@ biography: "Some rock bands carry the burden of the world on their shoulders.
   streamlined to the band, too controlled to be true. Their second album
   “Brainwash” (2013) was their incendiary response: more sweat, more mistakes,
   and more life. “Panem et Circenses” followed in 2017, still raw but a little
-  more subtle…\r
+  more subtle…
+
+
+  \r
 
   \r
 
@@ -49,7 +55,10 @@ biography: "Some rock bands carry the burden of the world on their shoulders.
   urgent rhythms, crisp choruses, and moods that range from soulfully thoughtful
   to exuberantly angry, all the way to simply euphoric. With this album, the
   band has found the perfect balance between the raw energy of their live shows
-  and a love of detail that can only be forged in the studio.\r
+  and a love of detail that can only be forged in the studio.
+
+
+  \r
 
   \r
 
