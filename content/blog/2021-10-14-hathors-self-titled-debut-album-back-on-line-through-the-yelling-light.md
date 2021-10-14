@@ -9,7 +9,6 @@ albums: hathors
 photos: hathors
 youtubeId: watch?v=_5GbuL0w-ww&list=OLAK5uy_l0lyUeVC7na8U5MdEyJwq8WtuA3iCFYMs
 ---
-Without Hathors, The yelling light would never have seen the light of day. For almost 10 years, countless concerts and wonderful memories I can count Marc and the Hathors to my favorite artists and especially to my friends.
-
-\
+Without Hathors, The yelling light would never have seen the light of day. For almost 10 years, countless concerts and wonderful memories I can count Marc and the Hathors to my favorite artists and especially to my friends. \
+`<br />`\
 These atmospheric songs from the self-titled album have accompanied me for years.  That's why I recommend everyone who reads this text here to listen to the album (again, and again) consciously, because raw music about love & hate is really good for everyone.
