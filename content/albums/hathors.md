@@ -6,7 +6,7 @@ genres:
 title: Hathors
 date: 2021-10-15T21:32:01.394Z
 isPrivate: false
-recordLabel: Headstrong / The yelling light
+recordLabel: Headstrong (2011) / The yelling light
 lineup: |-
   Marc Bouffé - Guitar and Vocals 
   Terry Palmer - Bass
