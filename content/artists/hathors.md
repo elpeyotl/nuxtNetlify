@@ -17,9 +17,8 @@ biography: >-
   makes the walls shake.
 
 
-  Aged fourteen, Marc Bouffé discovered Nirvana. “I loved the screaming. It felt cathartic”, he says, “like a soul singer giving free reign to his feelings.” He borrowed his sister’s guitar, learnt two chords and started his first band: “To be on stage with your best friends, travel the world, and do with your life what you really want to – it became my dream.” Remarkably, the dream soon became reality. Just as swiftly, Bouffé threw off the shackles of grunge to follow his own vision of a guitar-driven high-octane rock sound where each riff and each lick served not the ego, but the song. \
+  Aged fourteen, Marc Bouffé discovered Nirvana. “I loved the screaming. It felt cathartic”, he says, “like a soul singer giving free reign to his feelings.” He borrowed his sister’s guitar, learnt two chords and started his first band: “To be on stage with your best friends, travel the world, and do with your life what you really want to – it became my dream.” Remarkably, the dream soon became reality. Just as swiftly, Bouffé threw off the shackles of grunge to follow his own vision of a guitar-driven high-octane rock sound where each riff and each lick served not the ego, but the song. 
 
-  \
 
   The Hathors were the apprentices in the temple of the goddess Hathor in ancient Egypt. Apart from the arts, she was also looking after love, death and the pleasures of intoxication. Is there a more perfect name for a rock band? The modern Hathors’ debut album was released in 2011. A superior offering of post-grunge rock, it garnered plenty of praise, especially in the French-speaking world. However, the production felt just a little too streamlined to the band, too controlled to be true. Their second album “Brainwash” (2013) was their incendiary response: more sweat, more mistakes, and more life. “Panem et Circenses” followed in 2017, still raw but a little more subtle… \
 
