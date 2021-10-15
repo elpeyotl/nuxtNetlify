@@ -27,9 +27,6 @@ biography: >-
 
 
   “Grief, Roses and Gasoline” was recorded in four months in the band’s studio in Winterthur, a small but musical town near Zurich. “With this album we have almost arrived back where we started”, says Bouffé: “Except now we have complete control over our recordings and the type of aesthetic we want to go for. And we had a massive craving for memorable and carefully produced songs that were also spikey and hard-hitting…” After the band had done their work, John Goodmanson (Bikini Kill, Pavement, Wu-Tang Clan) rounded it off with a brilliant mix in his studio in Seattle.
-
-
-  Hathors are Marc Bouffé (guitar, vocals, sax), Dominique Destraz (drums) und Thorsten (bass). Marco (Bubonix, Ex-Lyvten, Ex-Six Reasons To Kill) recently replaced Simeon Thompson who played on the recordings.
 thumbnail: /img/frontcovertyl3000x3000.jpg
 headerImage: https://lightroom.adobe.com/v2c/spaces/d71a707568e84f09b345e7a11ca248ff/assets/feea20790b47915ffcd67e5048ed1652/revisions/6f193d9a53574d9f9a056b9a8a2354da/renditions/9bed3394c0844020c512cb2741311d40
 spotifyId: 77rAaSNCUOygcyc8hV2glq?si=xsMd3UF9STiS_uw6RDDo9w
