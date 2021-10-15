@@ -14,7 +14,7 @@ biography: >-
   like guitars, bass and drums, have been a part of Hathors from the very
   beginning. The roses, however, they are fresh. They stand for a warmer strand
   of emotions, a new lust for life, that flows through the album even when it
-  makes the walls shake. 
+  makes the walls shake.
 
 
   Aged fourteen, Marc Bouffé discovered Nirvana. “I loved the screaming. It felt cathartic”, he says, “like a soul singer giving free reign to his feelings.” He borrowed his sister’s guitar, learnt two chords and started his first band: “To be on stage with your best friends, travel the world, and do with your life what you really want to – it became my dream.” Remarkably, the dream soon became reality. Just as swiftly, Bouffé threw off the shackles of grunge to follow his own vision of a guitar-driven high-octane rock sound where each riff and each lick served not the ego, but the song. \
