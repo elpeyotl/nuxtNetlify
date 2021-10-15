@@ -14,7 +14,7 @@ biography: >-
   like guitars, bass and drums, have been a part of Hathors from the very
   beginning. The roses, however, they are fresh. They stand for a warmer strand
   of emotions, a new lust for life, that flows through the album even when it
-  makes the walls shake. \
+  makes the walls shake.  \
 
   \
 
