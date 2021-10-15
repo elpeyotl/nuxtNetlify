@@ -12,7 +12,7 @@ biography: "Aged fourteen, Marc Bouffé discovered Nirvana. “I loved the
   Remarkably, the dream soon became reality. Just as swiftly, Bouffé threw off
   the shackles of grunge to follow his own vision of a guitar-driven high-octane
   rock sound where each riff and each lick served not the ego, but the song."
-thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc7343422215/assets/5aff9652f4540936d4d6fa45c63293f0/revisions/b1deb3bf67124c908b35005fe6e1b922/renditions/d4a8a123a9f0bd144e65c8dee83e6087
+thumbnail: /img/frontcovertyl3000x3000.jpg
 headerImage: https://lightroom.adobe.com/v2c/spaces/d71a707568e84f09b345e7a11ca248ff/assets/feea20790b47915ffcd67e5048ed1652/revisions/6f193d9a53574d9f9a056b9a8a2354da/renditions/9bed3394c0844020c512cb2741311d40
 spotifyId: 77rAaSNCUOygcyc8hV2glq?si=xsMd3UF9STiS_uw6RDDo9w
 youtubeId: watch?v=_OTR5EvkR-w&list=UUH5UkYb23ttDt9ltsYi78IA&index=2
