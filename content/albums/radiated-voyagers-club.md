@@ -8,22 +8,22 @@ date: 2021-12-10T17:10:59.272Z
 isPrivate: false
 recordLabel: The yelling light
 lineup: |-
-  All Them Ayran
+  **All Them Ayran**
   Drums, Vocals Kaya Guggenheim –The Shattered Mind Machine
   Bass Leylah Fra–Death Of A Cheerleader
   Guitar, Vocals Pablo Jucker–The Dues \
   \
-  Radiated Voyagers Club
+  **Radiated Voyagers Club**
   Guitar, Vocals Can Akdil–Marant
   Drums Dominique Destraz–Death Of A Cheerleader
   Bass, Vocals Simon Hirzel–The Shattered Mind Machine \
   \
-  Psychopomp
+  **Psychopomp**
   Drums Oliver Marti–Marant
   Vocals, Guitar Omar Fra–Death Of A Cheerleader
   Bass Stefan Huber–The Dues \
   \
-  Starfucker
+  **Starfucker**
   Drums Dominik Jucker–The Dues
   Vocals Jimmy Waldmeier–Marant
   Guitar Simon Fehr –The Shattered Mind Machine
