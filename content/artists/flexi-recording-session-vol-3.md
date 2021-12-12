@@ -2,7 +2,7 @@
 artist: Flexi Recording Session Vol. 3
 date: 2021-12-10T19:15:44.654Z
 isPrivate: false
-description: "There were four bands participating in this years Flexi Recording
+description: "There were four bands participating in this year's Flexi Recording
   Sessions: Death of A Cheerleader, The Dues, The Shattered Mind Machine &
   Marant became All Them Ayran, Radiated Voyagers Club, Psychopomp, Starfucker"
 biography: >-
