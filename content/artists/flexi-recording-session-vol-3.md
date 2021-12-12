@@ -20,7 +20,7 @@ biography: >-
 
   \
 
-  And finally, the youngest ones to join the club, there's The Shattered Mind Machine with their wild mix of garage, psychedelic and post punk. One night these musicians had to draw lots, the next day the newly founded bands were off rehearsing and on sunday, they were each offered a two hour slot to record a song no longer than three minutes. Sounds fun? I bet you it was.
+  And finally, the youngest ones to join the club, there's The Shattered Mind Machine with their wild mix of garage, psychedelic and post punk. One night these musicians had to draw lots, the next day the newly founded bands were off rehearsing and on Sunday, they were each offered a two hour slot to record a song no longer than three minutes. Sounds fun? I bet you it was.
 thumbnail: /img/zeichenfläche-frs.png
 headerImage: /img/zeichenfläche-frs.png
 ---
