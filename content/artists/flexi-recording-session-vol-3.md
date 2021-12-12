@@ -5,16 +5,22 @@ isPrivate: false
 description: "There were four bands participating in this years Flexi Recording
   Sessions: Death of A Cheerleader, The Dues, The Shattered Mind Machine &
   Marant became All Them Ayran, Radiated Voyagers Club, Psychopomp, Starfucker"
-biography: Death of a Cheerleader have some spheric alternative rock to bring to
-  the table, they've been around for years, playing venues in and outside of
-  Winterthur for over a decade. The Dues, with almost as much time in the rock
-  business, call themselves «a heavy blues-rock trio from Winterthur». Then
-  there's Marant with some rough and honest stoner rock, making noise since
-  2008. And finally, the youngest ones to join the club, there's The Shattered
-  Mind Machine with their wild mix of garage, psychedelic and post punk. One
-  night these musicians had to draw lots, the next day the newly founded bands
-  were off rehearsing and on sunday, they were each offered a two hour slot to
-  record a song no longer than three minutes. Sounds fun? I bet you it was.
+biography: >-
+  Death of a Cheerleader have some spheric alternative rock to bring to the
+  table, they've been around for years, playing venues in and outside of
+  Winterthur for over a decade. \
+
+  \
+
+  The Dues, with almost as much time in the rock business, call themselves «a heavy blues-rock trio from Winterthur». \
+
+  \
+
+  Then there's Marant with some rough and honest stoner rock, making noise since 2008. \
+
+  \
+
+  And finally, the youngest ones to join the club, there's The Shattered Mind Machine with their wild mix of garage, psychedelic and post punk. One night these musicians had to draw lots, the next day the newly founded bands were off rehearsing and on sunday, they were each offered a two hour slot to record a song no longer than three minutes. Sounds fun? I bet you it was.
 thumbnail: /img/zeichenfläche-frs.png
 headerImage: /img/zeichenfläche-frs.png
 ---
