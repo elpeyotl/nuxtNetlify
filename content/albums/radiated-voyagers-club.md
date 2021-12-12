@@ -1,5 +1,5 @@
 ---
-artist: Ambrossia
+artist: Flexi Recording Session 2021
 genres:
   - Punk
   - Rock
