@@ -2,7 +2,9 @@
 artist: Flexi Recording Session Vol. 3
 date: 2021-12-10T19:15:44.654Z
 isPrivate: false
-description: All Them Ayran, Radiated Voyagers Club, Psychopomp, Starfucker
+description: "There were four bands participating in this years Flexi Recording
+  Sessions: Death of A Cheerleader, The Dues, The Shattered Mind Machine &
+  Marant became All Them Ayran, Radiated Voyagers Club, Psychopomp, Starfucker"
 biography: Death of a Cheerleader have some spheric alternative rock to bring to
   the table, they've been around for years, playing venues in and outside of
   Winterthur for over a decade. The Dues, with almost as much time in the rock
