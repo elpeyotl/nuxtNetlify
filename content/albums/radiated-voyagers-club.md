@@ -29,6 +29,9 @@ lineup: >-
   **Starfucker**
 
   Drums, Dominik Jucker (The Dues), Vocals: Jimmy Waldmeier (Marant), Guitar: Simon Fehr (The Shattered Mind Machine), Bass, Tobi Studer (Marant)
+
+
+  ![]()
 thumbnail: /img/zeichenfläche-frs.png
 q: Artwork by Sina Reinhart, studiodizzi
 spotifyId: 3WNCKJkd9YTFgoWpEjucv1?si=j72GXiQHSPi7eUHlxmrhVQ
