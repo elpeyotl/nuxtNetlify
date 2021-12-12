@@ -5,7 +5,7 @@ genres:
   - Rock
 title: Radiated Voyagers Club
 date: 2021-12-10T17:10:59.272Z
-isPrivate: true
+isPrivate: false
 recordLabel: The yelling light
 lineup: >-
   SIDE A
