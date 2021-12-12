@@ -24,9 +24,4 @@ biography: >-
 thumbnail: /img/zeichenfläche-frs.png
 headerImage: /img/zeichenfläche-frs.png
 ---
-Recording, Mixing and Mastering by Marc Bouffé and Dominique Destraz at Rotfarb Studio. Artwork by Sina Reinhart, studiodizzi. Sponsored by Backstage Winterthur, Gasthof zum Widder,
-Freibeuter Tattoo W‘thur, Thorsten Polomski Tätowierungen. Presented by Noise City Winterthur and The yelling light. Special thanks goes to Coucou Magazin, Kraftfeld,
-Radio Stadtfilter and Ventilator Records. \
-\
-Written and recorded between the 4th– 6th December 2020. Released by The Yelling Light 2021.
-Photos by Milad Ahmadvand, assisted by Nik Petronijevic.
+Recording, Mixing and Mastering by Marc Bouffé and Dominique Destraz at Rotfarb Studio. Artwork by Sina Reinhart, studiodizzi. Sponsored by Backstage Winterthur, Gasthof zum Widder, Freibeuter Tattoo W‘thur, Thorsten Polomski Tätowierungen. Presented by Noise City Winterthur and The yelling light. Special thanks goes to Coucou Magazin, Kraftfeld, Radio Stadtfilter and Ventilator Records. Written and recorded between the 4th– 6th December 2020. Released by The Yelling Light 2021. Photos by Milad Ahmadvand, assisted by Nik Petronijevic.
