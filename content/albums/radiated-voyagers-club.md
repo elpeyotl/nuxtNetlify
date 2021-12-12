@@ -8,7 +8,6 @@ date: 2021-12-10T17:10:59.272Z
 isPrivate: false
 recordLabel: The yelling light
 lineup: >-
-  
   <b>All Them Ayran:</b><br>
 
   Drums, Vocals: Kaya Guggenheim (The Shattered Mind Machine), Bass Leylah Fra: (Death Of A Cheerleader), Guitar, Vocals: Pablo Jucker (The Dues)<br>
