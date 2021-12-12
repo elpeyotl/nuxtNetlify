@@ -7,5 +7,6 @@ description: They did it again! The Flexi Recording Session present themselves
 thumbnail: /img/zeichenfläche-frs.png
 youtubeId: watch?v=0ybpNo9hB6E&list=OLAK5uy_kr2HQeG05POC6l6UVAHZj4tehfTnFyoLI
 youtube: ""
+website: https://linktr.ee/Flexirecordingsession
 ---
 The concept is pretty simple: Take four local bands, mix them up and create four new supergroups, have them write a song in one day and record the song the next day.
