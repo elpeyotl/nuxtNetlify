@@ -8,11 +8,14 @@ date: 2021-12-10T17:10:59.272Z
 isPrivate: false
 recordLabel: The yelling light
 lineup: >-
-  ```rhtml
-
-  <b>All Them Ayran:</b><br>Drums, Vocals: Kaya Guggenheim (The Shattered Mind Machine), Bass Leylah Fra: (Death Of A Cheerleader), Guitar, Vocals: Pablo Jucker (The Dues)<br><b>Radiated Voyagers Club:</b><br>Guitar, Vocals: Can Akdil (Marant), Drums: Dominique Destraz (Death Of A Cheerleader), Bass, Vocals: Simon Hirzel (The Shattered Mind Machine)<br><b>Psychopomp:</b><br>Drums: Oliver Marti (Marant), Vocals, Guitar: Omar Fra (Death Of A Cheerleader), Bass Stefan Huber (The Dues)<br><b>Starfucker:</b><br>Drums, Dominik Jucker (The Dues), Vocals: Jimmy Waldmeier (Marant), Guitar: Simon Fehr (The Shattered Mind Machine), Bass, Tobi Studer (Marant)
-
-  ```
+  * All Them Ayran is
+    Kaya Guggenheim (The Shattered Mind Machine), Leylah Fra (Death Of A Cheerleader), Pablo Jucker (The Dues)
+  * Radiated Voyagers Club is
+    Can Akdil (Marant), Dominique Destraz (Death Of A Cheerleader), Simon Hirzel (The Shattered Mind Machine)
+  * Psychopomp is
+    Oliver Marti (Marant), Omar Fra (Death Of A Cheerleader), Stefan Huber (The Dues)
+  * Starfucker is
+    Dominik Jucker (The Dues), Jimmy Waldmeier (Marant), Simon Fehr (The Shattered Mind Machine), Tobi Studer (Marant)
 thumbnail: /img/zeichenfläche-frs.png
 q: Artwork by Sina Reinhart, studiodizzi
 spotifyId: 3WNCKJkd9YTFgoWpEjucv1?si=j72GXiQHSPi7eUHlxmrhVQ
