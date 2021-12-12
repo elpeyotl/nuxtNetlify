@@ -2,7 +2,7 @@
 title: "Radiated Voyagers Club: Flexi Recording Session Vol. 3"
 date: 2021-12-10T16:26:36.958Z
 description: They did it again! The Flexi Recording Session present themselves
-  for the third time, this year, four years after the very first edition, «Drop
+  for the third time this year, four years after the very first edition, «Drop
   That Needle Down» in 2017 and its follow up, «Hybrid Beast» in 2019.
 thumbnail: /img/zeichenfläche-frs.png
 artist: Flexi Recording Session Vol. 3
