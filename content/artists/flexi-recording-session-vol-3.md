@@ -24,7 +24,7 @@ biography: >-
 thumbnail: /img/zeichenfläche-frs.png
 headerImage: /img/zeichenfläche-frs.png
 ---
-Band number one of this years band cocktail, All Them Ayran, wrote a highly energetic punk rock tune that goes by the name «Fuck The Facts». While the song only lasts somewhat more than two minutes, the three musicians managed to put to work a nice mix of some heavier and slower verses and a fast, high voltage chorus, even making time for a pretty cool feedback session in between. The trio consists of members of Death of a Cheerleader, The Dues and The Shattered Mind Machine. \
+Band number one of this year's band cocktail, All Them Ayran, wrote a highly energetic punk rock tune that goes by the name «Fuck The Facts». While the song only lasts somewhat more than two minutes, the three musicians managed to put to work a nice mix of some heavier and slower verses and a fast, high voltage chorus, even making time for a pretty cool feedback session in between. The trio consists of members of Death of a Cheerleader, The Dues and The Shattered Mind Machine. \
 \
 Then there's Psychopomp, a nice pop rock track that makes you wish you drove your convertible down highway one in 1991. Yes, there's a guitar solo. The three members of Death of a Cheerleader, The Dues and Marant go by the name «The Aeon is freezing». \
 \
