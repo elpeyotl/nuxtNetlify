@@ -8,6 +8,8 @@ date: 2021-12-10T17:10:59.272Z
 isPrivate: false
 recordLabel: The yelling light
 lineup: >-
+  ```rhtml
+
   <b>All Them Ayran:</b><br>
 
   Drums, Vocals: Kaya Guggenheim (The Shattered Mind Machine), Bass Leylah Fra: (Death Of A Cheerleader), Guitar, Vocals: Pablo Jucker (The Dues)<br>
@@ -23,6 +25,8 @@ lineup: >-
   <b>Starfucker:</b><br>
 
   Drums, Dominik Jucker (The Dues), Vocals: Jimmy Waldmeier (Marant), Guitar: Simon Fehr (The Shattered Mind Machine), Bass, Tobi Studer (Marant)
+
+  ```
 thumbnail: /img/zeichenfläche-frs.png
 q: Artwork by Sina Reinhart, studiodizzi
 spotifyId: 3WNCKJkd9YTFgoWpEjucv1?si=j72GXiQHSPi7eUHlxmrhVQ
