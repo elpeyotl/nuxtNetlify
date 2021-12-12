@@ -16,10 +16,10 @@ biography: Death of a Cheerleader have some spheric alternative rock to bring to
 thumbnail: /img/zeichenfläche-frs.png
 headerImage: /img/zeichenfläche-frs.png
 ---
-Band number one of this years band cocktail, All Them Ayran, wrote a highly energetic punk rock tune that goes by the name «Fuck The Facts». While the song only lasts somewhat more than two minutes, the three musicians managed to put to work a nice mix of some heavier and slower verses and a fast, high voltage chorus, even making time for a pretty cool feedback session in between. The trio consists of members of Death of a Cheerleader, The Dues and The Shattered Mind Machine. 
-
-Then there's Psychopomp, a nice pop rock track that makes you wish you drove your convertible down highway one in 1991. Yes, there's a guitar solo. The three members of Death of a Cheerleader, The Dues and Marant go by the name «The Aeon is freezing». 
-
-Band number three, Radiated Voyagers Club, called their song «Sicando Voyagers». Very nice 90s vibes, very nice drum fills and guitar riffs, very nice singing (is this Eddie Vedder? No?). The lyrics would be easy to learn, as they're just repeating themselves throughout both verse and chorus. Maybe make room for some sing along time when playing this song on stage? 
-
+Band number one of this years band cocktail, All Them Ayran, wrote a highly energetic punk rock tune that goes by the name «Fuck The Facts». While the song only lasts somewhat more than two minutes, the three musicians managed to put to work a nice mix of some heavier and slower verses and a fast, high voltage chorus, even making time for a pretty cool feedback session in between. The trio consists of members of Death of a Cheerleader, The Dues and The Shattered Mind Machine. \
+\
+Then there's Psychopomp, a nice pop rock track that makes you wish you drove your convertible down highway one in 1991. Yes, there's a guitar solo. The three members of Death of a Cheerleader, The Dues and Marant go by the name «The Aeon is freezing». \
+\
+Band number three, Radiated Voyagers Club, called their song «Sicando Voyagers». Very nice 90s vibes, very nice drum fills and guitar riffs, very nice singing (is this Eddie Vedder? No?). The lyrics would be easy to learn, as they're just repeating themselves throughout both verse and chorus. Maybe make room for some sing along time when playing this song on stage? \
+\
 And here comes number four: «Starfucker» by Acid Witch. The only Flexi Recording band including four members, originally playing in Marant, The Dues and The Shattered Mind Machine. This is a wild one, trust me, you won't be able to stand still once you hear this song. Now that you know what's awaiting you, you better make sure not to miss out on the first and only live edition of each of these four songs.
