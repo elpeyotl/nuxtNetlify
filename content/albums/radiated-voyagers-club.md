@@ -1,5 +1,5 @@
 ---
-artist: Flexi Recording Session 2021
+artist: Flexi Recording Session Vol. 3
 genres:
   - Punk
   - Rock
