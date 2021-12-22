@@ -2,10 +2,31 @@
   <div>
     <nuxt-link :to="linkTo">
       <div
-        class="shadow-2xl relative h-56 text-white card flex justify-center items-center overflow-hidden"
+        class="
+          shadow-2xl
+          relative
+          h-56
+          text-white
+          card
+          flex
+          justify-center
+          items-center
+          overflow-hidden
+        "
       >
         <div
-          class="bg-black w-full z-10 absolute h-56 bg-opacity-75 card__overlay transition duration-500 ease-in-out"
+          class="
+            bg-black
+            w-full
+            z-10
+            absolute
+            h-56
+            bg-opacity-75
+            card__overlay
+            transition
+            duration-500
+            ease-in-out
+          "
         ></div>
         <div class="text-2xl z-20 font-semibold text-center p-2">
           <span v-if="isAlbum">

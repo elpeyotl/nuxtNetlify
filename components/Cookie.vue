@@ -2,7 +2,15 @@
   <transition name="fade" appear>
     <div
       v-show="!selected"
-      class="cookie bg-pink-300 p-2 lg:p-4 z-40 shadow-2xl text-white text-center"
+      class="
+        cookie
+        bg-pink-300
+        p-2
+        lg:p-4
+        z-40
+        shadow-2xl
+        text-white text-center
+      "
     >
       We use cookies!
       <div class="flex justify-center mt-1">

@@ -11,7 +11,9 @@
     <div class="mb-16 flex flex-col lg:flex-row">
       <div class="w-full lg:w-2/3 pr-16">
         <p class="text-lg font-light text-justify">{{ artist.description }}</p>
-        <h3 class="text-xl font-semibold mt-16">Biography</h3>
+        <h3 v-if="artist.biography" class="text-xl font-semibold mt-16">
+          Biography
+        </h3>
         {{ artist.biography }}
       </div>
       <div
@@ -101,9 +103,15 @@ export default {
       title: `${pageTitle} - ${this.artist.artist} `,
       meta: [
         {
-          hid: 'description',
-          name: 'description',
+          hid: 'og:description',
+          name: 'og:description',
           content: `${this.artist.artist}  - ${this.artist.description}`,
+        },
+        { hid: 'og:title', name: 'og:title', content: this.artist.artist },
+        {
+          hid: 'og:image',
+          name: 'og:image',
+          content: this.artist.headerImage__caption,
         },
       ],
     }

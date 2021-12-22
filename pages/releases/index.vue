@@ -11,7 +11,20 @@
       >
       <span
         v-if="selectedGenres.length"
-        class="hidden md:inline justify-center mt-4 px-2 py-1 bg-black text-white cursor-pointer transition-colors duration-500 hover:bg-red-500 hover:text-white"
+        class="
+          hidden
+          md:inline
+          justify-center
+          mt-4
+          px-2
+          py-1
+          bg-black
+          text-white
+          cursor-pointer
+          transition-colors
+          duration-500
+          hover:bg-red-500 hover:text-white
+        "
         @click="selectedGenres = []"
       >
         Reset
@@ -39,7 +52,17 @@
           v-for="genre in genres"
           :key="genre.genre"
           :class="{ 'filter--active': selectedGenres.includes(genre.genre) }"
-          class="border-b-4 border-black mr-4 mt-4 px-2 py-1 cursor-pointer transition-colors duration-500 hover:border-red-500"
+          class="
+            border-b-4 border-black
+            mr-4
+            mt-4
+            px-2
+            py-1
+            cursor-pointer
+            transition-colors
+            duration-500
+            hover:border-red-500
+          "
           @click="handleGenreClick(genre.genre)"
         >
           {{ genre.genre }}

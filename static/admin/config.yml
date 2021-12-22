@@ -6,31 +6,31 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - label: "Pages"
-    name: "pages"
+  - label: 'Pages'
+    name: 'pages'
     files:
-      - label: "Home page"
-        name: "home"
-        file: "content/pages/home.md"
+      - label: 'Home page'
+        name: 'home'
+        file: 'content/pages/home.md'
         editor:
           preview: false
         fields:
-          - {label: 'Title', name: 'title', widget: 'string'}
+          - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-      - label: "Settings"
-        name: "settings"
-        file: "content/pages/settings.md"
+      - label: 'Settings'
+        name: 'settings'
+        file: 'content/pages/settings.md'
         editor:
           preview: false
         fields:
-          - {label: 'Instagram', name: 'instagram', widget: 'string'}
-          - {label: 'Youtube', name: 'youtube', widget: 'string'}
-          - {label: 'Facebook', name: 'facebook', widget: 'string'}
-          - {label: 'Twitter', name: 'twitter', widget: 'string'}
-          - {label: 'Mail', name: 'mail', widget: 'string'}
-      - label: "Disclaimer"
-        name: "disclaimer"
-        file: "content/pages/disclaimer.md"
+          - { label: 'Instagram', name: 'instagram', widget: 'string' }
+          - { label: 'Youtube', name: 'youtube', widget: 'string' }
+          - { label: 'Facebook', name: 'facebook', widget: 'string' }
+          - { label: 'Twitter', name: 'twitter', widget: 'string' }
+          - { label: 'Mail', name: 'mail', widget: 'string' }
+      - label: 'Disclaimer'
+        name: 'disclaimer'
+        file: 'content/pages/disclaimer.md'
         editor:
           preview: false
         fields:
@@ -52,58 +52,73 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Image', name: 'thumbnail', widget: 'image' }
       - {
-        label: 'Artist',
-        name: 'artist',
-        widget: 'relation',
-        multiple: false,
-        required: false,
-        collection: 'artists',
-        search_fields: ['artist'],
-        value_field: 'artist',
-        display_fields: ['{{artist}}'],
+          label: 'Artist',
+          name: 'artist',
+          widget: 'relation',
+          multiple: false,
+          required: false,
+          collection: 'artists',
+          search_fields: ['artist'],
+          value_field: 'artist',
+          display_fields: ['{{artist}}'],
         }
       - {
-        label: 'Albums',
-        name: 'albums',
-        widget: 'relation',
-        collection: 'albums',
-        required: false,
-        search_fields: ['artist', 'title'],
-        value_field: '{{slug}}',
-        multiple: false,
+          label: 'Albums',
+          name: 'albums',
+          widget: 'relation',
+          collection: 'albums',
+          required: false,
+          search_fields: ['artist', 'title'],
+          value_field: '{{slug}}',
+          multiple: false,
         }
       - {
-        label: 'Photos',
-        name: 'photos',
-        widget: 'relation',
-        collection: 'photos',
-        required: false,
-        search_fields: ['artist', 'title'],
-        value_field: '{{slug}}',
-        multiple: false,
+          label: 'Photos',
+          name: 'photos',
+          widget: 'relation',
+          collection: 'photos',
+          required: false,
+          search_fields: ['artist', 'title'],
+          value_field: '{{slug}}',
+          multiple: false,
         }
       - {
-        label: 'Spotify',
-        name: 'spotifyId',
-        widget: 'string',
-        hint: 'Insert the last ID (XXXXXX) after the embed url code https://open.spotify.com/embed/artist/XXXXX',
-        required: false,
+          label: 'Spotify',
+          name: 'spotifyId',
+          widget: 'string',
+          hint: 'Insert the last ID (XXXXXX) after the embed url code https://open.spotify.com/embed/artist/XXXXX',
+          required: false,
         }
       - {
-        label: 'Youtube',
-        name: 'youtubeId',
-        widget: 'string',
-        hint: 'Insert the last ID (XXXXX) after the embed url code https://www.youtube.com/embed/XXXXX',
-        required: false,
+          label: 'Youtube',
+          name: 'youtubeId',
+          widget: 'string',
+          hint: 'Insert the last ID (XXXXX) after the embed url code https://www.youtube.com/embed/XXXXX',
+          required: false,
         }
-      - { label: 'Facebook', name: 'facebook', widget: 'string', required: false}
-      - { label: 'Instagram', name: 'instagram', widget: 'string', required: false}
-      - { label: 'Youtube', name: 'youtube', widget: 'string', required: false}
-      - { label: 'Twitter', name: 'twitter', widget: 'string', required: false}
-      - { label: 'E-Mail', name: 'email', widget: 'string', required: false}
-      - { label: 'Bandcamp', name: 'bandcamp', widget: 'string', required: false}
-      - { label: 'Website', name: 'website', widget: 'string', required: false}
-      - { label: 'Webshop', name: 'webshop', widget: 'string', required: false}
+      - {
+          label: 'Facebook',
+          name: 'facebook',
+          widget: 'string',
+          required: false,
+        }
+      - {
+          label: 'Instagram',
+          name: 'instagram',
+          widget: 'string',
+          required: false,
+        }
+      - { label: 'Youtube', name: 'youtube', widget: 'string', required: false }
+      - { label: 'Twitter', name: 'twitter', widget: 'string', required: false }
+      - { label: 'E-Mail', name: 'email', widget: 'string', required: false }
+      - {
+          label: 'Bandcamp',
+          name: 'bandcamp',
+          widget: 'string',
+          required: false,
+        }
+      - { label: 'Website', name: 'website', widget: 'string', required: false }
+      - { label: 'Webshop', name: 'webshop', widget: 'string', required: false }
   - name: 'albums'
     label: 'Albums'
     folder: 'content/albums'
@@ -135,18 +150,24 @@ collections:
         }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: "Private", name: "isPrivate", hint: "URL: https://www.theyellinglight.ch/releases/{{title}}", widget: "boolean", default: false }
+      - {
+          label: 'Private',
+          name: 'isPrivate',
+          hint: 'URL: https://www.theyellinglight.ch/releases/{{title}}',
+          widget: 'boolean',
+          default: false,
+        }
       - { label: 'Record label', name: 'recordLabel', widget: 'string' }
-      - { label: 'Lineup', name: 'lineup', widget: 'markdown' }
+      - { label: 'Lineup', name: 'lineup', widget: 'markdown', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Image', name: 'thumbnail', widget: 'image' }
       - { label: 'Image Caption', name: 'q', widget: 'string', required: false }
       - {
-        label: 'Spotify',
-        name: 'spotifyId',
-        widget: 'string',
-        hint: 'Insert the last ID (XXXXXX) after the embed url code https://open.spotify.com/embed/album/XXXXX',
-        required: false,
+          label: 'Spotify',
+          name: 'spotifyId',
+          widget: 'string',
+          hint: 'Insert the last ID (XXXXXX) after the embed url code https://open.spotify.com/embed/album/XXXXX',
+          required: false,
         }
       - {
           label: 'Youtube',
@@ -155,14 +176,29 @@ collections:
           hint: 'Insert the last ID (XXXXX) after the embed url code https://www.youtube.com/embed/XXXXX',
           required: false,
         }
-      - { label: 'Facebook', name: 'facebook', widget: 'string', required: false}
-      - { label: 'Instagram', name: 'instagram', widget: 'string', required: false}
-      - { label: 'Youtube', name: 'youtube', widget: 'string', required: false}
-      - { label: 'Twitter', name: 'twitter', widget: 'string', required: false}
-      - { label: 'E-Mail', name: 'email', widget: 'string', required: false}
-      - { label: 'Bandcamp', name: 'bandcamp', widget: 'string', required: false}
-      - { label: 'Website', name: 'website', widget: 'string', required: false}
-      - { label: 'Webshop', name: 'webshop', widget: 'string', required: false}
+      - {
+          label: 'Facebook',
+          name: 'facebook',
+          widget: 'string',
+          required: false,
+        }
+      - {
+          label: 'Instagram',
+          name: 'instagram',
+          widget: 'string',
+          required: false,
+        }
+      - { label: 'Youtube', name: 'youtube', widget: 'string', required: false }
+      - { label: 'Twitter', name: 'twitter', widget: 'string', required: false }
+      - { label: 'E-Mail', name: 'email', widget: 'string', required: false }
+      - {
+          label: 'Bandcamp',
+          name: 'bandcamp',
+          widget: 'string',
+          required: false,
+        }
+      - { label: 'Website', name: 'website', widget: 'string', required: false }
+      - { label: 'Webshop', name: 'webshop', widget: 'string', required: false }
   - name: 'artists'
     label: 'Artists'
     folder: 'content/artists'
@@ -175,13 +211,29 @@ collections:
     fields:
       - { label: 'Artist', name: 'artist', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: "Private", name: "isPrivate", hint: "URL: https://www.theyellinglight.ch/artists/{{title}}", widget: "boolean", default: false }
+      - {
+          label: 'Private',
+          name: 'isPrivate',
+          hint: 'URL: https://www.theyellinglight.ch/artists/{{title}}',
+          widget: 'boolean',
+          default: false,
+        }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Biography', name: 'biography', widget: 'markdown' }
+      - {
+          label: 'Biography',
+          name: 'biography',
+          widget: 'markdown',
+          required: false,
+        }
       - { label: 'Thubmnail', name: 'thumbnail', widget: 'image' }
       - { label: 'Header Image', name: 'headerImage', widget: 'image' }
-      - { label: 'Caption Header Image', name: 'headerImage__caption', widget: 'string', required: false}
+      - {
+          label: 'Caption Header Image',
+          name: 'headerImage__caption',
+          widget: 'string',
+          required: false,
+        }
       - {
           label: 'Spotify',
           name: 'spotifyId',
@@ -196,14 +248,29 @@ collections:
           hint: 'Insert the last ID (XXXXX) after the embed url code https://www.youtube.com/embed/XXXXX',
           required: false,
         }
-      - { label: 'Facebook', name: 'facebook', widget: 'string', required: false}
-      - { label: 'Instagram', name: 'instagram', widget: 'string', required: false}
-      - { label: 'Youtube', name: 'youtube', widget: 'string', required: false}
-      - { label: 'Twitter', name: 'twitter', widget: 'string', required: false}
-      - { label: 'E-Mail', name: 'email', widget: 'string', required: false}
-      - { label: 'Bandcamp', name: 'bandcamp', widget: 'string', required: false}
-      - { label: 'Website', name: 'website', widget: 'string', required: false}
-      - { label: 'Webshop', name: 'webshop', widget: 'string', required: false}
+      - {
+          label: 'Facebook',
+          name: 'facebook',
+          widget: 'string',
+          required: false,
+        }
+      - {
+          label: 'Instagram',
+          name: 'instagram',
+          widget: 'string',
+          required: false,
+        }
+      - { label: 'Youtube', name: 'youtube', widget: 'string', required: false }
+      - { label: 'Twitter', name: 'twitter', widget: 'string', required: false }
+      - { label: 'E-Mail', name: 'email', widget: 'string', required: false }
+      - {
+          label: 'Bandcamp',
+          name: 'bandcamp',
+          widget: 'string',
+          required: false,
+        }
+      - { label: 'Website', name: 'website', widget: 'string', required: false }
+      - { label: 'Webshop', name: 'webshop', widget: 'string', required: false }
   - name: 'photos'
     label: 'Photos'
     folder: 'content/photos'
@@ -216,38 +283,69 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: "Private", name: "isPrivate", hint: "URL: https://www.theyellinglight.ch/photography/{{title}}", widget: "boolean", default: false }
       - {
-        label: 'Artist',
-        name: 'artist',
-        widget: 'relation',
-        multiple: true,
-        collection: 'artists',
-        search_fields: ['artist'],
-        value_field: 'artist',
-        display_fields: ['{{artist}}'],
-        required: false
-      }
-      - { label: 'Description', name: 'description', widget: 'string', required: false }
+          label: 'Private',
+          name: 'isPrivate',
+          hint: 'URL: https://www.theyellinglight.ch/photography/{{title}}',
+          widget: 'boolean',
+          default: false,
+        }
+      - {
+          label: 'Artist',
+          name: 'artist',
+          widget: 'relation',
+          multiple: true,
+          collection: 'artists',
+          search_fields: ['artist'],
+          value_field: 'artist',
+          display_fields: ['{{artist}}'],
+          required: false,
+        }
+      - {
+          label: 'Description',
+          name: 'description',
+          widget: 'string',
+          required: false,
+        }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
       - { label: 'Thubmnail', name: 'thumbnail', widget: 'image' }
-      - label: "Gallery"
-        name: "galleryImages"
-        widget: "list"
+      - label: 'Gallery'
+        name: 'galleryImages'
+        widget: 'list'
         summary: '{{fields.image}}'
         fields:
-          - {label: 'Image', name: 'image', widget: 'image' }
-          - {label: "Caption", name: "caption", widget: "string", required: false}
-      - { label: 'Facebook', name: 'facebook', widget: 'string', required: false}
-      - { label: 'Instagram', name: 'instagram', widget: 'string', required: false}
-      - { label: 'Youtube', name: 'youtube', widget: 'string', required: false}
-      - { label: 'Twitter', name: 'twitter', widget: 'string', required: false}
-      - { label: 'E-Mail', name: 'email', widget: 'string', required: false}
-      - { label: 'Bandcamp', name: 'bandcamp', widget: 'string', required: false}
-      - { label: 'Website', name: 'website', widget: 'string', required: false}
-      - { label: 'Webshop', name: 'webshop', widget: 'string', required: false}
-  - label: "Genres"
-    name: "genres"
+          - { label: 'Image', name: 'image', widget: 'image' }
+          - {
+              label: 'Caption',
+              name: 'caption',
+              widget: 'string',
+              required: false,
+            }
+      - {
+          label: 'Facebook',
+          name: 'facebook',
+          widget: 'string',
+          required: false,
+        }
+      - {
+          label: 'Instagram',
+          name: 'instagram',
+          widget: 'string',
+          required: false,
+        }
+      - { label: 'Youtube', name: 'youtube', widget: 'string', required: false }
+      - { label: 'Twitter', name: 'twitter', widget: 'string', required: false }
+      - { label: 'E-Mail', name: 'email', widget: 'string', required: false }
+      - {
+          label: 'Bandcamp',
+          name: 'bandcamp',
+          widget: 'string',
+          required: false,
+        }
+      - { label: 'Website', name: 'website', widget: 'string', required: false }
+      - { label: 'Webshop', name: 'webshop', widget: 'string', required: false }
+  - label: 'Genres'
+    name: 'genres'
     folder: 'content/genres'
     format: 'frontmatter'
     create: true
@@ -256,18 +354,20 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'genre', widget: 'string' }
-  - label: "Team"
-    name: "team"
+  - label: 'Team'
+    name: 'team'
     folder: 'content/team'
     create: true
     slug: '{{slug}}'
     editor:
       preview: false
     fields:
-      - {label: 'Image', name: 'image', widget: 'image' }
-      - {label: "Name", name: "title", widget: "string", required: true}
-      - {label: "Job", name: "job", widget: "string", required: true}
-      - {label: "Description", name: "description", widget: "text", required: true}
-
-
-
+      - { label: 'Image', name: 'image', widget: 'image' }
+      - { label: 'Name', name: 'title', widget: 'string', required: true }
+      - { label: 'Job', name: 'job', widget: 'string', required: true }
+      - {
+          label: 'Description',
+          name: 'description',
+          widget: 'text',
+          required: true,
+        }

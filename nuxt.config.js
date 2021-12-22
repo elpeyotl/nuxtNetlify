@@ -72,15 +72,13 @@ export default {
       {
         rel: 'preload',
         as: 'style',
-        href:
-          'https://fonts.googleapis.com/css2?family=Montserrat&family=RalewayRaleway:ital,wght@0,200;0,400;1,200&display=swap',
+        href: 'https://fonts.googleapis.com/css2?family=Montserrat&family=RalewayRaleway:ital,wght@0,200;0,400;1,200&display=swap',
       },
       {
         rel: 'stylesheet',
         media: 'print',
         onload: "this.onload=null;this.removeAttribute('media');",
-        href:
-          'https://fonts.googleapis.com/css2?family=Montserrat&family=RalewayRaleway:ital,wght@0,200;0,400;1,200&display=swap',
+        href: 'https://fonts.googleapis.com/css2?family=Montserrat&family=RalewayRaleway:ital,wght@0,200;0,400;1,200&display=swap',
       },
     ],
   },
