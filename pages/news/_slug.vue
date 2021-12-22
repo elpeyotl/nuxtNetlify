@@ -135,7 +135,7 @@ export default {
         {
           hid: 'og:description',
           property: 'og:description',
-          content: `hossa - ${this.post.description}`,
+          content: `${pageTitle} - ${this.post.description}`,
         },
         {
           hid: 'og:title',
