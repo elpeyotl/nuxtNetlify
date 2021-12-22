@@ -43,7 +43,7 @@ export default {
       {
         hid: 'og:title',
         property: 'og:title',
-        content: 'test',
+        content: pageTitle,
       },
       {
         hid: 'og:description',
@@ -54,16 +54,6 @@ export default {
         hid: 'og:image',
         property: 'og:image',
         content: '/img/yelling-logo.jpg',
-      },
-      {
-        hid: 'og:image:secure_url',
-        property: 'og:image:secure_url',
-        content: '/img/yelling-logo.jpg',
-      },
-      {
-        hid: 'og:image:alt',
-        property: 'og:image:alt',
-        content: 'Yelling light logo',
       },
     ],
     link: [
