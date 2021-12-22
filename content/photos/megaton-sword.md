@@ -1,12 +1,16 @@
 ---
 title: Megaton Sword
 date: 2021-03-19T22:20:47.644Z
+isPrivate: false
 description: Megaton Sword is an Epic Heavy Metal band from Winterthur,
   Switzerland. The band was formed in 2018. They are currently signed at Dying
   Victims Productions
 thumbnail: /img/5780c2be53a996f210a54e281620089d.jpg
-isPrivate: false
 galleryImages:
+  - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/e0dc98fac48c03d6f75dc78efabc086c/revisions/dfc7f3ccf0a74d4f9166c4c2476a99c8/renditions/89bbf118217cee1174e04905f85c53a5
+    caption: Megaton Sword 2021
+  - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/6e54ef04c636b9b2668a9516e0b5c52b/revisions/49dd39475f7546dcb9b4f4c5880f7c8e/renditions/c528a16e6f3f24ba1f8c9dbc07fe7a24
+    caption: Megaton Sword 2021
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/8d620055b14a5d1e04b82ac49553a379/revisions/cef0a59939f84e3fb97ab60538aa485d/renditions/bb015296d5bf4622dee3b1c7dc32c2e9
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/9ae48246d85ba7688e7011c01cc6947c/revisions/e5eec55437fe44fe92310e8abe7a9997/renditions/ca9bffaeb653f8223f5abd3b2644b6af
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/74d5be556195cfedbb0862cf79fd27ba/revisions/a241097f5bfd40ee8d16ad3b6a2b788f/renditions/a1388c40b3020679f227b7ad55cee939

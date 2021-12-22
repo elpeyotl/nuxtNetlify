@@ -6,7 +6,7 @@ description: Some things take their time to grow. Like the Giant Himalayan Lily
   latest release.
 thumbnail: https://lightroom.adobe.com/v2c/spaces/a112c2992c3847f693f27f6b1b667979/assets/da48d7c5a2675c83945cf82de6cabb6d/revisions/2927e15c274b44cf9cb52d8dddb0f378/renditions/1b096d9a1c7f1335d376286e116912d0
 artist: Viaticum
-albums: solar-transient
+albums: ""
 spotifyId: 30W7m3LI8spyDKrwsug9aR?si=kdPmNlP9QaWIp3Ik80cPkA&dl_branch=1
 youtubeId: watch?v=WRujCpOh92g&list=OLAK5uy_mLRLbB4bjaUiebHfX_yxWADrYLYYXtHjg
 webshop: https://shop.theyellinglight.ch/produkt-schlagwort/viaticum/
