@@ -118,15 +118,6 @@ export default {
       artists,
     }
   },
-  mounted() {
-    this.$store.commit('updateBgImage', false)
-  },
-  methods: {
-    showDate(date) {
-      const parsedDate = parseISO(date)
-      return format(parsedDate, 'dd.MM.yyyy')
-    },
-  },
   head() {
     return {
       title: `${pageTitle} - ${this.post.title}`,
@@ -153,6 +144,15 @@ export default {
         },
       ],
     }
+  },
+  mounted() {
+    this.$store.commit('updateBgImage', false)
+  },
+  methods: {
+    showDate(date) {
+      const parsedDate = parseISO(date)
+      return format(parsedDate, 'dd.MM.yyyy')
+    },
   },
 }
 </script>
