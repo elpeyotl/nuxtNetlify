@@ -7,7 +7,9 @@
       </span>
     </div>
     <social-bar :content="artist" />
-    <h2 class="text-2xl lg:w-1/2 font-semibold mb-8">{{ artist.artist }}</h2>
+    <h2 class="text-2xl lg:w-1/2 font-semibold mb-8">
+      {{ artist.artist }}
+    </h2>
     <div class="mb-16 flex flex-col lg:flex-row">
       <div class="w-full lg:w-2/3 pr-16">
         <p class="text-lg font-light text-justify">{{ artist.description }}</p>
@@ -107,11 +109,15 @@ export default {
           property: 'og:description',
           content: `${this.artist.artist}  - ${this.artist.description}`,
         },
-        { hid: 'og:title', property: 'og:title', content: this.artist.artist },
+        {
+          hid: 'og:title',
+          property: 'og:title',
+          content: `${this.artist.artist}`,
+        },
         {
           hid: 'og:image',
           property: 'og:image',
-          content: this.artist.headerImage__caption,
+          content: `${this.artist.headerImage}`,
         },
       ],
     }

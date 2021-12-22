@@ -63,6 +63,21 @@ export default {
           name: 'description',
           content: `${this.content.description}`,
         },
+        {
+          hid: 'og:description',
+          property: 'og:description',
+          content: `${this.content.title}  - ${this.content.description}`,
+        },
+        {
+          hid: 'og:title',
+          property: 'og:title',
+          content: `${this.content.title}`,
+        },
+        {
+          hid: 'og:image',
+          property: 'og:image',
+          content: `${this.content.content.galleryImages[0]}`,
+        },
       ],
     }
   },

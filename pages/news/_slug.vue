@@ -136,6 +136,21 @@ export default {
           name: 'description',
           content: `${this.post.description}`,
         },
+        {
+          hid: 'og:description',
+          property: 'og:description',
+          content: `${this.post.title}  - ${this.post.description}`,
+        },
+        {
+          hid: 'og:title',
+          property: 'og:title',
+          content: `${this.post.title}`,
+        },
+        {
+          hid: 'og:image',
+          property: 'og:image',
+          content: `${this.post.thumbnail}`,
+        },
       ],
     }
   },

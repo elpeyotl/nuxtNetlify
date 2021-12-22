@@ -43,7 +43,7 @@ export default {
       {
         hid: 'og:title',
         property: 'og:title',
-        content: pageTitle,
+        content: 'test',
       },
       {
         hid: 'og:description',

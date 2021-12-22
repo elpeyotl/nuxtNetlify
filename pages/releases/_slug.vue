@@ -102,6 +102,21 @@ export default {
           name: 'description',
           content: `${this.album.title}  - ${this.artist[0].slug}`,
         },
+        {
+          hid: 'og:description',
+          property: 'og:description',
+          content: `${this.album.title}  - ${this.album.description}`,
+        },
+        {
+          hid: 'og:title',
+          property: 'og:title',
+          content: `${this.album.title}`,
+        },
+        {
+          hid: 'og:image',
+          property: 'og:image',
+          content: `${this.artist.thumbnail}`,
+        },
       ],
     }
   },
