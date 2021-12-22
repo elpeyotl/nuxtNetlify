@@ -125,6 +125,11 @@ export default {
         {
           hid: 'description',
           name: 'description',
+          content: 'HELLO WORLD',
+        },
+        {
+          hid: 'description',
+          name: 'description',
           content: `${this.post.description}`,
         },
         {
@@ -135,12 +140,12 @@ export default {
         {
           hid: 'og:title',
           property: 'og:title',
-          content: `${this.$data.post.title}`,
+          content: `${this.post.title}`,
         },
         {
           hid: 'og:image',
           property: 'og:image',
-          content: `${this.$data.post.thumbnail}`,
+          content: `${this.post.thumbnail}`,
         },
       ],
     }
