@@ -104,13 +104,13 @@ export default {
       meta: [
         {
           hid: 'og:description',
-          name: 'og:description',
+          property: 'og:description',
           content: `${this.artist.artist}  - ${this.artist.description}`,
         },
-        { hid: 'og:title', name: 'og:title', content: this.artist.artist },
+        { hid: 'og:title', property: 'og:title', content: this.artist.artist },
         {
           hid: 'og:image',
-          name: 'og:image',
+          property: 'og:image',
           content: this.artist.headerImage__caption,
         },
       ],
