@@ -117,7 +117,7 @@ export default {
         {
           hid: 'og:image',
           property: 'og:image',
-          content: `https://www.theyellinglight.ch${this.artist.headerImage}`,
+          content: `${this.artist.headerImage}`,
         },
       ],
     }

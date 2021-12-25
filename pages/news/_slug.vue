@@ -140,7 +140,7 @@ export default {
         {
           hid: 'og:image',
           property: 'og:image',
-          content: `https://www.theyellinglight.ch${this.post.thumbnail}`,
+          content: `${this.post.thumbnail}`,
         },
       ],
     }
