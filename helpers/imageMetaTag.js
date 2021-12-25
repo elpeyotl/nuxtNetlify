@@ -1,6 +1,7 @@
 const getImageUrl = (image) => {
+  console.log(image)
   if (image.charAt(0) === '/') {
-    return image.substring(1)
+    return window.location.hostname + image
   }
   return image
 }
