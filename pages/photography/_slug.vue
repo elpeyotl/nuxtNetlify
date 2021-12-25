@@ -78,7 +78,7 @@ export default {
         {
           hid: 'og:image',
           property: 'og:image',
-          content: getImageUrl(this.content.galleryImages[0]),
+          content: getImageUrl(this.content.galleryImages[0].image),
         },
       ],
     }
