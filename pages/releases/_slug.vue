@@ -60,6 +60,7 @@
 <script>
 import spotifyEmbed from '../../components/spotifyEmbed.vue'
 import { pageTitle } from '~/config/yellingLightSettings'
+import { getImageUrl } from '~/helpers/imageMetaTag'
 export default {
   components: { spotifyEmbed },
   async asyncData({ $content, params, error }) {
@@ -115,7 +116,7 @@ export default {
         {
           hid: 'og:image',
           property: 'og:image',
-          content: `${this.album.thumbnail}`,
+          content: getImageUrl(this.album.thumbnail),
         },
       ],
     }

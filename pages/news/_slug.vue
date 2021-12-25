@@ -66,6 +66,8 @@
 import { parseISO, format } from 'date-fns'
 import SpotifyEmbed from '~/components/spotifyEmbed'
 import { pageTitle } from '~/config/yellingLightSettings'
+import { getImageUrl } from '~/helpers/imageMetaTag'
+
 export default {
   components: { SpotifyEmbed },
   async asyncData({ $content, params, error }) {
@@ -140,7 +142,7 @@ export default {
         {
           hid: 'og:image',
           property: 'og:image',
-          content: `${this.post.thumbnail}`,
+          content: getImageUrl(this.post.thumbnail),
         },
       ],
     }

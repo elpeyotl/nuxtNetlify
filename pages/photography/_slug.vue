@@ -28,6 +28,8 @@
 <script>
 import LazyLoad from '~/components/lazyLoad'
 import { pageTitle } from '~/config/yellingLightSettings'
+import { getImageUrl } from '~/helpers/imageMetaTag'
+
 export default {
   components: { LazyLoad },
   async asyncData({ $content, params, error }) {
@@ -76,7 +78,7 @@ export default {
         {
           hid: 'og:image',
           property: 'og:image',
-          content: `${this.content.content.galleryImages[0]}`,
+          content: getImageUrl(this.content.galleryImages[0])`,
         },
       ],
     }

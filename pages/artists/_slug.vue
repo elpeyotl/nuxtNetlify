@@ -61,6 +61,7 @@
 <script>
 import { pageTitle } from '~/config/yellingLightSettings'
 import SocialBar from '~/components/socialBar'
+import { getImageUrl } from '~/helpers/imageMetaTag'
 
 export default {
   components: { SocialBar },
@@ -117,7 +118,7 @@ export default {
         {
           hid: 'og:image',
           property: 'og:image',
-          content: `${this.artist.headerImage}`,
+          content: getImageUrl(this.artist.headerImage),
         },
       ],
     }
