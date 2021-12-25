@@ -1,10 +1,8 @@
 const getImageUrl = (image) => {
-  if (process.client) {
-    if (image.charAt(0) === '/') {
-      return window.location.hostname + image
-    }
-    return image
+  if (image.charAt(0) === '/') {
+    return image.substring(1)
   }
+  return image
 }
 
 export { getImageUrl }
