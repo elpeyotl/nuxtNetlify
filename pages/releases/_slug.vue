@@ -106,7 +106,7 @@ export default {
         {
           hid: 'og:description',
           property: 'og:description',
-          content: `${this.album.title}  - ${this.album.description}`,
+          content: `${this.album.title}  - ${this.album.caption}`,
         },
         {
           hid: 'og:title',
