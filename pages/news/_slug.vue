@@ -125,11 +125,6 @@ export default {
         {
           hid: 'description',
           name: 'description',
-          content: 'HELLO WORLD',
-        },
-        {
-          hid: 'description',
-          name: 'description',
           content: `${this.post.description}`,
         },
         {
@@ -145,7 +140,7 @@ export default {
         {
           hid: 'og:image',
           property: 'og:image',
-          content: `${this.post.thumbnail}`,
+          content: `https://www.theyellinglight.ch${this.post.thumbnail}`,
         },
       ],
     }
