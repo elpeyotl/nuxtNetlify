@@ -8,7 +8,6 @@
 import { gsap, EasePack } from 'gsap/all'
 import { PixiPlugin } from 'gsap/PixiPlugin'
 
-import * as PIXI from 'pixi.js'
 export default {
   name: 'BackgroundImage',
   data() {
@@ -18,6 +17,7 @@ export default {
       height: null,
       app: null,
       afp: null,
+      PIXI: null,
     }
   },
   computed: {
@@ -30,16 +30,20 @@ export default {
       this.initImage()
     },
   },
-  beforeMount() {
-    gsap.registerPlugin(PixiPlugin)
-    PixiPlugin.registerPIXI(PIXI)
-    gsap.registerPlugin(EasePack)
+  async beforeMount() {
+    this.initPlugins()
   },
-  mounted() {
+  async mounted() {
+    this.PIXI = await import('pixi.js')
     this.init()
     window.addEventListener('resize', this.resize)
   },
   methods: {
+    initPlugins() {
+      gsap.registerPlugin(PixiPlugin)
+      PixiPlugin.registerPIXI(this.PIXI)
+      gsap.registerPlugin(EasePack)
+    },
     init() {
       this.initCanvas()
       this.resize()
@@ -57,7 +61,7 @@ export default {
     initCanvas() {
       const width = this.width
       const height = this.height
-      this.app = new PIXI.Application({
+      this.app = new this.PIXI.Application({
         width,
         height,
       })
@@ -67,7 +71,7 @@ export default {
       // Add the view to the DOM
       this.canvas = document.getElementById('bgCanvas')
       this.canvas.appendChild(this.app.view)
-      const container = new PIXI.Container()
+      const container = new this.PIXI.Container()
       this.app.stage.addChild(container)
       // Resize the view to match viewport dimensions
       this.app.renderer.resize(width, height)
@@ -83,10 +87,10 @@ export default {
     },
     initImage() {
       this.clearStage()
-      const loader = new PIXI.Loader()
+      const loader = new this.PIXI.Loader()
       loader.add('bg', this.backgroundImgSrc)
       loader.load((loader, resources) => {
-        const bg = PIXI.Sprite.from(resources.bg.data)
+        const bg = this.PIXI.Sprite.from(resources.bg.data)
         bg.anchor.x = 0.5
         bg.x = this.width / 2
         bg.anchor.y = 0.5
