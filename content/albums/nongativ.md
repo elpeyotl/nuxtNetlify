@@ -15,6 +15,7 @@ youtubeId: I4ZVLGq5SzQ?list=OLAK5uy_mAApSVOSBDZhYQwaXl2-PYRI_8Izhk2GM
 facebook: https://www.facebook.com/RecoLoco-Produktions-686222501500216
 instagram: https://www.instagram.com/siriushaltmeier/
 youtube: https://youtu.be/I4ZVLGq5SzQ?list=OLAK5uy_mAApSVOSBDZhYQwaXl2-PYRI_8Izhk2GM
+bandcamp: https://siriushaltmeier.bandcamp.com/album/nongativ
 website: ""
 ---
 <!--StartFragment-->
