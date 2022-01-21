@@ -7,6 +7,7 @@ artist: Sirius Haltmeier
 albums: nongativ
 youtubeId: playlist?list=OLAK5uy_mAApSVOSBDZhYQwaXl2-PYRI_8Izhk2GM&feature=share
 youtube: https://music.youtube.com/playlist?list=OLAK5uy_mAApSVOSBDZhYQwaXl2-PYRI_8Izhk2GM&feature=share
+bandcamp: https://siriushaltmeier.bandcamp.com/album/nongativ
 ---
 I am very happy to be able to help Sirius Haltmeier with the release of Nongativ. \
 \
