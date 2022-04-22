@@ -6,7 +6,7 @@ description: '"Count Me Out" refers to the immense frustration that a chronic
 thumbnail: https://f4.bcbits.com/img/a1861000482_10.jpg
 artist: Migre le Tigre
 albums: count-me-out
-spotifyId: 5ToALAD5qqby7v1SZYmufh?si=z9wdOw6aRXWqA871lyxrYw
+spotifyId: ""
 youtubeId: OhC3HqftiIY?list=OLAK5uy_n8xmUhtD_3tMpNmp_-20Y7BxO11RzD7Qs
 bandcamp: https://migreletigre.bandcamp.com/
 ---
