@@ -1,7 +1,7 @@
 ---
 artist: .N3<ØMΔ†Δ.
 date: 2022-12-05T17:16:15.687Z
-isPrivate: true
+isPrivate: false
 description: Witchhouse from Winterthur
 thumbnail: https://lightroom.adobe.com/v2c/spaces/48342372599a44fe83fb31104706900a/assets/7b866b0709030515ef1e769b0ca830a7/revisions/200ddfce17e3478597edb6aa3ce56110/renditions/ab7fe4e0cc02b250c918c1acb757d9d2
 headerImage: https://lightroom.adobe.com/v2c/spaces/48342372599a44fe83fb31104706900a/assets/7b866b0709030515ef1e769b0ca830a7/revisions/200ddfce17e3478597edb6aa3ce56110/renditions/ab7fe4e0cc02b250c918c1acb757d9d2
