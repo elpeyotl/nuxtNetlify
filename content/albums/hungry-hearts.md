@@ -3,7 +3,7 @@ artist: Datzun Daze
 genres:
   - Indie
   - Rock
-title: Hungry Hearts
+title: Clean Slate
 date: 2022-07-01T15:53:21.144Z
 isPrivate: false
 recordLabel: The Yelling light
