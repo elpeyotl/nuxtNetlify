@@ -1,7 +1,7 @@
 ---
 artist: Datzun Daze
-isPrivate: false
 date: 2021-02-19T20:00:30.264Z
+isPrivate: false
 description: Datzun Daze are a Post-melan-coholic Eurock Sound Experience out of
   Bern, Switzerland.
 biography: >-
@@ -28,4 +28,7 @@ email: " datzun.daze@gmail.com"
 bandcamp: https://datzundaze.bandcamp.com/
 website: https://datzundaze.com/
 ---
-02/19/2021 Digital release of Stockholm Syndrome
+02/19/2021 Digital release of Stockholm Syndrome\
+0﻿4/02/2021 Digital release of Walk of Shame\
+0﻿5/13/2022 Digital release of Clean Slate\
+0﻿7/01/2022 Digital release of Hungry Hearts
