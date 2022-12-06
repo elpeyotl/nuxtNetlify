@@ -12,4 +12,4 @@ youtubeId: lYqpbnnOidM
 instagram: https://www.instagram.com/datzun.daze
 website: https://datzundaze.com/
 ---
-The Song was written during the big lockdown. Reminiscing pre pandemic times while fiercely looking ahead into a brighter future. Grabbing this cataclysmic b*tch by the horns, cutting Clean Slates to turn our fortune.
+The Song was written during the big lockdown. Reminiscing pre pandemic times while fiercely looking ahead into a brighter future. Grabbing this cataclysmic b*tch by the horns, cutting Clean Slates to turn our fortune..
