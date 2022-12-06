@@ -9,6 +9,6 @@ youtubeId: https://www.youtube.com/@n3komata331
 facebook: https://www.facebook.com/n3k0mata666/
 instagram: https://www.instagram.com/n3k0mata/
 bandcamp: https://n3komata.bandcamp.com/
-website: www.n3k.ooo
+website: https://n3k.ooo
 ---
 .†.☾. Mit Fingerspitzengefühl und Sorgfalt wurden die Tracks des mittlerweile Doppelalbums durch Limiter, Kompressoren und Zerrer geschreddert. Die Ohren der Zuhörenden sollten schon massiv bluten, was würde sonst aus dem Image. .N3<øMΔ†Δ. zieht euch mit ihrem neuen und ersten Tape in die Abgründe der dunkelsten Noise-Atmosphäre. Dort angekommen, fahren sie ihre Krallen aus und beschwören mit lautstarkem Geschrei fette Beats der Unterwelt.
