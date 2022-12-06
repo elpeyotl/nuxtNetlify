@@ -11,4 +11,9 @@ instagram: https://www.instagram.com/n3k0mata/
 bandcamp: https://n3komata.bandcamp.com/
 website: https://n3k.ooo
 ---
-.†.☾. Mit Fingerspitzengefühl und Sorgfalt wurden die Tracks des mittlerweile Doppelalbums durch Limiter, Kompressoren und Zerrer geschreddert. Die Ohren der Zuhörenden sollten schon massiv bluten, was würde sonst aus dem Image. .N3<øMΔ†Δ. zieht euch mit ihrem neuen und ersten Tape in die Abgründe der dunkelsten Noise-Atmosphäre. Dort angekommen, fahren sie ihre Krallen aus und beschwören mit lautstarkem Geschrei fette Beats der Unterwelt.
+.N3<øMΔ†Δ.\
+Witchhouse (CH), die yungen huren dot hiv, the yelling light
+
+.N3<øMΔ†Δ. ist ein Witchhouse-Duo aus Winterthur. Ihre Musik setzt sich zusammen aus Trap-artigen Beats, düsteren/atmosphärischen Synth-Melodien, effektüberladenen Vocals and a lot of DISTORTION.\
+Einflüsse aus Pop, Elektropunk und Hardstyle können sich durchaus ins Set einschleichen. Da gibts keine Grenzen, Hauptsache der Serum-Crack stürzt ab.\
+Zwei dämonische Katzen geblendet vom Stroboskop irren durch Nebel und Noise.
