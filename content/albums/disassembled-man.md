@@ -8,15 +8,20 @@ date: 2023-02-03T18:17:37.701Z
 isPrivate: false
 recordLabel: The yelling light
 lineup: |-
-  Red Tape Redemption are:\
-  Lukas Oberholzer - Vocals and Acoustic Guitar\
-  Tobias Kalt - MicroKorg, Korg MS20, Acoustic and Electric Guitar.\
-  \
-  Recorded by Red Tape Redemption at Cosy Penthouse Recordings in spring 2022.\
-  Mixed by Yvo Petrzilek, Verwaltzen Productions.\
-  Mastered by Justin Weis.\
-  \
-  photography by Lukas Oberholzer.Band photography by David Gabathuler.\
+  Red Tape Redemption are:
+
+  Lukas Oberholzer - Vocals and Acoustic Guitar
+
+  Tobias Kalt - MicroKorg, Korg MS20, Acoustic and Electric Guitar.
+
+  Recorded by Red Tape Redemption at Cosy Penthouse Recordings in spring 2022.
+
+  Mixed by Yvo Petrzilek, Verwaltzen Productions.
+
+  Mastered by Justin Weis.
+
+  photography by Lukas Oberholzer.Band photography by David Gabathuler.
+
   Artwork by Cosy Penthouse Design
 thumbnail: /img/eae8ec0bac1e9eb2ec9b203d37ed59ef.jpg
 spotifyId: 5fDikgw2hsYmhqf6X6rslk?si=5R7NoJ5iTYyku2e55HaESg
