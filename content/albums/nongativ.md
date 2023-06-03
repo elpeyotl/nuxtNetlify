@@ -1,7 +1,7 @@
 ---
 artist: Sirius Haltmeier
 genres:
-  - Alternative
+  - Ambient
   - Synth
   - Death
 title: Nongativ
