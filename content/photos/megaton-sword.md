@@ -5,8 +5,16 @@ isPrivate: false
 description: Megaton Sword is an Epic Heavy Metal band from Winterthur,
   Switzerland. The band was formed in 2018. They are currently signed at Dying
   Victims Productions
-thumbnail: /img/5780c2be53a996f210a54e281620089d.jpg
+thumbnail: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/98cdb395245c99cbd4b244d5694ff062/revisions/eb92d40dd81240a4bae5dbb83c0abcb8/renditions/cf182bf24349e49d50cbdd24736042c2
 galleryImages:
+  - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/98cdb395245c99cbd4b244d5694ff062/revisions/eb92d40dd81240a4bae5dbb83c0abcb8/renditions/cf182bf24349e49d50cbdd24736042c2
+  - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/476d5827ad6c0d4e7b00dff394ef04f2/revisions/742f0470f3fb46e2b42f9baf5cc4e3b6/renditions/6930b13bf266d48616aa3a898d1e7b68
+  - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/11968d52a9f8ff70431e5d069684998a/revisions/ff7adea354ff46038e2214464faf0820/renditions/4d55f11002634d090f984dd9aa61b8b7
+  - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/c604ac1c07060e1a198d6b72aec7ac95/revisions/59991acd57984c22b93c4425fd9587db/renditions/0e32dbd2dd92932813e81e511c200af6
+  - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/ab20db884625753dba1b5f4c90bc0cc4/revisions/56fe9d3f55b740938af47b1c4cc826bc/renditions/a0d75092bcbced0118c2fa8a9850dfe2
+  - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/245b11b2085f82f520b57344af5aa2f8/revisions/26ffc9b532b64fb1a49785bf598dc301/renditions/65d73f11a1822f2a277fe1893e1ff692
+  - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/59ba0d355719ac1208f5a49cb2dd9b5f/revisions/b1801676abdc4dcfb741f2a6dfc71d13/renditions/0d1a78a8cbd82d247423118d562911fd
+    caption: ""
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/e0dc98fac48c03d6f75dc78efabc086c/revisions/dfc7f3ccf0a74d4f9166c4c2476a99c8/renditions/89bbf118217cee1174e04905f85c53a5
     caption: Megaton Sword 2021
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/6e54ef04c636b9b2668a9516e0b5c52b/revisions/49dd39475f7546dcb9b4f4c5880f7c8e/renditions/c528a16e6f3f24ba1f8c9dbc07fe7a24
