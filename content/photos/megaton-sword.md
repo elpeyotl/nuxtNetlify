@@ -9,7 +9,6 @@ thumbnail: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31
 galleryImages:
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/98cdb395245c99cbd4b244d5694ff062/revisions/eb92d40dd81240a4bae5dbb83c0abcb8/renditions/cf182bf24349e49d50cbdd24736042c2
     caption: ""
-  - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/476d5827ad6c0d4e7b00dff394ef04f2/revisions/742f0470f3fb46e2b42f9baf5cc4e3b6/renditions/6930b13bf266d48616aa3a898d1e7b68
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/11968d52a9f8ff70431e5d069684998a/revisions/ff7adea354ff46038e2214464faf0820/renditions/4d55f11002634d090f984dd9aa61b8b7
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/c604ac1c07060e1a198d6b72aec7ac95/revisions/59991acd57984c22b93c4425fd9587db/renditions/0e32dbd2dd92932813e81e511c200af6
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/ab20db884625753dba1b5f4c90bc0cc4/revisions/56fe9d3f55b740938af47b1c4cc826bc/renditions/a0d75092bcbced0118c2fa8a9850dfe2
