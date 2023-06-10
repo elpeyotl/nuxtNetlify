@@ -8,6 +8,7 @@ description: Megaton Sword is an Epic Heavy Metal band from Winterthur,
 thumbnail: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/98cdb395245c99cbd4b244d5694ff062/revisions/eb92d40dd81240a4bae5dbb83c0abcb8/renditions/cf182bf24349e49d50cbdd24736042c2
 galleryImages:
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/98cdb395245c99cbd4b244d5694ff062/revisions/eb92d40dd81240a4bae5dbb83c0abcb8/renditions/cf182bf24349e49d50cbdd24736042c2
+    caption: ""
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/476d5827ad6c0d4e7b00dff394ef04f2/revisions/742f0470f3fb46e2b42f9baf5cc4e3b6/renditions/6930b13bf266d48616aa3a898d1e7b68
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/11968d52a9f8ff70431e5d069684998a/revisions/ff7adea354ff46038e2214464faf0820/renditions/4d55f11002634d090f984dd9aa61b8b7
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/c604ac1c07060e1a198d6b72aec7ac95/revisions/59991acd57984c22b93c4425fd9587db/renditions/0e32dbd2dd92932813e81e511c200af6
@@ -26,6 +27,7 @@ galleryImages:
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/737a595af7d10cae54b7815145628075/revisions/4c5753ec9aeb47d1b44ef7930df6a2df/renditions/2c1715a50b324f2b0a518912500f6b25
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/ebabca388b53361bc1924ec4603cfe89/revisions/49978ccb63d14150a7e25d2a19b2264a/renditions/ca4888ecf247d6e46962d7866801c6e4
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/ad6fa7d95268a18159866b1658883a5c/revisions/1f88404e87c14d8f9bbf2d38396b80db/renditions/c83b1744e7be0d1de6f4a4ae5eb37f7a
+  - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/6d811b89916b80744473797443f6be88/revisions/d6096816552a42b3ac637becd3cd2bc7/renditions/5780c2be53a996f210a54e281620089d
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/d0f909073e18c51286456039eb226ac3/revisions/6845433fb9c94e7496cf294f45161ec0/renditions/a87020c4f404bd7f5ad823ddc89a3120
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/5839b43f2745ad5397ca656f58988999/revisions/0a9bca3f82974cefadc237c7eeca6193/renditions/03bae370c20571b192cb4252f5ba3144
   - image: https://lightroom.adobe.com/v2c/spaces/323ccb8144be41bd95a00bec4c4a31fc/assets/d554d1a1156f743dbf1557de6b011c7e/revisions/72af3682b7c74bf4b6ccf9e4542dc2af/renditions/f875929b73979c4f983094120d770cb9
