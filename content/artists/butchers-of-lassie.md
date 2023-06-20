@@ -12,9 +12,9 @@ biography: >-
 
   jagged sawtooth waves. Driving, dark and extremely danceable.
 
-  The lyrics are in German and Swiss German and are sometimes dark, sometimes angry.
+  The lyrics are in German and Swiss German and are sometimes dark, sometimes angry, \
 
-  sometimes dark, sometimes angry, sometimes cynical, sometimes thoughtful.
+  sometimes cynical, sometimes thoughtful.
 
   They deal with modern society and its basic values in a critical and resistant manner.
 
