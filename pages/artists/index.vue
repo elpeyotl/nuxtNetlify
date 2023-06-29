@@ -8,41 +8,41 @@
 </template>
 
 <script>
-import { pageTitle } from '~/config/yellingLightSettings'
+import { pageTitle } from "~/config/yellingLightSettings";
 
 export default {
-  name: 'Artists',
+  name: "Artists",
   async asyncData({ $content, params, error }) {
-    let artists
+    let artists;
     try {
-      artists = await $content('artists')
+      artists = await $content("artists")
         .where({
           isPrivate: false,
         })
-        .sortBy('slug', 'asc')
-        .fetch()
+        .sortBy("slug", "asc")
+        .fetch();
       // OR const article = await $content(`articles/${params.slug}`).fetch()
     } catch (e) {
-      error({ message: 'Blog Post not found' })
+      error({ message: "Blog Post not found" });
     }
     return {
       artists,
-    }
+    };
   },
   mounted() {
-    this.$store.commit('updateBgImage', false)
+    this.$store.commit("updateBgImage", false);
   },
   head() {
     return {
       title: `${pageTitle} - Artists`,
       meta: [
         {
-          hid: 'description',
-          name: 'description',
-          content: 'Artist from the yelling light',
+          hid: "description",
+          name: "description",
+          content: "Artist from the yelling light",
         },
       ],
-    }
+    };
   },
-}
+};
 </script>
