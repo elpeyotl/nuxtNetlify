@@ -24,7 +24,7 @@ export default {
         .where({
           isPrivate: false,
         })
-        .sortBy('date', 'asc')
+        .sortBy('date', 'desc')
         .fetch()
       // OR const article = await $content(`articles/${params.slug}`).fetch()
     } catch (e) {}

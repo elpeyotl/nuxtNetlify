@@ -77,7 +77,7 @@ export default {
             $regex: [album.artist, 'i'],
           },
         })
-        .sortBy('createdAt', 'asc')
+        .sortBy('createdAt', 'desc')
         .fetch()
     } catch (e) {}
     return {

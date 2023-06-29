@@ -79,7 +79,7 @@ export default {
             $regex: [artist.artist, 'i'],
           },
         })
-        .sortBy('createdAt', 'asc')
+        .sortBy('createdAt', 'desc')
         .fetch()
     } catch (e) {}
     try {
@@ -89,7 +89,7 @@ export default {
             $regex: [artist.artist, 'i'],
           },
         })
-        .sortBy('createdAt', 'asc')
+        .sortBy('createdAt', 'desc')
         .fetch()
     } catch (e) {}
     return {

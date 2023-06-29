@@ -86,7 +86,7 @@ export default {
             $regex: [post.albums, 'i'],
           },
         })
-        .sortBy('title', 'asc')
+        .sortBy('title', 'desc')
         .fetch()
     } catch (e) {}
 
@@ -97,7 +97,7 @@ export default {
             $regex: [post.artist, 'i'],
           },
         })
-        .sortBy('title', 'asc')
+        .sortBy('title', 'desc')
         .fetch()
     } catch (e) {}
 
@@ -108,7 +108,7 @@ export default {
             $regex: [post.photos, 'i'],
           },
         })
-        .sortBy('createdAt', 'asc')
+        .sortBy('createdAt', 'desc')
         .fetch()
     } catch (e) {}
     try {
