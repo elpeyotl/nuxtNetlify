@@ -50,7 +50,7 @@ export default {
   async asyncData({ $content }) {
     let team
     try {
-      team = await $content('team').sortBy('createdAt', 'desc').fetch()
+      team = await $content('team').sortBy('createdAt', 'asc').fetch()
       // OR const article = await $content(`articles/${params.slug}`).fetch()
     } catch (e) {
       e({ message: 'Team Post not found' })

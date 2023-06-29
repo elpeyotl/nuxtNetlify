@@ -19,7 +19,7 @@ export default {
         .where({
           isPrivate: false,
         })
-        .sortBy('slug', 'desc')
+        .sortBy('slug', 'asc')
         .fetch()
       // OR const article = await $content(`articles/${params.slug}`).fetch()
     } catch (e) {
@@ -46,5 +46,3 @@ export default {
   },
 }
 </script>
-
-<style></style>

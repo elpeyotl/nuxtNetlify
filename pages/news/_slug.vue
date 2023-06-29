@@ -86,7 +86,7 @@ export default {
             $regex: [post.albums, 'i'],
           },
         })
-        .sortBy('title', 'desc')
+        .sortBy('title', 'asc')
         .fetch()
     } catch (e) {}
 
