@@ -1,7 +1,9 @@
 ---
 title: Hathors
-date: 2021-05-17T20:52:58.882Z
+date: 2018-05-17T20:52:58.882Z
 isPrivate: false
+artist:
+  - Hathors
 description: ""
 thumbnail: /img/dsc_5790.jpg
 galleryImages:
