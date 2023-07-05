@@ -23,4 +23,3 @@ bandcamp: https://coilguns.bandcamp.com/
 website: https://www.coilguns.ch/
 webshop: https://hummus-records.com/
 ---
-Coilguns are: Louis Jucker – vocals, guitar & organ; Donatien Thiévent – bass, minilog & vocals; Jona Nido – guitar & vocals; Luc Hess – drums & vocals
