@@ -1,7 +1,7 @@
 ---
 title: Coilguns
 date: 2019-01-29T20:52:29.791Z
-isPrivate: true
+isPrivate: false
 artist: []
 description: Coilguns is currently signed at Hummus-Records, Neuchâtel.
 thumbnail: /img/6554d7c35cd4593ff524cf7a515e5670.jpeg
