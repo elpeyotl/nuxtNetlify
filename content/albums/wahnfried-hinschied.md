@@ -5,7 +5,7 @@ genres:
   - Punk
 title: Wahnfried Hinschied
 date: 2023-07-07T11:29:26.978Z
-isPrivate: true
+isPrivate: false
 recordLabel: The yelling light
 lineup: |-
   Shawona : Synth's, 
