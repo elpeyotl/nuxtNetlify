@@ -33,12 +33,14 @@ facebook: https://www.facebook.com/profile.php?id=100063568543971
 instagram: https://www.instagram.com/jarls.band/
 website: https://jarlsmusic.com/
 ---
-Musik zu erschaffen ist nicht sich von Schemas leiten zu lassen. Es bedeutet sich auf den Weg zu machen und kleine Impulse wahrzunehmen. Zur gegebenen Zeit in sich hineinzuhorchen, um dem bisher Unbekannten Ausdruck verleihen. Eine Auseinandersetzung mit dem Leben und dem Ende. Auf unserer Reise begegnen uns monumentale Momente, manchmal zerbrechliche, doch gerade in dem lauten Gewirr drückt immer wieder so etwas wie Wahnsinn, Verzweiflung und Schönheit durch. Umso länger wir diesen Weg gehen, desto vielfältiger wird dieses Spektrum und bislang ist kein Ende in Sicht.
+To create music is not to be guided by schemas. It is to set out on a journey and to perceive small impulses. To listen to oneself at the right time, in order to give expression to the previously unknown. A confrontation with life and the end. On our journey, we encounter monumental moments, sometimes fragile ones, but it is exactly in the noisy tangle that something like madness, despair and beauty shines (pushes) through again and again. The longer we walk down this path, the more diverse the spectrum becomes and so far, there is no end in sight.
 
 
 
-Zerrend, unangenehm, melancholisch - aber auch hoffnungsvoll und ironisch. Dies sind Assoziationen, die in den Songs der Winterthurer Band Jarls Platz finden. Wenn wir von Jarls sprechen, ist es sinnlos von einem Genre zu sprechen. Sie verbinden verschiedene Musikrichtungen zu einem und kreieren dadurch einen eigenen Stil, welcher vielfältig und doch in sich stimmig ist.
+
+Tugging, unpleasant, melancholic - but also hopeful and irconic. These are the associations, that can be found in the songs of the band Jarls from Winterthur. When we speak of Jarls, it is pointless to speak of one specific genre. They combine different musical styles into one and thereby create their own unique style, which is diverse and coherent in itself.
 
 
 
-Klangwelten als Begleitung für eine komplexe Welt, die voller Widersprüche zu sein scheint und trotz dystopischer Tendenzen immer wieder eine tiefe und fast magische Ruhe findet.
+
+Sound worlds as an accompaniment to a complex world, which seems to be full of contradictions and despite dystopian tendencies, always finds a deep and almost magical peace.
