@@ -12,7 +12,8 @@ biography: >-
   madness, despair and beauty shines through again and again. The longer we walk
   down this path, the more diverse the spectrum becomes and so far, there is no
   end in sight.  
-   ﻿ 
+
+
   Tugging, unpleasant, melancholic - but also hopeful and irconic. These are the associations, that can be found in the songs of the band Jarls from Winterthur. When we speak of Jarls, it is pointless to speak of one specific genre. They combine different musical styles into one and thereby create their own unique style, which is diverse and coherent in itself.  
 
 
