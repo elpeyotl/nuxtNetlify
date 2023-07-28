@@ -9,9 +9,9 @@ biography: >-
   order to give expression to the previously unknown. A confrontation with life
   and the end. On our journey, we encounter monumental moments, sometimes
   fragile ones, but it is exactly in the noisy tangle that something like
-  madness, despair and beauty shines (pushes) through again and again. The
-  longer we walk down this path, the more diverse the spectrum becomes and so
-  far, there is no end in sight.\
+  madness, despair and beauty shines through again and again. The longer we walk
+  down this path, the more diverse the spectrum becomes and so far, there is no
+  end in sight.\
 
   \
 
