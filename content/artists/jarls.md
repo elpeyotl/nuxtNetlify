@@ -6,12 +6,15 @@ description: Jazzy harmonies and dreamy melodies
 biography: "JARLS is:
 
 
+
   \r
 
   Ana Sanchez - Vocals / Synth
 
 
+
   Janosch Brauchli - Guitar
+
 
 
   \r
@@ -21,7 +24,8 @@ biography: "JARLS is:
   Michael Weber - Drums
 
 
-  Sirius Haltmeier - Bass / Backing Vocals"
+
+  Sirius Haltmeier - Bass / Backing Vocals\n"
 thumbnail: /img/single_coverdesign.jpg
 headerImage: /img/single_coverdesign.jpg
 spotifyId: 3iSIuBIlWSczzkEHk8QmL5
