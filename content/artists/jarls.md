@@ -3,15 +3,25 @@ artist: JARLS
 date: 2023-07-28T08:58:54.702Z
 isPrivate: false
 description: Jazzy harmonies and dreamy melodies
-biography: "JARLS is:\r
+biography: "JARLS is:
 
-  Janosch Brauchli - Guitar\r
 
-  Ana Sanchez - Vocals / Synth\r
+  \r
 
-  Sirius Haltmeier - Bass / Backing Vocals\r
+  Ana Sanchez - Vocals / Synth
 
-  Michael Weber - Drums"
+
+  Janosch Brauchli - Guitar
+
+
+  \r
+
+  \r
+
+  Michael Weber - Drums
+
+
+  Sirius Haltmeier - Bass / Backing Vocals"
 thumbnail: /img/single_coverdesign.jpg
 headerImage: /img/single_coverdesign.jpg
 spotifyId: 3iSIuBIlWSczzkEHk8QmL5
