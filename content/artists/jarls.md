@@ -15,7 +15,11 @@ biography: >-
 
   \
 
+  \
+
   Tugging, unpleasant, melancholic - but also hopeful and irconic. These are the associations, that can be found in the songs of the band Jarls from Winterthur. When we speak of Jarls, it is pointless to speak of one specific genre. They combine different musical styles into one and thereby create their own unique style, which is diverse and coherent in itself.\
+
+  \
 
   \
 
