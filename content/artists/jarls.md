@@ -30,7 +30,7 @@ facebook: https://www.facebook.com/profile.php?id=100063568543971
 instagram: https://www.instagram.com/jarls.band/
 website: https://jarlsmusic.com/
 ---
-JARLS is:\
+**JARLS** is:\
 \
 Ana Sanchez - Vocals / Synth\
 \
