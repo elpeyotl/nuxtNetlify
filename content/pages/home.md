@@ -8,5 +8,6 @@ title: Releases 2023
 2﻿8.07.23 - [JARLS](https://www.theyellinglight.ch/artists/jarls) - Water Love\
 2﻿7.10.23 - [IRR](https://www.theyellinglight.ch/artists/irr) - IRR\
 0﻿3.11.23 - The Kushan Empire - Psilence\
+1﻿0.11.23 - [Red Tape Redemption](https://www.theyellinglight.ch/releases/disassembled-man) - Ride Away\
 0﻿1.12.23 - [JARLS](https://www.theyellinglight.ch/artists/jarls) - Jarls\
-0﻿1.12.23 - Red Tape Redemption - Ollie Osbourne[JARLS](https://www.theyellinglight.ch/artists/jarls) - Jarls
+0﻿1.12.23 - [Red Tape Redemption](https://www.theyellinglight.ch/releases/disassembled-man) - Ollie Osbourne[](https://www.theyellinglight.ch/artists/jarls)
