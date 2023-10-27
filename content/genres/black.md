@@ -1,3 +1,3 @@
 ---
-genre: Black
+genre: Blackened
 ---
