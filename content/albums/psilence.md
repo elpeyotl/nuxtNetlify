@@ -1,6 +1,7 @@
 ---
 artist: The Kushan Empire
 genres:
+  - Experimental
   - Stoner
   - Rock
 title: Psilence
