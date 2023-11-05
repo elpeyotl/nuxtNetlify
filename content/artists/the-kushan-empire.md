@@ -13,7 +13,7 @@ thumbnail: https://lightroom.adobe.com/v2c/spaces/a314ebc4d9974dc592337c6cdd0126
 headerImage: https://lightroom.adobe.com/v2c/spaces/a42eae7a04bd48dda6b8193b4c695220/assets/bd9194e37a50e91dba811c888cf0c43e/revisions/9f13aacb8d234be2b3682d08adf8f235/renditions/743a9f8d0c693d81caded7fb8ec2fd97
 headerImage__caption: Live at Rümpteltum, Picture taken by Mario Baroncelli
 spotifyId: 3tKBxEfSgs7JuymCLiEXvJ?si=-4IZVe6hSNeWsOZD-Wbw7A
-youtubeId: UCUJb2Ytw0oRCE17ipW-LuCw
+youtubeId: JlCY4JOS6aQ?si=sUwZsUCNVtwbgzZv
 facebook: https://www.facebook.com/thekushanempire
 instagram: https://www.instagram.com/thekushanempire_band/
 ---
