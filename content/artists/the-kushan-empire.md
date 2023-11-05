@@ -2,7 +2,7 @@
 artist: The Kushan Empire
 date: 2023-11-05T15:03:32.697Z
 isPrivate: false
-description: .
+description: Experimental Stoner Rock
 biography: >-
   THE KUSHAN EMPIRE is a Switzerland (Zurich) based ,,Experimental Stoner Rock''
   band. Founded in late 2018 by Jérome Stuber (Bass and Vocals), Joel Largier
