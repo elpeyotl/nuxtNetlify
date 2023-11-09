@@ -8,22 +8,13 @@ date: 2023-11-10T20:43:59.196Z
 isPrivate: true
 recordLabel: The yelling light
 lineup: >-
-  <!--StartFragment-->
-
-
   Red Tape Redemption are: Lukas Oberholzer - Vocals and Guitar 
 
 
   Tobias Kalt - Drums. 
 
 
-  Recorded & Mixed by Yvo Petrzilek, Verwaltzen Productions. Mastered by Justin Weis. 
-
-
-  Artwork by 
-
-
-  <!--EndFragment-->
+  Recorded & Mixed by Yvo Petrzilek, Verwaltzen Productions. Mastered by Justin Weis.
 thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc7343422215/assets/b409aec0ae43d4a77ce9b860bf05ec7e/revisions/7bc3f58859984e0398c8b639b0438fe0/renditions/d9bfbd4b976f80206844cd821b7f573a
 ---
 <!--StartFragment-->
