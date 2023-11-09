@@ -19,10 +19,12 @@ thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc73434222
 ---
 <!--StartFragment-->
 
-"DRIVE AWAY" is the single for the upcoming EP "OLLIE OSBOURNE" which will be released on 1st December 2023 on all major streaming platforms.
-
-The up-and-coming rock band Red Tape Redemption, consisting of the musicians Tobias and Lukas, continues their creative journey by presenting their new studio EP "OLLIE OSBOURNE" on 1st December 2023.
-
- Known for their unique mix of Rock, Blues rock and Punk and a deep connection to Skateboarding, Red Tape Redemption has already attracted attention with their EP "DRIVING SOUTH", their stirring live version of "DRIVING LIVE" and with their soulful acoustic EP "DISASSEMBLED MAN". They now return with "OLLIE OSBOURNE". An EP, which weaves rough guitar riffs with catchy melodies, combining energy and passion in five powerful songs.
+**[**"DRIVE AWAY"**]** is the single for the upcoming EP **[**"OLLIE OSBOURNE"**]** which will be released on 1st December 2023 on all major streaming platforms.\
+\
+\
+The up-and-coming rock band Red Tape Redemption, consisting of the musicians Tobias and Lukas, continues their creative journey by presenting their new studio EP "OLLIE OSBOURNE" on 1st December 2023.\
+\
+\
+Known for their unique mix of Rock, Blues rock and Punk and a deep connection to Skateboarding, Red Tape Redemption has already attracted attention with their EP "DRIVING SOUTH", their stirring live version of "DRIVING LIVE" and with their soulful acoustic EP "DISASSEMBLED MAN". They now return with "OLLIE OSBOURNE". An EP, which weaves rough guitar riffs with catchy melodies, combining energy and passion in five powerful songs.
 
  <!--EndFragment-->
