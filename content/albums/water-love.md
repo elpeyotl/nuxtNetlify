@@ -8,6 +8,7 @@ date: 2023-07-28T00:12:25.571Z
 isPrivate: false
 recordLabel: The yelling light
 thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc7343422215/assets/ab2c4772357618ab494cc91bf68ca9b8/revisions/98fa7e4472be441eae78e4294f931e35/renditions/c696b9d613816736758464bdd006f74e
+youtubeId: FTV6g-jvTfU?si=D-UrUjbrstvuu03-
 ---
 <!--StartFragment-->
 
