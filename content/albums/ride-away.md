@@ -28,6 +28,6 @@ thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc73434222
 ---
 <!--StartFragment-->
 
-Die aufstrebende Rockband Red Tape Redemption, bestehend aus den Musikern Tobias und Lukas, setzt ihre kreative Reise fort und präsentiert am 1. Dezember 2023 ihre brandneue Studio-EP "Ollie Osbourne".Bekannt für ihren einzigartigen Mix aus Rock, Bluesrock, Punkund einer tiefen Verbundenheit zu Skateboarding hatRed Tape Redemption bereits mit ihrer EP "Driving South", der mitreißenden Liveversion "Driving Live" und der gefühlvollen Acoustic-EP "Disassembled Man" auf sich aufmerksam gemacht.Nun kehren sie mit "Ollie Osbourne" zurück!Eine EP, die raue Gitarrenriffs mit eingängigen Melodien verwebt und Energie und Leidenschaft in fünf kraftvollen Songs vereint.Die EP "Ollie Osbourne" wird am 1. Dezember 2023 veröffentlicht undauf allen gängigen Streaming-Plattformen erhältlich sein.
+Known for their unique mix of Rock, Blues rock and Punk and a deep connection to Skateboarding, Red Tape Redemption has already attracted attention with their EP "Driving South", their stirring live version of "Driving Live" and with their soulful acoustic EP "Disassembled Man". They now return with "Ollie Osbourne". An EP, which weaves rough guitar riffs with catchy melodies, combining energy and passion in five powerful songs.
 
 <!--EndFragment-->
