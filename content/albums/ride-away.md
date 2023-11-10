@@ -5,7 +5,7 @@ genres:
   - Rock
 title: Ride Away
 date: 2023-11-10T20:43:59.196Z
-isPrivate: true
+isPrivate: false
 recordLabel: The yelling light
 lineup: >-
   Red Tape Redemption are: Lukas Oberholzer - Vocals and Guitar 
