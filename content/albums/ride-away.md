@@ -19,7 +19,7 @@ thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc73434222
 ---
 <!--StartFragment-->
 
-**"DRIVE AWAY"** is the single for the upcoming EP **"OLLIE OSBOURNE"**. Released on 1st December 2023 on all major streaming platforms.\
+**"RIDE AWAY"** is the single for the upcoming EP **"OLLIE OSBOURNE"**. Released on 1st December 2023 on all major streaming platforms.\
 \
 \
 The up-and-coming rock band Red Tape Redemption, consisting of the musicians Tobias and Lukas, continues their creative journey by presenting their new studio EP "OLLIE OSBOURNE" on 1st December 2023.\
