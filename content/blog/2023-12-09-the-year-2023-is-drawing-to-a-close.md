@@ -6,7 +6,7 @@ thumbnail: https://lightroom.adobe.com/v2c/spaces/8b9297138d204ea39785128b134c88
 artist: ""
 albums: ""
 ---
-In the summer, the talented [JARLS](https://www.theyellinglight.ch/artists/jarls/) released their first single, "WATER LOVE," followed by their self-titled debut album on December 1st. Naturally, we took the opportunity to capture a current band photo.
+In the summer, the talented [JARLS](https://www.theyellinglight.ch/artists/jarls/) released their first single, "WATER LOVE," followed by their self-titled debut album on December 1st.
 
 A new addition to The Yelling Light circle is [THE KUSHAN EMPIRE](https://www.theyellinglight.ch/artists/the-kushan-empire). The young band from Zurich recently dropped their single "PSILENCE" — a trippy and groovy track exploring interpersonal relationships, letting go, and the tales of "Vega" and "Altair."
 
