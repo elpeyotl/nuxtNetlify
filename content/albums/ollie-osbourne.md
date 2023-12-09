@@ -27,8 +27,8 @@ lineup: |-
   <!--EndFragment-->
 thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc7343422215/assets/bd0315b85d649cc564287521a8bf2087/revisions/40d253544c314d49b7ba12672189f1fa/renditions/5116e43552080188aced6a8656ba57b6
 ---
-The emerging rock band RED TAPE REDEMPTION continues its creative journey, proudly presenting their brand-new studio EP, "OLLIE OSBOURNE," on December 1, 2023. This EP weaves raw guitar riffs with catchy melodies, combining energy and passion in five powerful songs.
+<p>The emerging rock band <strong>RED TAPE REDEMPTION</strong> continues its creative journey, proudly presenting their brand-new studio EP, "<strong>OLLIE OSBOURNE</strong>," on December 1, 2023. This EP weaves raw guitar riffs with catchy melodies, combining energy and passion in five powerful songs.</p>
 
-Known for their unique blend of rock, blues rock, punk, and a deep connection to skateboarding, Red Tape Redemption has already garnered attention with their EP "Driving South," the exhilarating live version "Driving Live," and the soulful acoustic EP "Disassembled Man."
+<p>Known for their unique blend of rock, blues rock, punk, and a deep connection to skateboarding, <strong>Red Tape Redemption</strong> has already garnered attention with their EP "<em>Driving South</em>," the exhilarating live version "<em>Driving Live</em>," and the soulful acoustic EP "<em>Disassembled Man</em>."</p>
 
-Now, here they are with "Ollie Osbourne"! An EP that intertwines raw guitar riffs with catchy melodies, uniting energy and passion in five powerful songs.
+<p>Now, they return with "<strong>Ollie Osbourne</strong>"! An EP that intertwines raw guitar riffs with catchy melodies, uniting energy and passion in five powerful songs.</p>
