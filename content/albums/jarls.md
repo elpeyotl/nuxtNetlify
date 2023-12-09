@@ -5,7 +5,7 @@ genres:
   - Jazz
 title: JARLS
 date: 2023-12-09T21:04:55.068Z
-isPrivate: true
+isPrivate: false
 recordLabel: The yelling light
 lineup: |-
   <!--StartFragment-->
