@@ -43,4 +43,5 @@ thumbnail: https://lightroom.adobe.com/v2c/spaces/a117fbfd04a24df08b00dc73434222
 
 <p>Tugging, unpleasant, melancholic - but also hopeful and ironic. These are the associations that can be found in the songs of the band Jarls from Winterthur. When we speak of Jarls, it is pointless to speak of one specific genre. They combine different musical styles into one and thereby create their own unique style, which is diverse and coherent in itself.</p>
 
+
 <p>Sound worlds as an accompaniment to a complex world, which seems to be full of contradictions and despite dystopian tendencies, always finds a deep and almost magical peace.</p>
