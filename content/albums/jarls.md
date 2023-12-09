@@ -7,7 +7,9 @@ title: JARLS
 date: 2023-12-09T21:04:55.068Z
 isPrivate: false
 recordLabel: The yelling light
-lineup: "JARLS is:\r
+lineup: "JARLS is:
+
+  \r
 
   \r
 
