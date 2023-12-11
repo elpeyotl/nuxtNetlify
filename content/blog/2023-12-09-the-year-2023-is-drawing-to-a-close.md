@@ -18,7 +18,7 @@ The emerging rock band [RED TAPE REDEMPTION](https://www.theyellinglight.ch/arti
 In November, I had the opportunity of taking photos at the second Noise Fest featuring KØDE, Powder for Pigeons, and Dÿse. A big thanks for this cool assignment, Marc & Hathors!
 
 
-Also, big thanks to everyone who came at The yelling light release night with VERWALTZEN, RED TAPE REDEMPTION & JARLS at lokal Winterthur. It was a fantastic, yelling night. 
+Also, big thanks to everyone who came to The yelling light release night with VERWALTZEN, RED TAPE REDEMPTION & JARLS at lokal Winterthur. It was a fantastic, yelling night. 
 
 
 So long, hang on.
