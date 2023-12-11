@@ -12,7 +12,7 @@ In the summer, the talented [JARLS](https://www.theyellinglight.ch/artists/jarls
 A new addition to The yelling light circle is [THE KUSHAN EMPIRE](https://www.theyellinglight.ch/artists/the-kushan-empire). The young band from Zurich recently dropped their single "PSILENCE" — a trippy and groovy track exploring interpersonal relationships, letting go, and the tales of "Vega" and "Altair."
 
 
-The emerging rock band [RED TAPE REDEMPTION](https://www.theyellinglight.ch/artists/red-tape-redemption) continues its creative journey, proudly presenting their brand-new studio EP, "OLLIE OSBOURNE" on December 1, 2023. This EP weaves raw guitar riffs with catchy melodies, combining energy and passion in five powerful songs.
+The emerging rock band [RED TAPE REDEMPTION](https://www.theyellinglight.ch/artists/red-tape-redemption) continues its creative journey, proudly presenting their brand-new studio EP, "OLLIE OSBOURNE" on December 1 st. This EP weaves raw guitar riffs with catchy melodies, combining energy and passion in five powerful songs.
 
 
 In November, I had the opportunity of taking photos at the second Noise Fest featuring KØDE, Powder for Pigeons, and Dÿse. A big thanks for this cool assignment, Marc & Hathors!
