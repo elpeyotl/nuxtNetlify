@@ -15,7 +15,7 @@ A new addition to The yelling light circle is [THE KUSHAN EMPIRE](https://www.th
 The emerging rock band [RED TAPE REDEMPTION](https://www.theyellinglight.ch/artists/red-tape-redemption) continues its creative journey, proudly presenting their brand-new studio EP, "OLLIE OSBOURNE" on December 1 st. This EP weaves raw guitar riffs with catchy melodies, combining energy and passion in five powerful songs.
 
 
-In November, I had the opportunity to take photos at the second Noise Fest featuring KØDE, Powder for Pigeons, and Dÿse. A big thanks for this cool assignment, Marc & Hathors!
+In November, I had the opportunity to take pictures at the second Noise Fest featuring KØDE, Powder for Pigeons, and Dÿse. A big thanks for this cool assignment, Marc & Hathors!
 
 
 Also, big thanks to everyone who came to The yelling light release night with VERWALTZEN, RED TAPE REDEMPTION & JARLS at lokal Winterthur. It was a fantastic, yelling night. 
