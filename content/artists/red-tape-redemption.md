@@ -1,7 +1,7 @@
 ---
 artist: Red Tape Redemption
-isPrivate: false
 date: 2020-12-04T19:33:19.454Z
+isPrivate: false
 description: RED TAPE REDEMTION delivers high octane bluesrock straight out from
   their souls.
 biography: >-
@@ -20,8 +20,8 @@ facebook: https://www.facebook.com/RTRDMT
 instagram: https://www.instagram.com/red_tape_redemption/?hl=en
 youtube: https://www.youtube.com/channel/UCJt7D57uzhZHunHtVCZrUvQ
 email: https://redtaperedemption.bandcamp.com/
-bandcamp: https://redtaperedemption.bandcamp.com/
-website: https://mx3.ch/redtaperedemption
+bandcamp: info@redtaperedemption.ch
+website: https://redtaperedemption.ch/
 webshop: https://redtaperedemption.bandcamp.com/
 ---
 Red Tape Redemption is Lukas Oberholzer & Tobias Kalt.
