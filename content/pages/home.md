@@ -4,8 +4,9 @@ title: Releases 2024
 19.07.24 - [Geist Elbereth](https://www.theyellinglight.ch/artists/geist-elbereth) - Blades of the East (2021)\
 19.07.24 - [Geist Elbereth](https://www.theyellinglight.ch/artists/geist-elbereth) - Chronicles of Shattered Light (2024)
 \﻿
-
-Releases 2023<br><br>
+<br><br>
+Releases 2023
+<br><br>
 
 03.02.23 - [Red Tape Redemption](https://www.theyellinglight.ch/releases/disassembled-man) - Disassembled Man\
 0﻿2.06.23 - [Anthropozän](https://www.theyellinglight.ch/artists/anthropoz%C3%A4n) - Anthropozän\
