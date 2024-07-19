@@ -7,6 +7,7 @@ biography: A ELBERETH! GILTHONIEL!
 thumbnail: /img/ge.jpg
 headerImage: /img/ge.jpg
 spotifyId: 20j9UneelA5Nbp46JVTXpk?si=82zzLfo2Tb6elzWrrgs_Hg
+youtubeId: AnAbE93DaHw?si=Y51xEkcSeQh7BfsT
 bandcamp: https://reposerecords.bandcamp.com/album/blades-of-the-east
 ---
 A ELBERETH! GILTHONIEL!
