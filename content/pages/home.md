@@ -3,7 +3,8 @@ title: Releases 2024
 ---
 19.07.24 - [Geist Elbereth](https://www.theyellinglight.ch/artists/geist-elbereth) - Blades of the East (2021)\
 19.07.24 - [Geist Elbereth](https://www.theyellinglight.ch/artists/geist-elbereth) - Chronicles of Shattered Light (2024)
-\﻿
+
+
 <br><br>
 Releases 2023
 <br><br>
