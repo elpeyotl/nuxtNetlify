@@ -6,7 +6,7 @@ description: Black Metal
 biography: A ELBERETH! GILTHONIEL!
 thumbnail: /img/ge.jpg
 headerImage: /img/ge.jpg
-spotifyId: https://open.spotify.com/artist/20j9UneelA5Nbp46JVTXpk?si=82zzLfo2Tb6elzWrrgs_Hg
+spotifyId: 20j9UneelA5Nbp46JVTXpk?si=82zzLfo2Tb6elzWrrgs_Hg
 bandcamp: https://reposerecords.bandcamp.com/album/blades-of-the-east
 ---
 A ELBERETH! GILTHONIEL!
