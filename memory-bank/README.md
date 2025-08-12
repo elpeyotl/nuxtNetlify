@@ -22,6 +22,9 @@ Netlify-Konfiguration, Build-Pipeline, Performance-Monitoring und Deployment-Wor
 ### [🔧 Troubleshooting](./troubleshooting.md)
 Häufige Probleme und Lösungen, einschließlich Vue-Versionskonflikte, Build-Probleme und Deployment-Issues.
 
+### [🚀 Nuxt 3 Migration Analyse](./nuxt3-migration-analysis.md)
+Detaillierte Analyse für ein mögliches Upgrade von Nuxt 2 auf Nuxt 3, einschließlich Aufwand, Kosten-Nutzen und Empfehlungen.
+
 ## 🎯 Projekt-Kontext
 
 **The Yelling Light** ist ein Schweizer Musiklabel mit einer modernen, JAMstack-basierten Website, die folgende Hauptbereiche abdeckt:

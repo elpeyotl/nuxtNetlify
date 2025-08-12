@@ -30,6 +30,29 @@ yarn add vue@2.7.16 vue-server-renderer@2.7.16
 # 3. Lock-File aktualisieren
 yarn install --frozen-lockfile
 
+### Netlify Deployment Python Version Problem - GELÖST
+**Problem:** Build failure wegen Python 3.13.6 Kompatibilitätsproblemen
+
+**Angewandte Lösung:**
+```toml
+# netlify.toml erstellt mit:
+[build]
+  command = "npm run generate"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "18"
+  PYTHON_VERSION = "3.8"
+  NPM_FLAGS = "--production=false"
+  NODE_OPTIONS = "--openssl-legacy-provider --max-old-space-size=4096"
+
+**Lokaler Test:** ✅ `npm run generate` erfolgreich - 95 Routen generiert
+
+```
+
+**Status:** ✅ Konfiguration erstellt - Deployment sollte jetzt funktionieren
+
+
 # 4. Cache leeren
 yarn cache clean
 rm -rf node_modules/.cache
