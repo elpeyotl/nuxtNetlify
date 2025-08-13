@@ -81,12 +81,11 @@ export default {
 
   // Modules for dev and build (recommended) (https://go.nuxtjs.dev/config-modules)
   buildModules: [
-    // https://go.nuxtjs.dev/eslint
-    // '@nuxtjs/eslint-module', // Temporarily disabled for Netlify deployment
-    // https://go.nuxtjs.dev/tailwindcss
-    // '@nuxtjs/tailwindcss', // Temporarily disabled for Netlify deployment
-    '@nuxtjs/composition-api',
-    // '@nuxtjs/google-analytics', // Temporarily disabled for Netlify deployment
+    // All buildModules temporarily disabled for Netlify deployment due to npx isolation
+    // '@nuxtjs/eslint-module',
+    // '@nuxtjs/tailwindcss',
+    // '@nuxtjs/composition-api',
+    // '@nuxtjs/google-analytics',
   ],
 
   // Modules (https://go.nuxtjs.dev/config-modules)
