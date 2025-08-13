@@ -64,6 +64,22 @@ echo "18" > .nvmrc
 engine-strict=false
 legacy-peer-deps=true
 fund=false
+
+### "nuxt: not found" Build Error - GELÖST
+**Problem:** `sh: 1: nuxt: not found` - Nuxt CLI nicht im PATH verfügbar
+
+**Angewandte Lösung:**
+```toml
+# netlify.toml Build-Command geändert von:
+command = "npm run generate"
+# zu:
+command = "npx nuxt generate"
+```
+
+**Grund:** npx führt lokale Dependencies aus node_modules/.bin aus, auch wenn sie nicht global installiert sind.
+
+**Status:** ✅ Build-Command korrigiert - Deployment sollte jetzt funktionieren
+
 audit=false
 
 # 4. netlify.toml erweitert für bessere npm-Unterstützung
