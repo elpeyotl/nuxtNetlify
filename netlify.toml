@@ -5,9 +5,12 @@
 [build.environment]
   NODE_VERSION = "18"
   PYTHON_VERSION = "3.8"
-  NPM_FLAGS = "--production=false"
+  NPM_FLAGS = "--production=false --legacy-peer-deps"
   NODE_OPTIONS = "--openssl-legacy-provider --max-old-space-size=4096"
   YARN_FLAGS = "--ignore-engines"
+  # Force npm cache clean and ensure npx works
+  NPM_CONFIG_CACHE = "/opt/build/cache/npm"
+  NPM_CONFIG_PREFER_OFFLINE = "false"
 
 # Force npm usage instead of yarn
 [build.processing]

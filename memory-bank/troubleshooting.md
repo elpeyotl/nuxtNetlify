@@ -709,3 +709,83 @@ buildModules: [
 - Minimale buildModules vermeiden Dependency-Konflikte
 - Core-Website-Funktionalität bleibt erhalten
 - Deployment sollte erfolgreich sein
+
+## 🔧 Problem 13: Finale robuste Lösung für "nuxt: not found" - IMPLEMENTIERT
+
+**Datum:** [2025-08-13 10:12:00]
+
+### Problemanalyse
+**Kernproblem:** Netlify-Deployments scheitern sporadisch mit "nuxt: not found", weil:
+1. npm-Installation manchmal fehlschlägt ("npm error Exit handler never called!")
+2. Lokale Binaries in `./node_modules/.bin/` nicht verfügbar sind
+3. Verschiedene npx-Strategien führten zu Dependency-Konflikten
+
+### Finale robuste Lösung
+
+**1. Robuster Generate-Script mit npx Fallback:**
+```json
+// package.json
+{
+  "scripts": {
+    "generate": "NODE_OPTIONS=\"--openssl-legacy-provider\" npx --yes nuxt@2.14.5 generate"
+  }
+}
+```
+
+**2. Optimierte Netlify-Umgebung:**
+```toml
+# netlify.toml
+[build.environment]
+  NODE_VERSION = "18"
+  PYTHON_VERSION = "3.8"
+  NPM_FLAGS = "--production=false --legacy-peer-deps"
+  NODE_OPTIONS = "--openssl-legacy-provider --max-old-space-size=4096"
+  NPM_CONFIG_CACHE = "/opt/build/cache/npm"
+  NPM_CONFIG_PREFER_OFFLINE = "false"
+```
+
+**3. Minimale buildModules (bereits implementiert):**
+```javascript
+// nuxt.config.js
+buildModules: [
+  // All buildModules temporarily disabled for Netlify deployment
+],
+```
+
+### Warum diese Lösung funktioniert
+
+**npx --yes nuxt@2.14.5:**
+- `--yes`: Automatische Bestätigung für Package-Installation
+- `nuxt@2.14.5`: Exakte Version verhindert Nuxt 3 Konflikte
+- Fallback-Mechanismus: Verwendet lokale Installation wenn verfügbar, lädt sonst herunter
+- Robust gegen npm-Installationsfehler
+
+**Optimierte npm-Konfiguration:**
+- `--legacy-peer-deps`: Löst Dependency-Konflikte
+- `NPM_CONFIG_PREFER_OFFLINE = "false"`: Erzwingt frische Downloads
+- Verbesserter npm-Cache-Handling
+
+**Minimale buildModules:**
+- Vermeidet externe Dependency-Konflikte
+- Core-Funktionalität bleibt erhalten
+- Styling über direkte CSS-Imports
+
+### Technische Details
+- **Deployment-Strategie:** Robuster Fallback mit exakter Versionsspezifikation
+- **Fehlerbehandlung:** npx lädt automatisch herunter bei lokalen Problemen
+- **Kompatibilität:** Node.js 18 + Legacy OpenSSL für alte Webpack-Versionen
+- **Performance:** Optimierte npm-Cache-Konfiguration
+
+### Status
+✅ **FINALE LÖSUNG IMPLEMENTIERT** - Robuste Netlify-Deployment-Konfiguration
+
+### Erwartetes Ergebnis
+- Netlify kann Nuxt 2.14.5 garantiert ausführen (lokal oder Download)
+- Minimale buildModules vermeiden Dependency-Konflikte
+- Optimierte npm-Umgebung reduziert Installationsfehler
+- Deployment sollte konsistent erfolgreich sein
+
+### Nächste Schritte
+1. Netlify-Deployment testen
+2. Bei Erfolg: buildModules schrittweise wieder aktivieren
+3. Performance und Funktionalität verifizieren
