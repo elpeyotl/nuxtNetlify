@@ -87,6 +87,26 @@ command = "npm run generate"
 command = "npx nuxt generate"
 ```
 
+### Finale Lösung: package.json Scripts - GELÖST
+**Problem:** Lokale Nuxt-Binaries nicht im PATH verfügbar
+
+**Angewandte Lösung:**
+```json
+// package.json Scripts aktualisiert:
+{
+  "scripts": {
+    "dev": "NODE_OPTIONS=\"--openssl-legacy-provider\" npx nuxt",
+    "build": "NODE_OPTIONS=\"--openssl-legacy-provider\" npx nuxt build", 
+    "generate": "NODE_OPTIONS=\"--openssl-legacy-provider\" npx nuxt@2 generate"
+  }
+}
+```
+
+**Grund:** `npx nuxt@2` stellt sicher, dass die korrekte Nuxt 2 Version verwendet wird, auch in Netlify-Umgebung.
+
+**Status:** ✅ Lokaler Test erfolgreich - 95 Routen generiert, Deployment sollte jetzt funktionieren
+
+
 **Grund:** npm run verwendet die lokale Nuxt 2 Version aus node_modules, npx lädt die neueste Nuxt 3 Version herunter.
 
 **Status:** ✅ Build-Command korrigiert - verwendet jetzt korrekte Nuxt 2 Version
