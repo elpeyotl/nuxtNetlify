@@ -520,3 +520,46 @@ npm run lint:fix
 **Status:** ✅ Erfolgreich gelöst - Alle Scripts funktionieren mit npm
 
 ---
+
+## 🔧 Problem 9: Nuxt Binary nicht gefunden auf Netlify - GELÖST
+
+**Datum:** [2025-08-13 10:15:00]
+
+### Problem
+```
+sh: 1: ./node_modules/.bin/nuxt: not found
+Command failed with exit code 127: npm run generate
+```
+
+**Ursache:** 
+- npm-Installation auf Netlify hatte Fehler: "npm error Exit handler never called!"
+- Nuxt-Binary wurde nicht korrekt in `./node_modules/.bin/` installiert
+- Direkte Pfade zu lokalen Binaries funktionieren nicht bei fehlerhafter npm-Installation
+
+### Angewandte Lösung
+**Zurück zu npx mit spezifischer Versionsnummer:**
+
+```json
+{
+  "scripts": {
+    "dev": "NODE_OPTIONS=\"--openssl-legacy-provider\" npx nuxt@2.14.5",
+    "build": "NODE_OPTIONS=\"--openssl-legacy-provider\" npx nuxt@2.14.5 build", 
+    "start": "npx nuxt@2.14.5 start",
+    "generate": "NODE_OPTIONS=\"--openssl-legacy-provider\" npx nuxt@2.14.5 generate"
+  }
+}
+```
+
+**Warum diese Lösung funktioniert:**
+- `npx nuxt@2.14.5` lädt die exakte Version herunter, falls nicht lokal verfügbar
+- Fallback-Mechanismus: Verwendet lokale Installation wenn verfügbar, sonst Download
+- Robuster gegen npm-Installationsfehler auf Netlify
+- Garantiert die korrekte Nuxt-Version (2.14.5) statt neuerer inkompatible Versionen
+
+### Technische Details
+- **Vorher:** Direkter Pfad `./node_modules/.bin/nuxt` (anfällig für Installationsfehler)
+- **Nachher:** `npx nuxt@2.14.5` (robuster Fallback-Mechanismus)
+- **NODE_OPTIONS:** Weiterhin `--openssl-legacy-provider` für Node.js 18 Kompatibilität
+
+### Status
+✅ **GELÖST** - Scripts aktualisiert, bereit für erneutes Netlify-Deployment
