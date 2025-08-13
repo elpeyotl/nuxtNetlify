@@ -99,6 +99,28 @@ command = "npx nuxt generate"
     "build": "NODE_OPTIONS=\"--openssl-legacy-provider\" npx nuxt build", 
     "generate": "NODE_OPTIONS=\"--openssl-legacy-provider\" npx nuxt@2 generate"
   }
+
+### Dependency-Konflikt mit npx nuxt@2 - GELÖST
+**Problem:** `npx nuxt@2` installiert Nuxt 2.18.1, aber Projekt benötigt lokale Nuxt 2.14.5 Version
+
+**Fehler:** `Cannot find module '@nuxtjs/eslint-module'` - Versionsinkompatibilität zwischen Nuxt-Versionen
+
+**Angewandte Lösung:**
+```json
+// package.json Scripts mit direktem Pfad:
+{
+  "scripts": {
+    "dev": "NODE_OPTIONS=\"--openssl-legacy-provider\" ./node_modules/.bin/nuxt",
+    "build": "NODE_OPTIONS=\"--openssl-legacy-provider\" ./node_modules/.bin/nuxt build",
+    "generate": "NODE_OPTIONS=\"--openssl-legacy-provider\" ./node_modules/.bin/nuxt generate"
+  }
+}
+```
+
+**Grund:** Direkter Pfad zu `./node_modules/.bin/nuxt` verwendet die exakte lokale Version (2.14.5) statt externe npx-Installation.
+
+**Status:** ✅ Scripts korrigiert - verwendet jetzt garantiert die korrekte lokale Nuxt-Version
+
 }
 ```
 
