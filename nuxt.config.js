@@ -92,6 +92,8 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+    // Move Google Analytics to modules for better compatibility
+    '@nuxtjs/google-analytics',
   ],
 
   // Content module configuration (https://go.nuxtjs.dev/content-config)
