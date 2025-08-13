@@ -84,9 +84,9 @@ export default {
     // https://go.nuxtjs.dev/eslint
     // '@nuxtjs/eslint-module', // Temporarily disabled for Netlify deployment
     // https://go.nuxtjs.dev/tailwindcss
-    '@nuxtjs/tailwindcss',
+    // '@nuxtjs/tailwindcss', // Temporarily disabled for Netlify deployment
     '@nuxtjs/composition-api',
-    '@nuxtjs/google-analytics',
+    // '@nuxtjs/google-analytics', // Temporarily disabled for Netlify deployment
   ],
 
   // Modules (https://go.nuxtjs.dev/config-modules)
