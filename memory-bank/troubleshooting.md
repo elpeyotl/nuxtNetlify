@@ -73,6 +73,24 @@ fund=false
 # netlify.toml Build-Command geändert von:
 command = "npm run generate"
 # zu:
+
+### Nuxt 2/3 Versions-Konflikt - GELÖST
+**Problem:** `npx nuxt` installiert automatisch Nuxt 3, aber Projekt ist für Nuxt 2 konfiguriert
+
+**Fehler:** `Cannot resolve module "@nuxt/kit"` - Nuxt 3 CLI versucht Nuxt 2 Projekt zu bauen
+
+**Angewandte Lösung:**
+```toml
+# netlify.toml Build-Command zurück geändert zu:
+command = "npm run generate"
+# statt:
+command = "npx nuxt generate"
+```
+
+**Grund:** npm run verwendet die lokale Nuxt 2 Version aus node_modules, npx lädt die neueste Nuxt 3 Version herunter.
+
+**Status:** ✅ Build-Command korrigiert - verwendet jetzt korrekte Nuxt 2 Version
+
 command = "npx nuxt generate"
 ```
 
