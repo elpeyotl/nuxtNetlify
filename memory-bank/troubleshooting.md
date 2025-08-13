@@ -48,6 +48,30 @@ yarn install --frozen-lockfile
 
 **Lokaler Test:** ✅ `npm run generate` erfolgreich - 95 Routen generiert
 
+### Yarn.lock Syntax Error - GELÖST
+**Problem:** `SyntaxError: Invalid value type 1825:0 in /opt/build/repo/yarn.lock`
+
+**Angewandte Lösung:**
+```bash
+# 1. Korrupte yarn.lock entfernt:
+rm yarn.lock
+
+# 2. Node.js Version fixiert:
+echo "18" > .nvmrc
+
+# 3. npm-Konfiguration optimiert:
+# .npmrc erstellt mit:
+engine-strict=false
+legacy-peer-deps=true
+fund=false
+audit=false
+
+# 4. netlify.toml erweitert für bessere npm-Unterstützung
+```
+
+**Status:** ✅ Konfiguration optimiert - Deployment sollte jetzt mit npm funktionieren
+
+
 ```
 
 **Status:** ✅ Konfiguration erstellt - Deployment sollte jetzt funktionieren

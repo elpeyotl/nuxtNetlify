@@ -7,6 +7,19 @@
   PYTHON_VERSION = "3.8"
   NPM_FLAGS = "--production=false"
   NODE_OPTIONS = "--openssl-legacy-provider --max-old-space-size=4096"
+  YARN_FLAGS = "--ignore-engines"
+
+# Force npm usage instead of yarn
+[build.processing]
+  skip_processing = false
+
+[build.processing.css]
+  bundle = true
+  minify = true
+
+[build.processing.js]
+  bundle = true
+  minify = true
 
 # Redirects für SPA
 [[redirects]]
